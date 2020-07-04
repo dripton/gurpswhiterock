@@ -1,0 +1,71 @@
+Here are some general principles I used for D&D 3.5 to GURPS DF/DFRPG conversion.
+Your opinions may differ.
+
+1 gp of treasure in the adventure equates to $1.  You can either just say that
+in your game $1 = 1 gp if you want the piles-o'-gold-everywhere D&D feel, or
+convert the gold coins to silver or copper if you prefer to keep the DFRPG money
+rules.  (I started off with 1 gp -> $4, and that was way too much treasure.)
+
+1st-level D&D 3.5 characters are around 125 points.  Each additional D&D level
+is about 25 points.  So characters at the bottom of the dungeon (15th level)
+should be around 375 points.  (I gave out too many points; my 5 PCs were around
+500 points when we stopped between levels 12 and 13, which I think was too
+much power for this dungeon.  As a result some of my monster conversions on
+the deeper levels are pretty overpowered, to try to match the PCs.  If you have
+more reasonable PCs then you probably need to tone down the opponents some.)
+
+I did XP per session, but that makes it harder to keep the PCs at the right
+power level, if they finish a dungeon level in a different number of sessions
+than you expected.  (If you think it should take 5 sessions, and they take 12
+sessions, that's a lot of points for going too slowly.)  I would recommend
+instead doing a very small number of XP per session, with significant amounts
+of points for "finishing" a level, and maybe a few bonus points (not too many
+unless you feel your PCs need the help!) for accomplishments like finding
+secret sublevels.
+
+A DC 15 check is an unmodified GURPS skill roll.  Each 5 points of DC is a -2
+to skill.
+
+DC   skill modifier
+10    +2
+15     0
+20    -2
+25    -4
+30    -6
+35    -8
+40   -10
+
+And then interpolate any in-between values: a DC of 22 is a -3, for example.
+
+I tended to convert Masterwork weapons as Fine, +1 weapons as Fine and
+Balanced, +2 as Fine and Balanced and +1 Accuracy and +1 Puissance, etc.
+Assume that people who enchant weapons aren't dumb, and will go for the
+less expensive mundane bonuses before the more expensive magical ones.
+For unbalanced weapons like axes, I often threw on Dwarven, for foes who
+are supposed to be a challenge, since not being able to parry freely is bad.
+Penetrating Weapon is very good, and perhaps appropriate for some bosses,
+especially if your PCs wear a lot of armor.
+
+Alignments are a problem.  Typically, items that only worked for Evil, like the
+Crown of Narborg, I would make incompatible with all the PCs.  For intelligent
+items that are picky about who uses them (Scalemar, Aquil'iya, Charithmysis,
+Spear of Elweiss), I tried to figure out which PCs met their standards, and had
+them shun the others.  (Charithmysis shunned them all, because none was a real
+bard.)
+
+A lot of the monster conversions were found on the GUPRS Wiki and various
+blogs.  If you just web search "GURPS monstername" you often find a good
+starting point, though I had to amp a lot of them up to provide any challenge.
+D&D 3.5 monsters are often huge bags of hit points, which doesn't translate
+that well to GURPS, so I would usually reduce the HP a lot, but give more
+active defenses.
+
+HT has a lot of influence on enemy staying power.  Much less than 12 and they
+go down really fast to spells (in particular, Concussion).  Much more than 13
+and they tend to stay up to -5 * HP, which can get tedious, unless your PCs
+are good at brain shots to give big penalties to stun checks.  Unnatural is
+a good disadvantage choice for a lot of monsters, as it lets them have a lot
+of base HP, but reliably die at -HP instead of -5 * HP.
+
+Check out the blog at https://dfwhiterock.blogspot.com for more general tips
+about running this adventure.
