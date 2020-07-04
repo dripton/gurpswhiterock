@@ -1,0 +1,159 @@
+9C-1:
+
+Teleport trap on door: Traps-6 to find/disable, Will-1 to resist, 7d damage
+
+On the other side of the plug, Hearing-2 to hear shrill noises from the north.
+
+9C-2:
+
+Peduncle Hilspek, Gnome Bard
+SM-1
+ST 12  HP   12 thr 1d-1 sw 1d+2
+DX 12  Will 18
+IQ 16  Per  16
+HT 12  FP   16
+BS 6, Move 5, Dodge 11, Parry 13
+DR 6
+
+Whip-18 (Disarm-22) Knife 16
+
+Whip of Frost   (20)  1d (0.5) cr + 2 cold  Reach 1-5  Parry 13
+Disarm (24)  -5 to -7 to hit, QC of weapon skill, +2 for whip, +2 for 2H
+Fine Long Knife (16)  1d+1 cut, 1d-1 imp    Reach C,1  Parry 13
+
+Honest Face
+Night Vision 5
+Resist Poison 5
+Resist Disease 5
+Widget Worker 2
+Curious (12)
+Languages: Common, Elf, Gnome, Undercommon
+Combat Reflexes
+Enhanced Dodge 1
+Enhanced Parry 1
+Magery 6
+Fit
+Gadgeteering
+
+Spells: Slow-25  Great Haste-25  Simple Illusion-20  Sound-20  Grease-20
+        See Invisible-20
+Skills: Merchant-16  Acrobatics-16 Fast-Talk-16 Thaumatology-16 Alchemy-16
+        Stonemason-20 Diplomacy-16 Stealth-16 Architecture-20 Engineering-20
+        History-20 Mandolin-16 Traps-16
+
+
+
+Treasure:
+Whip of Frost: Fine Balanced Dwarven 5 hex spiked whip, Accuracy +1, Icy Weapon
+Fine Long Knife
+(SM-1) Leather Armor (suit) Fortify +2 Lighten 50%
+Ring of Force DR 2
+Ring of Sustenance: after 1 week, wearer doesn't need to eat or drink
+
+
+Incomprehensible (Mark I)
+
+History-2 for backstory
+History-6 to know there was a prototype
+
+Turmoil Mode: 1d-3 claws attack anyone within 2 hexes
+Claw (20) Reach 2, damage 6d cut
+Detect: Traps-0   Disable: Traps-6
+
+Golden Horn: 2d sonic damage (R-HT for half) to anyone within 10 hexes
+
+
+9C-3:
+
+Advanced Giant Predaceous Diving Beetles (10)
+SM +1
+ST 24  HP   24  thr 2d+1  sw 4d+2
+DX 12  Will 11
+IQ  2  Per  10
+HT 14  FP   14
+BS 6.5
+Move 6  Water Move 6  Dodge 9
+DR 6
+Darkvision
+Air bubble
+Fangs
+Bite (16) Reach C-1, 2d+1 imp, plus poison R-HT or lose 1-3 DX
+    (heals at 1/day, double with rest)
+Survival (any water terrain) at -2 to harvest bubble
+Brawling-16 Jumping-16
+
+9C-4:
+
+Advanced Zombie Sea Cats (6)
+SM +1
+ST 22  HP   22  thr 2d sw 4d
+DX 12  Will 10
+IQ  3  Per  10
+HT 12
+BS 6 Move 6 Dodge 10
+DR 5
+
+Amphibious
+Appearance (Monstrous); Automaton; Bad Smell;
+Cannot Learn; Claws (Sharp); Combat Reflexes;
+Dependency (Loses 1 HP per minute in no-mana areas);
+Dark Vision; Disturbing Voice; Doesnât Breath
+Doesnât Eat or Drink; Doesnâeep; High Pain Threshold;
+Immunity to Disease; Immunity to Mind Control;
+Immunity to Poison; Indomitable; No Blood; No Sense of
+Smell/Taste; Reprogrammable; Single-Minded; Teeth (Sharp);
+Temperature Tolerance 5 (Cold); Temperature Tolerance 5 (Heat);
+Unfazeable; Unhealing (Total); Unliving; Unnatural.
+
+Brawling-18
+Claws (18) 2d cut, Reach C-1
+Teeth (18) 2d cut, Reach C-1
+
+Skullcap of Umgoot:
+covers skull, like a pot-helm  DR 6
+made of bone, from skull of saber-tooth tiger
+decorated with fierce paintings of orcs
+wearer gets Combat Reflexes
+wearer gets -2 to IQ, unless orc or half-orc
+if wearer is orc or half-orc and has IQ 11+ and Will 11+,
+   gains Power Investiture 1 and can learn PI1 cleric spells
+
+
+9C-5:
+Search-1 to find sack under stone
+Traps-6 to detect trap, Traps+2 to disable
+Does 8d6, Dodge-6 to avoid
+Treasure: $5722 in coins, pretty shells (worthless), fake ruby (worthless)
+
+
+9C-6:
+Per-2 to spot bubbles
+
+Advanced Giant Predaceous Diving Beetles (3)
+SM +1
+ST 24  HP   24  thr 2d+1  sw 4d+2
+DX 12  Will 11
+IQ  2  Per  10
+HT 14  FP   14
+BS 6.5
+Move 6  Water Move 6  Dodge 9
+DR 6
+Darkvision
+Air bubble
+Fangs
+Bite (16) Reach C-1, 2d+1 imp, plus poison R-HT or lose 1-3 DX
+    (heals at 1/day, double with rest)
+Survival (any water terrain) at -2 to harvest bubble
+Brawling-16 Jumping-16
+
+Any combat will cause collapse on 6 or less on 3d, +1 per turn
+Dodge-2 to avoid, damage 2d cr  If hit, R-DX or pinned
+ST-2 from unpinned ally to free pinned character.  Failure: 1d-1 cr
+
+Treasure:
+Everburning Torch, broken mandolin, scroll (Create Object),
+Wand of Neutralize Poison (19 charges)
+Wisdom Potion
+Potion of Slipperiness (+4 to Escape or break grapple, poor on floor to Grease)
+Necklace, steel medallion with hen bowing to jester Savoir Faire-6 to recognize
+   Fellowship of the Humbled Hen

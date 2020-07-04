@@ -1,0 +1,997 @@
+Warded Walls: No Shape Earth, Dispel Magic, Seeker, Blink, etc. through walls.
+
+(I allowed Escape-6 to squeeze through arrow slits, and Blink through doors
+and arrow slits only.)
+
+Most ceilings are 8' high
+
+Secret doors: Search-6
+
+NMZ between levels!
+
+
+Wandering:
+d12
+1-7 nothing
+8 Contractors
+9 Trapped chest
+10-11 Guest and Underdeep Vet
+12 Trapped pillar
+
+
+Contractors (would rather parley than fight):
+2 Duergar
+ST 14  HP 14  thr 1d sw 2d
+DX 14  Per  11
+IQ 10  Will 10
+HT 14  FP   13
+BS 8, Move 5
+Combat Reflexes
+High Pain Threshold
+Weapon Master
+Shield Wall Training
+Brawling-16 Knife-16 Wrestling-16 Axe/Mace-20 Crossbow-20 Shield-20
+Boating-10 Stealth-13 Merchant-10 Fast Draw(Potion)-15
+Spells: Enlarge, Invisibility
+Dodge-12 Parry-16 Block-16 (with +3 DB)
+DR 3 (leather, tough skin)
+Fine Balanced Dwarven Mace (21) Reach 1, 2d+8 cr, Parry 0
+if enlarged SM +1, ST 21 HP 21 thr 2d sw 4d-1  mace damage 4d+10 cr
+Tool kit
+$30 of rubies ea.
+$2 ea.
+
+
+Trapped Chest
+Trap, Search/Disable: Traps-7
+Incendiary Cloud spell: Obscures all sight, 4d burning/turn, large area damage
+   6 hex radius, moves 3 hexes/s
+   Retreating dodge out of area of effect = no damage
+   Otherwise, full damage
+"vilkmur" (murder) to arm, "haben" (patience) to disarm
+Lockpicking-10 to open
+No treasure inside
+
+
+Guest
+Alexia Cresh, human sorceress
+ST 10  HP   10  thr 1d-2 sw 1d-1
+DX 13  Per  15
+IQ 15  Will 15
+HT 12  FP   12
+BS 6.25  Move 6
+Dodge-9  Parry-12  (Iron Arm, Blink)
+DR 5
+Curious
+Speaks Common, Undercommon
+Combat Reflexes
+Body Sense-16  Innate Attack-16  Knife-16
+Sorcery Spells (at 20)
+   Iron Arm
+   Improved Invisibility (stays on through attack)
+   Magic Bolt: 2d-1 auto hit, ignores DR
+   Missile Shield
+   Blink
+   Flight
+   Dark Vision
+   Black Tentacles (Area, 6 hex radius, 3 hex reach, Wrestling-20, then Constriction
+     QC: ST-20 vs. ST or HT.  If wins, loser takes margin damage.  Move past at half
+     speed.  Immune to damage.)
+Fine Balanced Ornate Long Knife (17) Reach C,1 1d-2 cut; Reach C, 1d-1 imp
+Twined gold and silver necklace $400
+Gold signet ring $40
+Small paper with Thane's seal
+
+
+Underdeep Veteran
+Duergar
+ST 19  HP   19  thr 2d-1 sw 3d+1
+DX 14  Per  12
+IQ 10  Will 12
+HT 14  FP   14
+BS 8, Move 5
+Combat Reflexes
+High Pain Threshold
+Weapon Master
+Shield Wall Training
+Weapon Bond
+Brawling-16 Knife-16 Wrestling-16 Axe/Mace-20 Broadsword-20 Shield-20
+Boating-10 Stealth-13 Merchant-10 Fast Draw(Potion)-15
+Spells: Enlarge, Invisibility
+Dodge-12 Parry-16 Block-16 (with +3 DB)
+DR 7 (plate, tough skin)
+Fine Balanced Dwarven Falchion (22) Reach 1, 3d+10 cut, 2d+3 imp
+if enlarged SM +1, ST 28 HP 28 thr 3d-1 sw 5d+1 falchion damage 5d+14 cut, 3d+6 imp
+Potion of Major Healing
+$55
+starts Invisible
+key to 11-15
+Key of Corpse Command for 11-35b
+
+
+Trapped Pillar
+"jort" (ready) to activate
+"frekk" (stop) to disarm
+Traps-6 to find, Traps-2 to disable
+Whirling blade: hit all within 2 hexes of pillar,
+Greatsword-24 (Deceptive Attack down to 16 with -4 to defend), 4d cut
+poison: HT-4 to resist, lose 1d ST, another 2d ST after 1 minute
+
+
+
+11-1:
+
+Ceiling 40' above causeway
+Climbing+0 Narborg walls
+Climbing-2 cavern walls
+Climbing-4 pillars
+Beams: 1' wide, DX+2 to avoid falling off
+Pit: Reeks of carrion, offal, and garbage.  Faint droning sound from below.
+
+Destrachan  https://enragedeggplant.blogspot.com/2018/06/monster-destrachan.html
+SM 1
+ST 20 HP   20  thr 2d-1 sw 3d+2
+DX 12 Will 11
+IQ 11 Per  11
+HT 13 FP   13
+BS 6.25
+Move 6
+DR 4
+Dodge 10
+Sharp Claws (10) 2d-2 cut, Reach C-1
+Destructive Harmonics (16): Cone w/ max range 26 yards, max width 10 yards, or
+8 yard radius circle around self
+1 FP per use
+Destructive scream: 4d burning, to one material: flesh, bone, glass, metal, stone, wood, etc.
+R-HT, at -1 per 2 points penetrating damage, or Deaf for 20-HT minutes (min 1)
+Stunning scream: R-HT(+DR/5) or lose consciousness for (margin of failure) minutes
+Acute Hearing 4, Bad Grip 1, Blindness, Callous, Cannot Speak, Discriminatory Hearing,
+Injury Tolerance (No Eyes), Protected Hearing, Sadism (9), Sonar, Subsonic Hearing,
+Ultrahearing, Vibration Sense (Air), Combat Reflexes
+Innate Attack (Breath)-16  Stealth-12
+Size 3 hexes
+
+4 Duergar Watch
+ST 14  HP 14  thr 1d sw 2d
+DX 14  Per  11
+IQ 10  Will 10
+HT 14  FP   13
+BS 8, Move 5
+Combat Reflexes
+High Pain Threshold
+Weapon Master
+Shield Wall Training
+Brawling-16 Knife-16 Wrestling-16 Axe/Mace-20 Crossbow-20 Shield-20
+Boating-10 Stealth-13 Merchant-10 Fast Draw(Potion)-15
+Spells: Enlarge, Invisibility
+Dodge-12 Parry-16 Block-16 (with +3 DB)
+DR 5 (scale, tough skin)
+Fine Balanced Dwarven Mace (21) Reach 1, 2d+8 cr, Parry 0
+if enlarged SM +1, ST 21 HP 21 thr 2d sw 4d-1  mace damage 4d+10 cr
+Crossbow (ST 21) (20)  Acc 4, 2d+4 imp, or 2d+4 (2) with bodkin
+Quiver, 5 imp bolts, 5 bodkin bolts
+Potion of See Invisible
+Potion of Minor Healing
+Whistle
+$10, $6, $11, $8
+
+Firing deck (11-19) has 8 more Duergar Watch, with crossbows
+Each has one Inertial Bolt +1 +1 skill, +1 damage, Slam attack, ST 21, +1 on slam
+Behind arrow slits: Exploits 42, head/neck/arms/hands exposed
+Pop-up attack: Exploits 42, no aim, -2 to hit
+
+
+11-2
+Gate: DR 8, 540 HP, ST-14 to break
+
+Alarm spell on back of gate, password "Hrolad"
+
+Crank: ST-2 to open gate each 5'
+
+Duergar Watch Captain, Hutgreth
+ST 20  HP   20  thr 2d-1 sw 3d+2
+DX 14  Per  11
+IQ 10  Will 10
+HT 14  FP   13
+BS 8, Move 5
+if enlarged SM +1, ST 30 HP 30 thr 3d sw 5d+2
+Combat Reflexes
+High Pain Threshold
+Weapon Master
+Shield Wall Training
+Brawling-16 Knife-16 Wrestling-16 Axe/Mace-24 Crossbow-16 Shield-20 Net-20
+Boating-10 Stealth-13 Merchant-10 Fast Draw(Potion)-15  Leadership etc.
+Spells: Enlarge, Invisibility
+Dodge-12 Parry-19 Block-16 (with +3 DB)
+DR 5 (tough skin)
+Fine Balanced Dwarven Mace (24) Reach 1, cr 3d+10 / 5d+15
+Large shield
+Whistle
+Key of Corpse Command
+$8
+
+
+Zombie Ettin
+SM 2
+ST 26   HP:   26      thr 2d+2  sw 5d
+DX 10   Will: 10    Speed 5.5
+IQ  8   Per:  10     Move 5/8
+HT 12   FP:   12
+Dodge 9 Parry: 10  DR 4 (Hide armor, Tough Skin)
+Punch (12) 3d crushing. Reach C, 1.
+2 Fine Balanced Dwarven Morningstars (14) Reach 2  5d+3 cr, -2 to block, -4 to parry
+4 Javelins (13) 2d+3 imp Range 39/65
+Traits Acute Sense of Smell and Taste 2; Ambidextrous; Bully (12);
+   Combat Reflexes; Compartmentalized Mind 1; Discriminatory Smell;
+   Enhanced Move 0.5 (Ground Move 8); Extra Attack 1; Extra Head 1; Hidebound;
+   High Pain Threshold; Loner (12); Night Vision 5; Peripheral Vision;
+   Short Attention Span (12).
+Skills Animal Handling-12; Flail-13; Brawling-12; Tactics-10; Wrestling-12;
+   Riding-12; Spear-13; Spear Throwing-13
+Notes Per 11 when using Smell.  Effective ST 28 when grappling, owing to Wrestling.
+Zombie Traits: HPT, Unfazeable, Unliving, Unnatural (die at -1 * HP)
+
+11-3:
+All locks are Lockpicking-10
+
+6 Zombie Ettin in secret rooms
+SM 2
+ST 26   HP:   26      thr 2d+2  sw 5d
+DX 10   Will: 10    Speed 5.5
+IQ  8   Per:  10     Move 5/8
+HT 12   FP:   12
+Dodge 9 Parry: 10  DR 4 (Hide armor, Tough Skin)
+Punch (12) 3d crushing. Reach C, 1.
+2 Fine Balanced Dwarven Morningstars (14) 5d+3 cr, -2 to block, -4 to parry
+4 Javelins (13) 2d+3 imp Range 39/65
+Traits Acute Sense of Smell and Taste 2; Ambidextrous; Bully (12);
+   Combat Reflexes; Compartmentalized Mind 1; Discriminatory Smell;
+   Enhanced Move 0.5 (Ground Move 8); Extra Attack 1; Extra Head 1; Hidebound;
+   High Pain Threshold; Loner (12); Night Vision 5; Peripheral Vision;
+   Short Attention Span (12).
+Skills Animal Handling-12; Flail-13; Brawling-12; Tactics-10; Wrestling-12;
+   Riding-12; Spear-13; Spear Throwing-13
+Notes Per 11 when using Smell.  Effective ST 28 when grappling, owing to Wrestling.
+Zombie Traits: HPT, Unfazeable, Unliving, Unnatural (die at -1 * HP)
+
+Also 8 Duergar with crossbows from 11-19 move to 11-6, 11-17, 11-18
+
+
+11-4:
+Gate: DR 8, 540 HP, ST-14 to break
+
+Alarm spell on back of gate, password "Hrolad"
+
+Crank: ST-2 to open gate each 5'
+
+Duergar Watch Captain
+ST 20  HP   20  thr 2d-1 sw 3d+2
+DX 14  Per  11
+IQ 10  Will 10
+HT 14  FP   13
+BS 8, Move 5
+if enlarged SM +1, ST 30 HP 30 thr 3d sw 5d+2
+Combat Reflexes
+High Pain Threshold
+Weapon Master
+Shield Wall Training
+Brawling-16 Knife-16 Wrestling-16 Axe/Mace-24 Crossbow-16 Shield-20 Net-20
+Boating-10 Stealth-13 Merchant-10 Fast Draw(Potion)-15  Leadership etc.
+Spells: Enlarge, Invisibility
+Dodge-12 Parry-19 Block-16 (with +3 DB)
+DR 5 (tough skin)
+Fine Balanced Dwarven Mace (24) Reach 1, cr 3d+10 / 5d+15
+Large shield
+Whistle
+Key of Corpse Command
+$8
+
+
+Zombie Ettin
+SM 2
+ST 26   HP:   26      thr 2d+2  sw 5d
+DX 10   Will: 10    Speed 5.5
+IQ  8   Per:  10     Move 5/8
+HT 12   FP:   12
+Dodge 9 Parry: 10  DR 4 (Hide armor, Tough Skin)
+Punch (12) 3d crushing. Reach C, 1.
+2 Fine Balanced Dwarven Morningstars (14) 5d+3 cr, -2 to block, -4 to parry
+4 Javelins (13) 2d+3 imp Range 39/65
+Traits Acute Sense of Smell and Taste 2; Ambidextrous; Bully (12);
+   Combat Reflexes; Compartmentalized Mind 1; Discriminatory Smell;
+   Enhanced Move 0.5 (Ground Move 8); Extra Attack 1; Extra Head 1; Hidebound;
+   High Pain Threshold; Loner (12); Night Vision 5; Peripheral Vision;
+   Short Attention Span (12).
+Skills Animal Handling-12; Flail-13; Brawling-12; Tactics-10; Wrestling-12;
+   Riding-12; Spear-13; Spear Throwing-13
+Notes Per 11 when using Smell.  Effective ST 28 when grappling, owing to Wrestling.
+Zombie Traits: HPT, Unfazeable, Unliving, Unnatural (die at -1 * HP)
+
+11-5:
+West door is unlocked.  Others are Lockpicking-6
+
+Statue cubbyhole door: Traps -8 to find or disable
+Lightning Bolt: 10d6, Dodge-4 for half
+
+Barrel with 40 bolts
+
+11-6:
+
+Duergar Watch Captain
+ST 20  HP   20  thr 2d-1 sw 3d+2
+DX 14  Per  11
+IQ 10  Will 10
+HT 14  FP   13
+BS 8, Move 5
+if enlarged SM +1, ST 30 HP 30 thr 3d sw 5d+2
+Combat Reflexes
+High Pain Threshold
+Weapon Master
+Shield Wall Training
+Brawling-16 Knife-16 Wrestling-16 Axe/Mace-24 Crossbow-16 Shield-20 Net-20
+Boating-10 Stealth-13 Merchant-10 Fast Draw(Potion)-15  Leadership etc.
+Spells: Enlarge, Invisibility
+Dodge-12 Parry-19 Block-16 (with +3 DB)
+DR 5 (tough skin)
+Fine Balanced Dwarven Axe-Hammer (24) Reach 1, cut or cr 3d+10 / 5d+15
+Large shield
+6 Keys of Corpse Command
+Master Key
+Potion of Major Healing
+Cloak of Resistance +1
+
+8 Duergar Mercenaries
+ST 14  HP 14  thr 1d sw 2d
+DX 14  Per  11
+IQ 10  Will 10
+HT 14  FP   13
+BS 8, Move 5
+Combat Reflexes
+High Pain Threshold
+Weapon Master
+Shield Wall Training
+Brawling-16 Knife-16 Wrestling-16 Axe/Mace-20 Crossbow-20 Shield-20
+Boating-10 Stealth-13 Merchant-10 Fast Draw(Potion)-15
+Spells: Enlarge, Invisibility
+Dodge-12 Parry-16 Block-16 (with +3 DB)
+DR 5 (scale, tough skin)
+Fine Balanced Dwarven Mace (21) Reach 1, 2d+8 cr, Parry 0
+if enlarged SM +1, ST 21 HP 21 thr 2d sw 4d-1  mace damage 4d+10 cr
+Crossbow (ST 21) (20)  Acc 4, 2d+4 imp, or 2d+4 (2) with bodkin
+Quiver, 20 imp bolts, 20 bodkin bolts
+Potion of Minor Healing
+Halved Helm badge  Savoir-Faire-2 (Dwarven) or History-4 to know of Halved Helm
+$7, 12, 11, 8, 9, 13, 7, 5
+
+11-7:
+No Random Encounter
+Chests: Lockpicking-2 per half
+Clothes, contracts to work for Halved Helm
+4 Potions of Minor Healing
+Fine dagger
+Dwarven light mace
+Fine kukri
+Fine brass knuckles
+Gems: 2 $10 hematites, 2 $20 agates, $30 obsidian, $40 magnetite
+Coins: $70
+
+11-8:
+Door Lockpicking-6
+No Random Encounter
+Clothing, letters
+Fine thieves' tools
+dwarven whetstone
+wooden holy symbol of Sodoutym
+$64
+
+11-9:
+No Random Encounter
+5 books, each worth $30
+Contract for The Company of Black Osprey, signed by "Wulfrun"
+Spellbook, in dwarven:
+Enlarge, Invisibility, Gift of Tongues, Blink, Iron Arm, Great Haste, Mind Reading,
+Missile Shield, Acid Jet, Flame Jet, See Invisible, Truthsayer, Dispel Magic, Alarm,
+Reverse Missiles, Great Haste, Dimension Door, Daze, Mass Daze, Grease, Lightning Bolt,
+Explosive Lightning, Deflect, Concussion
+
+11-10a:
+Listening: hear stone grinding on stone
+ceiling 25'
+
+Duergar Mercenary Chaplain
+ST 14  HP 14  thr 1d sw 2d
+DX 14  Per  11
+IQ 10  Will 10
+HT 14  FP   13
+BS 8, Move 5
+Combat Reflexes
+High Pain Threshold
+Weapon Master
+Shield Wall Training
+Power Investiture 6
+Brawling-16 Knife-16 Wrestling-16 Axe/Mace-20 Crossbow-20 Shield-20
+Boating-10 Stealth-13 Merchant-10 Fast Draw(Potion)-15
+Inherent Spells: Enlarge, Invisibility
+Cleric Spells: Bless, Missile Shield, Walk on Water, Curse, Dispel Magic, Major Healing,
+Remove Curse, Deflect, Iron Arm, Blink
+Dodge-12 Parry-16 Block-16 (with +3 DB)
+DR 5 (scale, tough skin)
+Fine Balanced Dwarven Morningstar (21) Reach 1, 2d+8 cr, Parry 0  -4/-2 to parry/block
+if enlarged SM +1, ST 21 HP 21 thr 2d sw 4d-1  mace damage 4d+10 cr
+Potion of Major Healing
+Phylactery of Faithfulness: small box on leather cord, aware of how to stay on deity's path
+Wooden Holy Symbol
+Key
+
+Stone Golem
+SM 1
+ST 25   HP   50  thr 2d+2 sw 5d-1
+DX 12   Will 15
+IQ  8   Per  10
+HT 14
+BS 6.5, Move 6
+DR 10
+Dodge 10, Parry 14, Parry Missile Weapons
+Unfazeable, High Pain Threshold
+Huge Dwarven Maul (20): Reach 1,2,3, 5d+5 cr
+Sumo-16 Karate-16
+Slow: R-HT-1 or slowed
+Unnatural: dies at -HP
+
+2 Duergar Mercenaries
+ST 14  HP 14  thr 1d sw 2d
+DX 14  Per  11
+IQ 10  Will 10
+HT 14  FP   13
+BS 8, Move 5
+Combat Reflexes
+High Pain Threshold
+Weapon Master
+Shield Wall Training
+Brawling-16 Knife-16 Wrestling-16 Axe/Mace-20 Crossbow-20 Shield-20
+Boating-10 Stealth-13 Merchant-10 Fast Draw(Potion)-15
+Spells: Enlarge, Invisibility
+Dodge-12 Parry-16 Block-16 (with +3 DB)
+DR 5 (scale, tough skin)
+Fine Balanced Dwarven Mace (21) Reach 1, 2d+8 cr, Parry 0
+if enlarged SM +1, ST 21 HP 21 thr 2d sw 4d-1  mace damage 4d+10 cr
+Crossbow (ST 21) (20)  Acc 4, 2d+4 imp, or 2d+4 (2) with bodkin
+Quiver, 20 imp bolts, 20 bodkin bolts
+Potion of Minor Healing
+Halved Helm badge  Savoir-Faire-2 (Dwarven) or History-4 to know of Halved Helm
+$11
+
+11-10b:
+Listen at secret door: grunts, growls, clacking
+
+Skum says "feed me" in Aquan, attacks if allowed
+ST 18   HP   18
+DX 12   Will 10
+IQ 10   Per  12
+HT 11   FP   11
+BS 5.75 Move 5
+SM 0
+Dodge 8  Parry 9  DR 2
+Claw (12) Reach C, 1d+1 cut
+Rake (10) Reach C,1 1d+2 cut
+Bite (12) Reach C 1d+1 cut
+Amphibious, Dark Vision, Sharp Teeth/Claws
+Brawling-12, Wrestling-12, Observation-11, Stealth-11
+
+
+
+Giant Bombardier Beetle
+https://pseudoboo.blogspot.com/2016/02/encounter-dire-bombardier-beetle.html
+attacks if allowed
+SM 1
+ST 19  HP   10
+DX 10  Will 10
+IQ  4  Per  10
+HT 10  FP   10
+Dodge 8
+DR 10 back, 2 front/head, 0 vitals
+Bite (14) Reach C-1, 2d cut
+Burning Spray (10) Acc 3, Range 10/100, 2d burn
+if hit (even if DR protected) R-HT or nausea for margin of failure * 10 minutes
+Spray worth $400
+Shell worth $200
+
+
+
+Trollhound runs if possible, fights if cornered
+ST 14  HP  18
+DX 12
+IQ  3  Will 11  Per 13
+HT 13
+DR 2
+SM 0
+Move 6
+Regenerate 1 HP/turn except fire/acid.
+Bite (12) 1d cut + disease + grapple as free action
+After grapple, can worry for auto-hit each turn, same damage
+Bloodfire Fever: R-HT.  Onset: 1 day, frequency 1/day
+Each day, R-HT or lose 1-2 ST, 1-2 DX, 1 FP.
+Cured if resisted twice in a row.
+Pus-filled blisters.
+
+
+Dire Rat runs if possible, fights if cornered
+SM 0
+ST 14  HP   12  thr 1d sw 2d
+DX 13  Will 10
+IQ  4  Per  10
+HT 13  FP   13
+BS 6.5 Move 6
+DR 2
+Dodge 9
+Night Vision 5, Scent
+Sharp Teeth
+Brawling-15
+Climbing-15
+Swimming-15
+Bite (15) 1d cut
+Filth Fever R-HT, 1-3 DX and 1-3 HT after 1-3 days  R-poison applies
+
+11-11:
+Theology-2: statue of Sodoutym, Dark Foe, Hellbeard
+Patron of honorless warriors, assassins, greed
+Symbol: swarm of bats
+Weapon: scourge
+
+11-12:
+Locked, Lockpicking-6
+No Random Encounter
+2 mail suits, 1 mail shirt
+8 dwarven maces
+12 fine large knives
+4 fine crossbows ST 21
+6 fine long spears
+book: what equipment has been issued to each mercenary, lost and abused equipment
+(32 mercenaries mentioned)
+Thurvak, Grossvan
+
+11-13:
+usually empty but mercs from 11-6 can be here
+
+11-14:
+Listen: voices talking quietly
+
+12 Duergar Mercenaries
+ST 14  HP 14  thr 1d sw 2d
+DX 14  Per  11
+IQ 10  Will 10
+HT 14  FP   13
+BS 8, Move 5
+Combat Reflexes
+High Pain Threshold
+Weapon Master
+Shield Wall Training
+Brawling-16 Knife-16 Wrestling-16 Axe/Mace-20 Crossbow-20 Shield-20
+Boating-10 Stealth-13 Merchant-10 Fast Draw(Potion)-15
+Spells: Enlarge, Invisibility
+Dodge-12 Parry-16 Block-16 (with +3 DB)
+DR 5 (scale, tough skin)
+Fine Balanced Dwarven Mace (21) Reach 1, 2d+8 cr, Parry 0
+if enlarged SM +1, ST 21 HP 21 thr 2d sw 4d-1  mace damage 4d+10 cr
+Crossbow (ST 21) (20)  Acc 4, 2d+4 imp, or 2d+4 (2) with bodkin
+Quiver, 20 imp bolts, 20 bodkin bolts
+Potion of Minor Healing
+Key
+
+$107 total on mercs
+chests: Lockpicking-2, or use keys
+clothing etc.
+fine light mace
+fine throwing awe
+2 potions Minor Healing
+5 gems: 20 citrine, 30 topaz, 30 amethyst, 40 opal, 40 pearl
+$37
+
+11-15:
+Lockpicking-10
+Random Encounter - Trapped Chest
+No treasure.  Clothes, letter from Thane, 7 drow ears on a string
+
+11-16:
+No Random Encounter
+4 casks stout beer: $100 ea.
+cask of brandy: $400
+
+11-17:
+3 levers for portcullises, 4 mercs from 11-19 sometimes here
+
+11-18:
+4 mercs and enchanter from 11-19 sometimes here
+
+11-19:
+8 Duergar Mercenaries
+ST 14  HP 14  thr 1d sw 2d
+DX 14  Per  11
+IQ 10  Will 10
+HT 14  FP   13
+BS 8, Move 5
+Combat Reflexes
+High Pain Threshold
+Weapon Master
+Shield Wall Training
+Brawling-16 Knife-16 Wrestling-16 Axe/Mace-20 Crossbow-20 Shield-20
+Boating-10 Stealth-13 Merchant-10 Fast Draw(Potion)-15
+Spells: Enlarge, Invisibility
+Dodge-12 Parry-16 Block-16 (with +3 DB)
+DR 5 (scale, tough skin)
+Fine Balanced Dwarven Mace (21) Reach 1, 2d+8 cr, Parry 0
+if enlarged SM +1, ST 21 HP 21 thr 2d sw 4d-1  mace damage 4d+10 cr
+Crossbow (ST 21) (20)  Acc 4, 2d+4 imp, or 2d+4 (2) with bodkin
+Quiver, 20 imp bolts, 20 bodkin bolts
+Each has one Inertial Bolt +1 +1 skill, +1 damage, Slam attack, ST 21, +1 on slam
+Behind arrow slits: Exploits 42, head/neck/arms/hands exposed
+Pop-up attack: Exploits 42, no aim, -2 to hit
+Potion of Minor Healing
+$13, 13, 9, 6, 14, 9, 10, 6
+
+
+Duergar Mercenary Enchanter
+ST 10  HP   13
+DX 12  Per  13
+IQ 15  Will 15
+HT 12  FP   15  ER 3
+BS 6  Move 5
+Dodge-9  Parry-12  (Iron Arm, Blink)
+DR 5
+Magery 6
+Curious
+Authority of Command: give +2 passive / +4 active to subordinates' attacks and Will
+Speaks Common, Giant, Undercommon, Dwarf
+Combat Reflexes
+Body Sense-16  Innate Attack-16  Knife-14
+Spells:
+Enlarge, Invisibility, Gift of Tongues, Blink, Iron Arm, Great Haste, Mind Reading,
+Missile Shield, Acid Jet, Flame Jet, See Invisible, Truthsayer, Dispel Magic, Alarm,
+Reverse Missiles, Great Haste, Dimension Door, Daze, Mass Daze, Grease, Lightning Bolt,
+Explosive Lightning, Deflect, Concussion
+Magic Bolt: 2d-1 auto hit, ignores DR
+Fine Balanced Ironwood Long Knife w/ Staff, Scale Armor, Ring of Force DR1
+Potion of Major Healing
+Potion of Stone Salve (Stone to Flesh, Stoneskin DR3)
+Ring of Force DR1
+Key
+
+11-20:
+Lockpicking-10
+Search-6 to find secret compartment in statue
+$2772, 14 $100 chrysoberyls, papers with accounting notes
+
+11-21:
+Lockpicking-10
+
+3 Duergar Deep Watch
+ST 14  HP   14  thr 1d sw 2d
+DX 14  Per  11
+IQ 10  Will 10
+HT 14  FP   13
+BS 8, Move 5
+Combat Reflexes
+High Pain Threshold
+Weapon Master
+Shield Wall Training
+Brawling-16 Knife-16 Wrestling-16 Axe/Mace-20 Crossbow-20 Shield-20
+Boating-10 Stealth-13 Merchant-10 Fast Draw(Potion)-15
+Spells: Enlarge, Invisibility
+Dodge-12 Parry-16 Block-16 (with +3 DB)
+DR 5 (scale, tough skin)
+Fine Balanced Dwarven Axe (23) Reach 1, 2d+7 cr, Parry 0
+if enlarged SM +1, ST 21 HP 21 thr 2d sw 4d-1  axe damage 4d+9 cr
+Potion of Major Healing
+Cloak of Resistance +1
+2 $100 red garnets
+$17, $14
+key
+
+2 Giant Badgers (hiding)
+SM 0
+ST 18  HP   18  thr 1d+2  sw 3d
+DX 11  Will 11
+IQ  5  Per  10
+HT 13  FP   13
+BS 5.75
+Move 4
+Dodge 8
+DR 2
+Brawling-16
+Claws (16) 1d+2 cut
+Teeth (16) 1d+1 cr
+
+Elder Earth Elemental (under floor)
+SM 2
+ST 33  HP   33  thr 3d+2  sw 6d
+DX  8  Will 12
+IQ 10  Per  11
+HT 14  FP   14
+BS 5.5 Move 5
+Dodge 8, Parry 13
+DR 15
+Earth Mastery: +1 to attack and damage if both it and target on ground; -4 if airborne
+Earth Glide: swim through stone, dirt, etc. (not metal)
+360' vision, High Pain Threshold
+Brawling-20  Sumo-20
+Slam  (20) 3d+6 cr
+Punch (20) Reach C-2, 3d+7 cr
+
+11-22:
+4 Duergar Veterans
+ST 14  HP   14  thr 1d sw 2d
+DX 14  Per  11
+IQ 10  Will 10
+HT 14  FP   13
+BS 8, Move 5
+Combat Reflexes
+High Pain Threshold
+Weapon Master
+Shield Wall Training
+Brawling-16 Knife-16 Wrestling-16 Axe/Mace-22 Crossbow-20 Shield-22
+Boating-10 Stealth-13 Merchant-10 Fast Draw(Potion)-15
+Spells: Enlarge, Invisibility
+Dodge-12 Parry-16 Block-16 (with +3 DB)
+DR 9 (heavy plate, tough skin, ring of force)
+Fine Balanced Dwarven Axe (23) Reach 1, 2d+7 cr, Parry 0
+(1) Fine Punch Dagger
+if enlarged SM +1, ST 21 HP 21 thr 2d sw 4d-1  axe damage 4d+9 cr
+Potion of Major Healing
+$81, $35
+keys
+
+Destrachan  https://enragedeggplant.blogspot.com/2018/06/monster-destrachan.html
+SM 1
+ST 20 HP   20  thr 2d-1 sw 3d+2
+DX 12 Will 11
+IQ 11 Per  11
+HT 13 FP   13
+BS 6.25
+Move 6
+DR 4
+Dodge 10
+Sharp Claws (10) 2d-2 cut, Reach C-1
+Destructive Harmonics (16): Cone w/ max range 26 yards, max width 10 yards, or
+8 yard radius circle around self
+1 FP per use
+Destructive scream: 4d burning, to one material: flesh, bone, glass, metal, stone, wood, etc.
+R-HT, at -1 per 2 points penetrating damage, or Deaf for 20-HT minutes (min 1)
+Stunning scream: R-HT(+DR/5) or lose consciousness for (margin of failure) minutes
+Acute Hearing 4, Bad Grip 1, Blindness, Callous, Cannot Speak, Discriminatory Hearing,
+Injury Tolerance (No Eyes), Protected Hearing, Sadism (9), Sonar, Subsonic Hearing,
+Ultrahearing, Vibration Sense (Air), Combat Reflexes
+Innate Attack (Breath)-16  Stealth-12
+Size 3 hexes
+
+11-23
+6 Duergar Veterans (after 2 from other side)
+ST 14  HP   14  thr 1d sw 2d
+DX 14  Per  11
+IQ 10  Will 10
+HT 14  FP   13
+BS 8, Move 5
+Combat Reflexes
+High Pain Threshold
+Weapon Master
+Shield Wall Training
+Brawling-16 Knife-16 Wrestling-16 Axe/Mace-22 Crossbow-20 Shield-22
+Boating-10 Stealth-13 Merchant-10 Fast Draw(Potion)-15
+Spells: Enlarge, Invisibility
+Dodge-12 Parry-16 Block-16 (with +3 DB)
+DR 9 (heavy plate, tough skin, ring of force)
+Fine Balanced Dwarven Axe (23) Reach 1, 2d+7 cr, Parry 0
+Fine Punch Dagger
+if enlarged SM +1, ST 21 HP 21 thr 2d sw 4d-1  axe damage 4d+9 cr
+Potion of Major Healing
+$81, $35
+keys
+
+Destrachan  https://enragedeggplant.blogspot.com/2018/06/monster-destrachan.html
+SM 1
+ST 20 HP   20  thr 2d-1 sw 3d+2
+DX 12 Will 11
+IQ 11 Per  11
+HT 13 FP   13
+BS 6.25
+Move 6
+DR 4
+Dodge 10
+Sharp Claws (10) 2d-2 cut, Reach C-1
+Destructive Harmonics (16): Cone w/ max range 26 yards, max width 10 yards, or
+8 yard radius circle around self
+1 FP per use
+Destructive scream: 4d burning, to one material: flesh, bone, glass, metal, stone, wood, etc.
+R-HT, at -1 per 2 points penetrating damage, or Deaf for 20-HT minutes (min 1)
+Stunning scream: R-HT(+DR/5) or lose consciousness for (margin of failure) minutes
+Acute Hearing 4, Bad Grip 1, Blindness, Callous, Cannot Speak, Discriminatory Hearing,
+Injury Tolerance (No Eyes), Protected Hearing, Sadism (9), Sonar, Subsonic Hearing,
+Ultrahearing, Vibration Sense (Air), Combat Reflexes
+Innate Attack (Breath)-16  Stealth-12
+Size 3 hexes
+
+11-24:
+No Random encounter
+Storeroom: cloth, leather, sacks, string, feathers, etc.
+
+11-25:
+No Random encounter
+Search -3 on balcony to find loose board.  Under: 5 $1000 star rubies
+
+11-26:
+No Random encounter
+4 $75 bloodstones in clothes
+
+11-27:
+No Random encounter
+
+11-28a:
+No Random encounter
+
+11-28b:
+Doors labeled "DANGER" in Dwarven, Halfling
+2 boxes of brown mold, $3000 ea. if can be transported intact
+
+11-28c:
+Door is barred from outside
+Listen+4: low whistling inside
+Talladay Arrowmelt, Halfling prisoner/cook
+Orichalcum kitchen knife
+Escape-8 to fit in tunnel
+
+11-29:
+Duergar Mercenary Commander
+ST 20  HP   20  thr 2d-1 sw 3d+2
+DX 14  Per  12
+IQ 12  Will 12
+HT 14  FP   13
+BS 8, Move 5
+if enlarged SM +1, ST 30 HP 30 thr 3d sw 5d+2
+Combat Reflexes
+High Pain Threshold
+Weapon Master
+Shield Wall Training
+Extra Attack 2
+Every One's a Critical
+Rapier Wit
+Luck
+Peripheral Vision
+Brawling-16 Knife-16 Wrestling-16 Axe/Mace-20 Rapier-25 Crossbow-16 Shield-20 Net-20
+Boating-10 Stealth-13 Merchant-10 Fast Draw(Potion)-15  Leadership etc.
+Magery 4
+Spells: Enlarge, Invisibility, Great Haste, See Invisibility
+Dodge-12 Parry-19 Block-16 (with +3 DB)
+DR 5 (scale, tough skin)
+ST 20 Fine Balanced Edged Rapier of Shocking (27) Reach 1,2 3d+9+2 cut or 2d+5+2 imp
+ST 30 Fine Balanced Edged Rapier of Shocking (27) Reach 1,2 5d+13+2 cut or 3d+7+2 imp
+Large shield
+Cloak of Resistance +1
+Ring of 4 keys
+Potion of Major Healing
+
+2 Duergar Mercenary Spies
+ST 20  HP   20  thr 2d-1 sw 3d+2
+DX 14  Per  12
+IQ 12  Will 14
+HT 14  FP   13
+BS 8, Move 5
+if enlarged SM +1, ST 30 HP 30 thr 3d sw 5d+2
+Combat Reflexes
+High Pain Threshold
+Weapon Master
+Shield Wall Training
+Extra Attack 2
+Every One's a Critical
+Unfazeable
+Brawling-16 Knife-16 Wrestling-16 Axe/Mace-20 Rapier-25 Crossbow-16 Shield-20 Net-20
+Stealth-20 Lockpicking-20 Escape-20
+Boating-10 Stealth-13 Merchant-10 Fast Draw(Potion)-15  Leadership etc.
+Magery 4
+Spells: Enlarge, Invisibility, Great Haste, See Invisibility
+Dodge-12 Parry-19 Block-16 (with +3 DB)
+DR 4 (heavy leather, tough skin)
+ST 20 Fine Balanced Dwarven Mace (24) Reach 1, cr 3d+10
+ST 30 Fine Balanced Dwarven Mace (24) Reach 1, cr 5d+15
+Globe of Burnt Othur Fumes: R-HT-1, or lose 1 HT now, 3d6 HT in 1 minute.  Area 4.
+Large shield
+Cloak of Resistance +1
+Potion of Major Healing
+
+11-30:
+No Random Encounter
+
+11-31:
+No Random Encounter
+
+11-32:
+No Random Encounter
+
+11-33:
+No Random Encounter
+
+11-34:
+
+4 Duergar Mercenaries
+ST 14  HP 14  thr 1d sw 2d
+DX 14  Per  11
+IQ 10  Will 10
+HT 14  FP   13
+BS 8, Move 5
+Combat Reflexes
+High Pain Threshold
+Weapon Master
+Shield Wall Training
+Brawling-16 Knife-16 Wrestling-16 Axe/Mace-20 Crossbow-20 Shield-20
+Boating-10 Stealth-13 Merchant-10 Fast Draw(Potion)-15
+Spells: Enlarge, Invisibility
+Dodge-12 Parry-16 Block-16 (with +3 DB)
+DR 5 (scale, tough skin)
+Fine Balanced Dwarven Mace (21) Reach 1, 2d+8 cr, Parry 0
+if enlarged SM +1, ST 21 HP 21 thr 2d sw 4d-1  mace damage 4d+10 cr
+Crossbow (ST 21) (20)  Acc 4, 2d+4 imp, or 2d+4 (2) with bodkin
+Quiver, 20 imp bolts, 20 bodkin bolts
+Potion of Minor Healing
+Halved Helm badge  Savoir-Faire-2 (Dwarven) or History-4 to know of Halved Helm
+$12, 10, 5, 6
+
+2 Stone Golems
+SM 1
+ST 25   HP   50  thr 2d+2 sw 5d-1
+DX 12   Will  8
+IQ  8   Per   8
+HT 14
+BS 6.5, Move 6
+DR 10
+Dodge 10, Parry 14
+Huge Dwarven Maul: (22) Reach 1,2,3, 5d+5 cr
+Slow: R-HT-1 or slowed
+Unnatural: dies at -HP
+
+11-35a:
+ST-6 to turn crank
+
+3 Zombie Ettins
+SM 2
+ST 26   HP:   26      thr 2d+2  sw 5d
+DX 10   Will: 10    Speed 5.5
+IQ  8   Per:  10     Move 5/8
+HT 12   FP:   12
+Dodge 9 Parry: 10  DR 4 (Hide armor, Tough Skin)
+Punch (12) 3d crushing. Reach C, 1.
+2 Fine Balanced Dwarven Morningstars (18) 5d+3 cr, -2 to block, -4 to parry
+4 Javelins (13) 2d+3 imp Range 39/65
+Traits Acute Sense of Smell and Taste 2; Ambidextrous; Bully (12);
+   Combat Reflexes; Compartmentalized Mind 1; Discriminatory Smell;
+   Enhanced Move 0.5 (Ground Move 8); Extra Attack 1; Extra Head 1; Hidebound;
+   High Pain Threshold; Loner (12); Night Vision 5; Peripheral Vision;
+   Short Attention Span (12).
+Skills Animal Handling-12; Flail-13; Brawling-12; Tactics-10; Wrestling-12;
+   Riding-12; Spear-13; Spear Throwing-13
+Notes Per 11 when using Smell.  Effective ST 28 when grappling, owing to Wrestling.
+Zombie Traits: HPT, Unfazeable, Unliving, Unnatural (die at -1 * HP)
+
+11-35b:
+ST-6 to turn crank
+
+3 Zombie Ettins
+SM 2
+ST 26   HP:   26      thr 2d+2  sw 5d
+DX 10   Will: 10    Speed 5.5
+IQ  8   Per:  10     Move 5/8
+HT 12   FP:   12
+Dodge 9 Parry: 10  DR 4 (Hide armor, Tough Skin)
+Punch (12) 3d crushing. Reach C, 1.
+2 Fine Balanced Dwarven Morningstars (20) 5d+3 cr, -2 to block, -4 to parry
+4 Javelins (13) 2d+3 imp Range 39/65
+Traits Acute Sense of Smell and Taste 2; Ambidextrous; Bully (12);
+   Combat Reflexes; Compartmentalized Mind 1; Discriminatory Smell;
+   Enhanced Move 0.5 (Ground Move 8); Extra Attack 1; Extra Head 1; Hidebound;
+   High Pain Threshold; Loner (12); Night Vision 5; Peripheral Vision;
+   Short Attention Span (12).
+Skills Animal Handling-12; Flail-13; Brawling-12; Tactics-10; Wrestling-12;
+   Riding-12; Spear-13; Spear Throwing-13
+Notes Per 11 when using Smell.  Effective ST 28 when grappling, owing to Wrestling.
+Zombie Traits: HPT, Unfazeable, Unliving, Unnatural (die at -1 * HP)
+
+11-36:
+2 secret panels, Search-6 each
+rope behind each rings a bell

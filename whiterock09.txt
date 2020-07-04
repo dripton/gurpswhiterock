@@ -1,0 +1,583 @@
+Whiterock Level 9
+
+Tracking:
+Duergar trail: Tracking-2 to find, Tracking+0 every 150' to keep on it.
+   +1 in fungus forest
+
+9-1: Tracking-1 to find large humanoid (troll) tracks
+9-2: Tracking-2 to find huge turtle tracks near river
+9-3: Tracking-3 to find large humanoid (ettin) or huge canine (wolf) tracks
+9-4: Tracking+2 to find cave lizard tracks
+9-7: Tracking-4 to find small humanoid (kobold) tracks
+9-9, 9-10: Tracking-3 to find medium humanoid (young stone giant) tracks
+
+Wandering monsters, 1/6 per hour, 2d6
+2-5:   Local denizen
+6:     Gelatinous Cube (only east of river)
+7-9:   Stirge Swarms
+10-12: Dire Bats
+
+Advanced Gelatinous Cube
+Transparent - Vision -1 to spot when motionless  +1 to Mages to spot magic items
+SM +3
+ST  20   HP   50
+DX   4   Will 10
+IQ   1   Per  10
+HT  15   FP   15
+BS 4.5   Move  4  Dodge 8
+DR   0
+Pseudopod punch (10) 2d-3 cr, Reach 1, random hit location
+Paralyzing Corrosive Slime: 1d corrosive to anything but stone/metal.
+   HT-5 or paralyzed for seconds equal to margin of failure, then
+   stunned until making a HT roll.
+Engulfing: Can engulf paralyzed creatures by just overrunning them.
+   Creatures that just run into it are engulfed.
+   (Mobile, aware creatures can Dodge or Retreat.)
+   Engulfed creatures take 1 HP/s from acid, plus roll vs. HT or paralyzed,
+      Suffocate B437 (lose 1 FP/s, at 0 FP roll vs. Will every s or unconscious)
+Chameleon 7, Dark Vision, Doesn't Breathe, Doesn't Sleep,
+DR 30 (only vs. Electricity), High Pain Threshold, Innunity to Mind Control,
+Immunity to Metabolic Hazards, Injury Tolerance (Homogeneous), Invertebrate,
+Lifting ST 13, No Legs, No Manipulators, Payload 60, Vibration Sense (Air)
+Brawling-10
+Treasure (inside):
+   Ring of Force DR1
+   Fine warhammer head (no shaft) worth $900
+   Dwarf-sized plate armor (torso, arms, legs, feet, greathelm)  No gloves.
+      Fortify +2, Lighten -50%  DR 8 (9 to head), 42.5#
+
+Stirge Swarms (2)
+SM 0
+Move 8, Dodge 11
+Reach C, auto hit, damage 1d cut, armor protects (weakest hit location)
+Diffuse B380 -- imp/pi does 1 HP, others can do 2 HP (incl. shield),
+   area/cone/explosion do full damage
+Dispersed after 10 HP
+Nauseated if swarm in your hex.  B428
+   -2 to all attribute/skill rolls, -1 to defenses, roll vs. HT
+   when eating / exposed to foul odor / fail Fright Check / stunned,
+   failure means Retching for 25-HT s: -5 to DX/IQ/Per, can't Concentrate,
+   lose 1 FP, lose last meal
+
+Dire Bats (10)  http://gurpswiki.wikidot.com/m:dire-bat
+ST: 17  HP:   17    Speed: 7.25
+DX: 16  Will: 12    Move: 4
+IQ:  3  Per:  12    Weight: 200 lbs.
+HT: 13  FP:   13    SM: +1 (2 hexes)
+Dodge: 10    Parry: N/A      DR: 2
+Bite (16): 1d+1 cutting. Reach C.
+Traits: Flight (Air Move 7; Winged; Handling Bonus +1);
+   Scanning Sense (Sonar, 20 yards); Sharp Teeth; Wild Animal.
+Skills: Brawling-16; Stealth-18.
+Retreat when over half are defeated.
+
+
+
+9-1:
+Local denizens: 3-6 trolls
+Vision+2 to spot winding path to cave (not needed if tracks were found)
+
+9-1a:
+Bad Footing: +1 MP/hex, -2 to attack, -1 to defend
+
+8 Trolls
+ST: 23  HP:   23   Speed: 6.25  thr 2d+1  sw 4d+1
+DX: 13  Will: 10   Move:  6
+IQ: 10  Per:  10
+HT: 12  FP:   12   SM: +1
+Dodge: 10     Parry: 11 (unarmed)    DR: 0
+Bite (15): 2d+1 cutting.   Reach C, 1  counts as grapple
+Claw (15): 2d+2 cutting    Reach C-2
+
+Brawling-15 Stealth 14 Wrestling-15
+ST +2 when grappling, also +1 to attack for SM vs. SM 0
+
+Acute Taste and Smell 3; Ambidexterity; Bloodlust (9);
+Combat Reflexes; Curious (9); Dark Vision; Extra Attack 2;
+Gluttony (9); High Pain Threshold; Immunity to Disease;
+No Brain; No Vitals; Overconfidence (9); Recovery;
+Regeneration (1 HP/second, but not vs. burning or corrosion damage);
+Regrowth; Unfazeable; Universal Digestion;
+Unkillable (Total; Achillesâ Heel, Burning or corrosion damage).
+
+Only 1/6 chance of a troll reinforcement arriving from 9-1b.  If so,
+it will bring everyone there.
+
+Treasure:
+Vision-3 or Search-3 to find each lot, 1 check/minute
+$255 in coins (in 5 lots)
+$1100 star ruby
+Immovable Rod
+Staff carved from animal horn:
+  Staff of the Beetle (11 charges)
+      (Command words have been lost, need Analyze Magic to recover)
+      Tough Skin DR2, Dark Vision, +2 to R-Will, +2 Accuracy, +2 Puissance
+      3 yard glow, 1 charge/hour
+      acid spray 3 yard cone, 3d acid damage, Dodge+retreat/dive out of area to avoid
+      air bubble, 1 charge/hour
+
+
+9-1b:
+3 Elite Trolls
+ST: 25  HP:   25   Speed: 6.25  thr 2d+2  sw 5d-1
+DX: 13  Will: 10   Move:  6
+IQ: 10  Per:  10
+HT: 12  FP:   12   SM: +1
+Dodge: 10     Parry: 11 (unarmed)    DR: 2 (hide armor)
+1 has extra large shield: +4 DB, -2 to attacks, Shield-13, Block-10,
+Shield Wall Training
+
+Knobbed Club (6) Reach 1-2, 5d cr, Parry 7
+Bite (16): 2d+2 cutting.   Reach C, 1  counts as grapple
+Claw (16): 2d+3 cutting  Reach C-2
+
+Brawling-16 Stealth 14 Wrestling-16
+ST +2 when grappling, also +1 to attack for SM vs. SM 0
+
+Acute Taste and Smell 3; Ambidexterity; Bloodlust (9);
+Combat Reflexes; Curious (9); Dark Vision; Extra Attack 2;
+Gluttony (9); High Pain Threshold; Immunity to Disease;
+No Brain; No Vitals; Overconfidence (9); Recovery;
+Regeneration (1 HP/second, but not vs. burning or corrosion damage);
+
+Regrowth; Unfazeable; Universal Digestion;
+Unkillable (Total; Achillesâ Heel, Burning or corrosion damage).
+
+
+Roakgroth, Troll fighter
+ST: 27  HP:   35   Speed: 6.25  thr 3d-1  sw 5d+1
+DX: 13  Will: 10   Move:  6
+IQ: 10  Per:  10
+HT: 12  FP:   12   SM: +1
+Dodge: 10     Parry: 12 (unarmed or mace)
+DR: 4 (hide armor w/Fortify)
+
+Fine Balanced Dwarven Mace (17) 5d+4 cr parry 12   Reach 1-2
+Bite (16): 3d-1 cutting.   Reach C, 1  counts as grapple
+Claw (16): 3d   cutting    Reach C-2
+
+Brawling-16 Stealth 14 Wrestling-16 Axe/Mace-16 Tactics-12
+ST +2 when grappling, also +1 to attack for SM vs. SM 0
+
+Acute Taste and Smell 3; Ambidexterity; Bloodlust (9);
+Combat Reflexes; Curious (9); Dark Vision; Extra Attack 2;
+Gluttony (9); High Pain Threshold; Immunity to Disease;
+No Brain; No Vitals; Overconfidence (9); Recovery;
+Regeneration (1 HP/second, but not vs. burning or corrosion damage);
+Regrowth; Unfazeable; Universal Digestion;
+Unkillable (Total; Achillesâ Heel, Burning or corrosion damage).
+
+Treasure: Fine Balanced Dwarven Mace, Hide Armor with Fortify +2
+
+Hoard: Search-4 to find cavity under rock near fungus bed
+   $461 in coins
+   3 $75 bloodstones
+   $125 amber
+   4 $225 garnets
+   dusty rose prism ioun stone: +1 to active defenses, not with Combat Reflexes
+   fine balanced shortsword
+
+9-2:
+Local denizen: turtle ambush
+
+Quickened Giant Snapping Turtle
+ST: 30  HP:   30  Speed: 6.25   thr 3d  sw 5d+2
+DX: 10  Will: 11  Move: 6
+IQ:  5  Per:  13  Weight: 30,000 lbs.
+HT: 15  FP:   15  SM: +4 (7 hexes x 4 hexes)
+Dodge: 9      Parry: N/A    DR: 8 body, 6 limbs/tail/head
+
+Bite (18): 3d+2 large piercing. Reach C-1.  Free grapple
+    Swallow: Grapple, then Takedown (QC ST vs. ST/DX/grappling skill),
+             then Pin (RC ST + SM, +3 for most free hands), Pin = swallow
+             Swallowed: take 3d cr + 1d acid per turn
+             Escape: 20 cutting to make a hole
+Claws (18): 3d+2 cutting. Reach C-3.
+Traits: Amphibious (Water Move 6); Dark Vision; Discriminatory Smell;
+   Quadruped; Sharp Beak; Sharp Claws, Combat Reflexes,
+   Great Haste 3 times a day, 12x each time
+   Hard To Subdue +5
+Skills: Brawling-18; Camouflage-14
+
+
+Treasure: iron chest 25' underwater Lockpicking-6
+   5 10 lb. bars of orichalcum, worth $3000 each to the right smith.
+
+9-3:
+Local denizen: Ettin on Deep Worg
+
+Search+0 to find nook with treasure:
+17 odd stones (worthless)
+$55 hunk of melted copper coins
+$285 jet statuette of naked female drow dancer
+$350 bone scroll tube set with 10 tiny rubies
+   IQ+0, IQ-1, IQ-3 checks to figure out how to open tube
+   (Or IQ-based Traps or Lockpicking)
+   Contains scroll with Dispel Magic and Blink
+Paintings: Vision-2 to spot Draconic passage "West equals South"
+
+Gar and Nar, Ettin
+
+Ettin, from http://abovetheflatline.blogspot.com/
+ST: 26   HP: 26   thr 2d+2  sw 5d
+DX: 10   Will: 10    Speed 5.5
+IQ: 8    Per: 10     Move 5/8
+HT: 12   FP: 12      SM: +2
+Dodge: 9 Parry: 10U  DR: 5 (Hide armor, Ring, Tough Skin)
+Punch (12): 3d crushing. Reach C, 1.
+2 Fine Balanced Morningstars (14) 5d+3 cr, -2 to block, -4 to parry
+4 Javelins (13) 2d+3 imp Range 39/65
+Traits: Acute Sense of Smell and Taste 2; Ambidextrous; Bully (12);
+   Combat Reflexes; Compartmentalized Mind 1; Discriminatory Smell;
+   Enhanced Move 0.5 (Ground Move 8); Extra Attack 1; Extra Head 1; Hidebound;
+   High Pain Threshold; Loner (12); Night Vision 5; Peripheral Vision;
+   Short Attention Span (12).
+Skills: Animal Handling-12; Flail-13; Brawling-12; Tactics-10; Wrestling-12;
+   Riding-12; Spear-13; Spear Throwing-13
+Class: Mundane.
+Notes: Per 11 when using Smell.  Effective ST 28 when grappling, owing to Wrestling.
+May negotiate.  Gar tells the truth; Nar lies.
+  Speaks a pidgin of Orc, Goblin, and Giant.  IQ check to communicate if you
+  speak any, +2 if you speak two, +5 if you speak all three.
+Ring of Force DR1
+
+
+Deep Worg
+SM 3
+ST 30  HT   30  thr 3d  sw 5d+2
+DX 12  Will 11
+IQ  8  Per  14
+HT 12  FP   12
+Move 7 Dodge 10  DR 3
+Bite (15) 3d-1 cutting, Reach 1
+Acute Hearing 1, Acute Vision 1, Bad Temper, Chummy, Colorblindness,
+Discriminatory Smell, Night Vision 8, Quadruped, Sharp Teeth,
+Supernatural Feature (glowing red eyes), Temperature Tolerance
+Brawling-15 Stealth-13 Tracking-15 Mount-12
+
+Cave Paintings:
+Vision-2 to spot note in Draconic.  "West equals South."
+
+9-4:
+Cave lizards (lots), will flee
+
+Vision-6 to see puncture wound on lizard
+
+9-5:
+Vision-4 to find cave entrance, 40' up
+Climbing-2 to reach it
+Slippery floors.  > 1/2 Move or combat means DX+6 check or fall prone
+Dodge at -4
+
+At each point A, 3 Stirge Swarms + 3 Stirges
+
+Stirge Swarm (1-3)
+SM 0
+Move 8, Dodge 11
+Reach C, auto hit, damage 1d cut, armor protects (weakest hit location)
+Diffuse B380 -- imp/pi does 1 HP, others can do 2 HP (incl. shield),
+   area/cone/explosion do full damage
+Dispersed after 10 HP
+Nauseated if swarm in your hex.  B428
+   -2 to all attribute/skill rolls, -1 to defenses, roll vs. HT
+   when eating / exposed to foul odor / fail Fright Check / stunned,
+   failure means Retching for 25-HT s: -5 to DX/IQ/Per, can't Concentrate,
+   lose 1 FP, lose last meal
+Can carry off a knocked-out opponent, at Move 4
+
+
+Strix
+SM -1
+ST  5  HP    5
+DX 16  Will 10
+IQ  4  Per  10
+HT 12  FP   12
+BS  7
+Move 2 (Air Move 14)
+DR 0
+Dodge 13
+Grapple 22: deceptive -8, effective 14, -4 to defend
+Bite 18 reach C  1d-4(10) large piercing, min 1 + followup 1
+(always in CC after grapple, only dodge-1 or CC party -2, no retreat
+Usually at deceptive -4 to hit, -2 to defend)
+Blood-Draining  Lose 1HP/turn after bite, unless grapple broken
+Each 3 HP drained heals strix 1 HP
+Acrobatics-16, Brawling-18, Wrestling-18
+
+wings 2#, $35, Survival to chop
+whole strix 15#, $250 dead, $500 alive
+
+
+
+
+At point B:
+
+Strix Brood Mother + 4 Stirges + 4 Stirge Swarms
+
+Strix Brood Mother
+SM +2
+ST 27   HP   27  thr 3d-1  sw 5d+1
+DX 11   Will 10
+IQ  3   Per  10
+HT 14   FP   14
+BS 6.25 Move  2  Fly 3
+Dodge 8 DR 5
+Proboscis (15) Reach 2  3d pi+
+After Grapple, Blood Drain for 3d
+Brawling-15  Wrestling-15
+After damaged, calls Stirge Swarms.  Half come, 1 every 3rd turn
+
+Treasure:
+Fine Dwarven axe
+Small Steel Shield, Deflect +2, white spider logo, on elf forearm
+Fine Balanced Bastard Sword, Accuracy and Puissance +1, Affects Insubstantial,
+   "Damarel" engraved on white metal blade in Elven
+
+9-6:
+At fork of path, Vision-4 to see old path to W
+Tracking-2 to see that it hasn't been used in a long time
+Invisible body: Search-10 to find
+   Easier with Detect Magic, extra time,
+   Theology-4 or Hidden Lore (Undead) to know about Groaning Spirits
+   If body is found, Search-6 to find Invisible Ring of Invisibility
+   Other treasure: Bracers of Force DR2, Fine Balanced Large Knife.
+
+Ilyanassa, Groaning Spirit
+SM 0
+ST 10  HP   10
+DX 14  Will 15
+IQ 13  Per  13
+HT 10  FP   10
+BS  6  Move  6  Dodge 9
+Insubstantiality
+Detect (Living Creatures) 5 miles away, hard to surprise
+Chill Touch(15) 1d+2, HT-2 or lose 1 point ST  ($100 to fix at temple)
+Fear Aura: On sight, Will-2 or flee in terror for 1d+4s.  Immune for 24h after.
+Keening 2x/day, 10 yard radius, Will-3 or die.  Otherwise take 3d+7
+
+9-7:
+Vision-4 to spot crude holy symbol
+   Theology-2 to identify holy symbol of Teleus, god of Law (sword w/ light)
+Dispel Magic at -4 to dispel polymorph
+
+Kobold template http://gurpswiki.wikidot.com/rt:kobold
+Attribute Modifiers: ST -4 [-40]; DX +1 [20]; IQ -1 [-20]; HT +2 [20].
+Secondary Characteristic Modifiers: SM -2; Per +2 [10]; Basic Speed +0.25 [5];
+   Basic Move -2 [-10].
+Advantages: Claws (Sharp) [5]; Damage Resistance 1 (Tough Skin, -40%) [3];
+   Nictitating Membrane 1 [1]; Peripheral Vision [15]; Teeth (Sharp) [1];
+   Wily Little Bugger 2* [10].
+Disadvantages: Cowardice (12) [-10]; Social Stigma (Savage) [-10].
+Features: Born Biter
+
+Wily Little Bugger: You know how to survive under the toughest circumstances,
+especially underground. This Talent aids Prospecting, Scrounging, Survival
+(Underground), and Traps. Only kobolds can have it, and may buy up to two more
+levels at character creation. Reaction bonus: Miners and survivalists. 5
+points/level.
+
+Born Biter: You have an elongated jaw optimized for trapping prey. You can opt
+to hold on after you bite; thus, the bite doubles as a grapple. On later turns,
+you can worry, which counts as an attack but always hits - simply roll biting
+damage! If your victim's SM is three or more greater than yours, you can only
+do this to an extremity (hand, foot, etc.), and the grapple is considered
+one-handed. If his SM is only one or two larger, you can target anything, and
+the grapple is treated as two-handed. The same is true if his SM is equal to or
+smaller than yours, but you can also attempt to pin him while standing! The
+catch is that foes get +3 to target your protruding snout, allowing them to
+attack your face (not skull) at only -2.
+
+Galdiera, polymorphed into Kobold
+SM -1
+ST  9  HP   18  thr 1d-2  sw 1d-1
+DX 14  Will 13
+IQ 11  Per  11
+HT 15  FP   15
+BS  7  Move  6  Dodge 11
+Block 11  Parry 12
+DR6 (Tough Skin, Ring, Armor)
+Tough Skin DR1
+Languages: Draconic, broken Common, broken Elven, broken Celestial
+Born Biter, Sharp Claws, Sharp Teeth
+Dark Vision, Peripheral Vision
+Healing (heals 2 HP per 1 FP)
+Combat Reflexes
+Giant Weapons 1
+Caltrops: LT123
+   Vision roll every s, at speed penalty for Move.  -2 if not watching ground
+   Step on Margin of Failure caltrops
+   Each does thr-3 imp, based on victim's ST, max 2 HP
+   2 Ready maneuvers to remove
+   Bad Footing, B387 +1 MP/hex, -2 to attack, -1 to defend
+Broadsword-17 Riding-16 Shield-15
+Cheap Broadsword(16) 1d cut Reach 1  Parry 12
+Bless (like spell but works on self) +1 on everything, then as Luck
+Ring of Protection DR2, piecemeal armor, small steel shield, Ring of Sustenance,
+   Pouch of Endless Caltrops
+
+Rat Mount
+SM 0
+ST 14  HP   12  thr 1d sw 2d
+DX 13  Will 10
+IQ  4  Per  10
+HT 13  FP   13
+BS 6.5 Move 6
+DR 2
+Dodge 9
+Night Vision 5, Scent
+Sharp Teeth
+Brawling-15
+Climbing-15
+Swimming-15
+Bite (15) 1d cut
+Filth Fever R-HT, 1-3 DX and 1-3 HT after 1-3 days  R-poison applies
+
+9-8:
+Buulff, Delver
+SM 3
+ST 27   HP   30  thr 3d-1  sw 5d+1
+DX 11   Will 12
+IQ 12   Per  12
+HT 14   FP   14
+BS 6.25 Move  6
+DR 14
+Slam (15) 2d cr + 2d acid, 2d/turn for 2 more turns unless washed off
+   armor/clothing dissolve unless DX-3 check is made
+   weapons striking delver dissolve unless DX-3 check
+Speaks Terrain, Undercommon  -4 to Diplomacy if no common language
+Intoxication:
+   +3 ST
+   -4 to Diplomacy checks
+   -2 to DX checks, resistance rolls
+   -4 to skills requiring concentration
+Wants precious metals.  Copper: -10, Silver -8, Gold -6, Platinum -2
+   For < 500 coins, -1 per 100.  For > 500 coins, +1 per 100 (max +5)
+Immune to acid
+Stone Shape, every 10 minutes
+Randomly attacks.  Slam into pit: 2d + 2d + 2d acid.  DX-2 or fall in on top,
+   for another 6d + 2d.
+Retreats at 1/3 HP
+
+
+9-9:
+
+6- to be sensed by one within 10 minutes, +1 every 10 minutes.
+
+Purple Worm
+ST 42  HP   42  Speed 6
+DX 12  Will 12  Move 6/12
+IQ  5  Per  12
+HT 12  FP   12  SM 5
+Dodge 9         DR 4
+
+Bite  (15) 4d+1 cut  Reach C,1  grapple vs. SM 2 or less
+Swallow: Grapple, then Takedown (QC ST vs. ST/DX/grappling skill),
+         then Pin (RC ST + SM, +3 for most free hands), Pin = swallow
+         Swallowed: take 3d cr + 1d acid per turn
+         Escape: 20 cutting to make a hole
+Sting (15) 4d+2 large pi, follow up 1d FP, Reach C-5
+
+Acute Detect 4; Enhanced Move (Ground); Extra Attack 1;
+High Pain Threshold; No Brain; No Eyes; No Neck; No Vitals;
+Regeneration (1 HP/12 hours); Regrowth; Resistant to Disease 3;
+Resistant to Poison 3; Uncontrollable Appetite (12) (Mortal Flesh);
+Unfazeable; Universal Digestion; Vermiform; Wild Animal.
+Tremorsense
+
+
+
+9-10:
+
+5 Stone Giants (Guard template)
+Lowrek
+SM +2
+ST 23  HP   23  thr 2d+1  sw 4d+1
+DX 13  Will 10
+IQ 10  Per  11
+HT 14  FP   14
+BS  6.75  Move  6
+DR 5 (tough skin 3, hide 2)
+Dodge 9  Parry 9
+
+Dark Vision, High Pain Threshold
+Overconfidence, Sense of Duty (friends)
+Brawling-13, Knife-13, Wrestling-12, Throwing-15, Axe/Mace-13,
+Armoury (various)-9, Climbing-12, Stealth-14, Jumping-13,
+Riding (purple worm)-14, Parry Missile Weapons-13
+Languages: Giant, broken Common, broken Undercommon
+
+Stone Giants throw rocks like Heavy Slings
+Thrown Rock  (15)  4d+3 cr
+Knobbed Club (13)  4d+2 cr  parry 9
+
+Treasure: hide armor, big club, sack of junk, spear, $239 total for the 5
+
+Fjorjek
+SM +2
+ST 21  HP   21  thr 2d  sw 4d-1
+DX 14  Will 10
+IQ 12  Per  13
+HT 14  FP   14
+BS  7  Move  7
+DR 6 (tough skin 3 + hide 2 + familiar 1)
+Dodge 10  Parry 9
+
+Dark Vision, High Pain Threshold, Magery 3, ER 9 (some from Sard)
+Overconfidence, Sense of Duty (friends)
+Brawling-13, Knife-13, Wrestling-12, Throwing-15, Axe/Mace-13,
+Armoury (various)-9, Climbing-12, Stealth-14, Jumping-13,
+Riding (purple worm)-14
+Spells: Simple Illusion, Daze, Sound, Repair, Apportation, Levitation,
+  Shield, Missile Shield - 14
+Languages: Giant, accented Common, accented Undercommon
+
+Stone Giants throw rocks like Heavy Slings
+Thrown Rock  (15)  4d+3 cr
+Knobbed Club (13)  4d+2 cr  parry 9
+
+Treasure: hide armor, big club, 2 large knives, sack of junk, $212
+5 casks Underdeep mead, $200 total if can find a buyer
+
+
+Sard, Armadillo Familiar
+SM -2
+ST  3
+DX 11
+IQ  6
+HT 12  FP 12
+BS 5.75, Move 5, Dodge 9
+DR  4, roll into ball for DR 6
+Grants 6 FP and 1 DR
+Stealth-15, Good hearing, Bad vision, telepathy
+
+
+If knocked off path by rock, 3d damage falling down hill
+
+Drinking: underdeep mead: R-HT or sick for hours
+
+Worm Riding:
+Jumping-3 to get on the worm's back, 3d falling damage if you miss
+Holding on: contest of ST, vs. 42.  Bonuses for riding skill (+2),
+using an impaling weapon for 7 points damage (+4),
+knot tying or lasso - 6 (+4)
+throw from purple worm's back: 4d damage and prone, acrobatics roll
+to reduce and not be prone
+Margin of victory = time on worm's back
+
+win: stone giants give passphrase to trap in 9-11
+try but lose: directions to Bleak Theater but no passphrase
+refuse to try: fight
+
+
+
+9-11:
+Traps-7 to find
+Traps-7 to disable
+proximity trigger, lightning cloud, both exits close
+if within 1 hex of exit, Dodge-2 to jump out
+if 2 hexes, Dodge-5
+If stuck in the room, 4d6 electrical damage per turn for 15 turns
+passphrase "Hail Thane Hrolad Vejik, and May His Beard Grow Long"
+new passphrase "Elves must be eradicated and bows should be illegal."
+deactivates for 5 minutes
+stone doors: DR 8, 100 HP, Lockpicking-6 then ST-5 to open

@@ -1,0 +1,106 @@
+Warded Walls: no clairvoyance, disintegrate, dispel magic, seeker, teleport, etc.
+
+Most doors on this level are -6 to pick.
+
+10B-1:
+
+Programmed illusion of halfling
+
+Ceramic Bowl: $worth 1000, and contains $550 in silver
+
+10B-2:
+
+Programmed illusion of halfling
+
+10B-3:
+
+Programmed illusion of halfling
+Pickpocket-4 to get key
+Search+2 to discover key is a hollow tube
+Steel hands:
+Search-20 vs. Holdout to find key, +2 to Holdout if baggy clothes
+
+10B-4:
+
+Programmed illusion of halfling
+Merchant-5 to know that statue is a good fake, worth $10
+Merchant+1 to know that rubies are worth $25 each
+idol worth $60 total
+Vision-2 to notice glass chain in window
+bucket, 150 iron coins
+
+10B-5:
+
+Programmed illusion of halfling
+
+Desk, with scroll and writing instruments
+Contest of Forgery, Inspector has 20
+
+10B-6:
+Doors are both Lockpicking-6
+
+10B-7:
+
+Ethereal Filcher
+SM 1
+ST 22  HP   22   thr 2d  sw 4d
+DX 22  Will 15
+IQ  8  Per  18
+HT 15  FP   15
+BS 10  Move 10
+Dodge 15  DR 2
+Detect (magic), Combat Reflexes, Super Dodge
+Bite(25) reach 1, 2d+1 cut, +2d with backstab
+Stealth-25  Brawling-25  Pickpocket-25  Jumping-20
+Ethereal, materialize as step, ethereal as free action
+
+10B-8:
+
+Vision-2 to spot tiny hook
+
+10B-9:
+
+2 Huge Scales
+Invisible to start, appear on attack
+SM 2
+ST 25  HP   25  thr 2d+2  sw 5d-1
+DX 11  Will 12
+IQ  -  Per  12
+HT 12  FP   12
+BS  6  Move 6  Dodge 9   DR 12
+Blindsight 10 hexes
+Sumo-20
+Slam (20)  2d+4 cr + 1d fire/cold
+Trample (20)  2d+2 cr, can only dodge  (Automatic on slam/knockdown but half damage)
+
+
+10B11:
+
+Phasm, with forms stalagmite, blob, ankheg, lammasu, PC
+SM 2 (or less)
+ST 33  HP  100  thr 3d+2 sw 6d
+DX 14  Will 14
+IQ 13  Per  14
+HT 14  FP   14
+BS 8  Move 8  Dodge 12  DR 10
+Attack (20) 3d+2 cr
+Regenerates 3 hp/s
+Brawling-20
+Punch (20)  Reach 1, 3d+8 cr
+Ankheg: spits for 3d acid
+Raven: flies and hides, dodge 12
+Lammasu: 2 attacks (20), 3d cut
+
+10B12:
+
+left table: box, pyramid, globe
+right table: wood, iron bar, gold-painted disc, shard of glass, strip of purple fabric, rock
+ST-1 to pull lever
+if objects not in right places, Entomb, Traps-8 to find/disable, Will-3 to negate
+secret door: Search-8 to find,
+Traps-8 to find/disable trap, Wail of the Banshee: HT-3 or die within 13 hexes
+
+treasure:
+$300020 in silver coins
+Boots of Levitation (resize)
+fine balanced silver morningstar

@@ -1,0 +1,825 @@
+Random encounters
+
+1-7 None
+  8 Off-duty deep watch
+  9 Spiked Owlbear
+ 10 Tasked invisible stalker
+ 11 Hiding craftsmen
+ 12 Intrusion countermeasures
+
+12-1:
+No mana zone on stairs, -5 near stairs, normal near door and wall
+Symbol of Stunning
+All non-duergar within 10' radius, R-Will-4 or Stunned 6-36s
+Also, Alarm spell goes off, sounds like clanging bells
+Can be detected with Thaumatology-5, or Traps-7
+Disabled with Dispel Magic or Traps-7
+Theology-6 to identify all dwarven faces
+
+12-2:
+No mana zone on stairs, -5 near stairs, normal near door and wall
+Symbol of Stunning
+All non-duergar within 10' radius, R-Will-4 or Stunned 6-36s
+Also, Alarm spell goes off, sounds like chiming bells
+Can be detected with Thaumatology-5, or Traps-7
+Disabled with Dispel Magic or Traps-7
+Theology-6 to identify all dwarven faces
+
+12-3:
+
+7 Duergar Clansmen
+ST 19  HP   19  thr 2d-1 sw 3d+1
+DX 14  Per  12
+IQ 10  Will 12
+HT 14  FP   14
+BS 8, Move 5
+Combat Reflexes
+High Pain Threshold
+Weapon Master
+Shield Wall Training
+Weapon Bond
+Brawling-16 Knife-16 Wrestling-16 Axe/Mace-20 Broadsword-20 Shield-20
+Boating-10 Stealth-13 Merchant-10 Fast Draw(Potion)-15
+Spells: Enlarge, Invisibility
+Dodge-12 Parry-16 Block-16 (with +3 DB)
+DR 7 (plate, tough skin)
+Fine Balanced Blighted Dwarven Large Falchion (22) Reach 1, 3d+10 cut, 2d+3 imp, plus bleed 1/s
+if enlarged SM +1, ST 28 HP 28 thr 3d-1 sw 5d+1 falchion damage 5d+13 cut, 3d+4 imp, plus bleed
+Potion of Major Healing
+Potion of See Invisible
+(Blighted Blade: Wounds bleed 1/s until magically healed)
+
+Duergar Underdeep Veteran
+ST 20  HP   20  thr 2d-1 sw 3d+2
+DX 14  Per  12
+IQ 12  Will 12
+HT 14  FP   13
+BS 8, Move 5
+if enlarged SM +1, ST 30 HP 30 thr 3d sw 5d+2
+Combat Reflexes
+High Pain Threshold
+Weapon Master
+Shield Wall Training
+Extra Attack 2
+Every One's a Critical
+Rapier Wit
+Luck
+Peripheral Vision
+Weapon Bond
+Brawling-16 Knife-16 Wrestling-16 Axe/Mace-20 Polearm-25 Crossbow-16 Shield-20 Net-20
+Boating-10 Stealth-13 Merchant-10 Fast Draw(Potion)-15  Leadership etc.
+Spells: Enlarge, Invisibility, See Invisibility
+Dodge-12 Parry-19 Block-16 (with +3 DB)
+DR 8 (plate, tough skin)
+Fine Balanced Dwarven Dueling Halberd (27) 3d+13 cut Reach 1,2         (enlarged 5d+17)
+                                           3d+12 imp Reach 1,2 stuck   (enlarged 5d+16)
+                                           2d+7  imp Reach 1,2         (enlarged 3d+12
+
+
+Duergar Servant of the Coin, Cleric
+ST 14  HP 14  thr 1d sw 2d
+DX 14  Per  11
+IQ 10  Will 10
+HT 14  FP   13
+BS 8, Move 5
+Combat Reflexes
+High Pain Threshold
+Weapon Master
+Shield Wall Training
+Unfazeable
+Power Investiture 6
+Brawling-16 Knife-16 Wrestling-16 Axe/Mace-20 Crossbow-20 Shield-20
+Boating-10 Stealth-13 Merchant-10 Fast Draw(Potion)-15
+Inherent Spells: Enlarge, Invisibility
+Cleric Spells: Bless, Missile Shield, Walk on Water, Curse, Dispel Magic, Major Healing,
+               Remove Curse, Deflect, Iron Arm, Blink, See Invisible
+Dodge-12 Parry-16 Block-16 (with +3 DB)
+DR 5 (scale, tough skin)
+Fine Balanced Dwarven Morningstar (21) Reach 1, 2d+8 cr, Parry 0  -4/-2 to parry/block
+if enlarged SM +1, ST 21 HP 21 thr 2d sw 4d-1  morningstar damage 4d+10 cr
+Potion of Major Healing
+Wooden Holy Symbol
+
+
+12-4:
+Search-6 to find secret door
+
+Gora-Khan, Hobgoblin Vampire  DFM 58
+SM 0
+ST 25  HP   30
+DX 13  Will 18
+IQ 12  Per  15
+HT 12
+BS 9  Move 9
+Dodge 13  Parry 15   DR 12
+Dark Vision, Combat Reflexes, Enhanced Dodge, Weapon Master, Weapon Bond,
+   Extra Attack 2, Gaseous Form (as Phase for blocking spell), Bat Form,
+   Dire Wolf Form, Summon Bat Swarms, See Invisible, Regeneration 5
+Domination (20)  Gaze, 30' range, R-Will or become his slave for 10 days
+Bite (20)  2d+3 cut, reach C, drains 3 HP, heals 1 HP, maintainable
+Unholy Greatsword (22) 3d+9 cut + 2d6 evil, reach 1-2, 2d+6 imp reach 2,
+   Penetrating
+Greatsword-20 Wrestling-20 Stealth-20 Brawling-20
+Grappling ST 27
+
+Retreats (bat form or gaseous form) if near 0 HP.
+
+Bleak Arena Champion Necklace $900,
+Fine Balanced Unholy Greatsword w/ +1 Acc/Puissance
+Studded Heavy Leather w/Fortify 2
+
+5 bat swarms
+8 HP, diffuse
+Air Move 8
+Damage 1d cut, bleeds 1/turn (total) until healed
+
+Treasure: $4000 in coffin lining, 3 $250 bloodstones in coffin's inside lid
+
+12-6:
+No random encounter
+
+12-7:
+Search-4 to find secret door
+
+7th head is an owlbear
+
+4 Hiding Craftsmen
+ST 14  HP 14  thr 1d sw 2d
+DX 14  Per  11
+IQ 10  Will 10
+HT 14  FP   13
+BS 8, Move 5
+Combat Reflexes
+High Pain Threshold
+Weapon Master
+Shield Wall Training
+Brawling-16 Knife-16 Wrestling-16 Axe/Mace-20 Crossbow-20 Shield-20
+Boating-10 Stealth-13 Merchant-10 Fast Draw(Potion)-15
+Spells: Enlarge, Invisibility
+Dodge-12 Parry-16 Block-16 (with +3 DB)
+DR 5 (scale, tough skin)
+Fine Balanced Dwarven Mace (21) Reach 1, 2d+8 cr, Parry 0
+if enlarged SM +1, ST 21 HP 21 thr 2d sw 4d-1  mace damage 4d+10 cr
+Potion of Minor Healing
+
+
+Behind secret door: 6 bolts, crossbow, 2 maces, 3 axes, mail shirt
+
+12-8:
+Hearing+4 to hear deep male voice
+Hearing+0 to know it's a long list of names in Dwarven
+No random encounter
+
+12-9:
+$2000 worth of portable tools
+
+12-10:
+chain, spikes, trap-finder's kit, 4 leg traps, $500 worth of portable tools
+
+12-11:
+All doors Lockpicking-6
+NMZ above balcony
+
+
+Flesh Golem
+SM 3
+ST 40  HP   80  thr 4d+1  sw 7d+1
+DX 12  Will 13
+IQ 8   Per  13
+HT 13  FP    -
+BS 6.25 Move 6
+DR 10
+Dodge 11, Parry 14
+High Pain Threshold, Unfazeable, Homogeneous, Doesn't Breathe, Combat Reflexes,
+   Spell Immunity, Dark Vision
+Berserk: on 3, +1 per round
+Slowed by Fire/Cold
+Immune to Electricity, and healed by 1/3 of electrical damage
+Brawling-20  Sumo-20
+Slam  (20) 4d+7 cr  (can overrun or trample)
+Punch (20) 4d+4 cr
+
+
+Duergar Wizard (Wizard template)
+ST 10  HP   13
+DX 12  Per  13
+IQ 15  Will 15
+HT 12  FP   15  ER 3
+BS 6  Move 5
+Dodge-9  Parry-12  (Iron Arm, Blink)
+DR 6
+Magery 6
+Curious
+Speaks Common, Giant, Undercommon, Dwarf
+Combat Reflexes
+Body Sense-16  Innate Attack-16  Staff-18
+Spells:
+Enlarge, Invisibility, Gift of Tongues, Blink, Iron Arm, Great Haste, Mind Reading,
+Missile Shield, Acid Jet, Flame Jet, See Invisible, Truthsayer, Dispel Magic, Alarm,
+Reverse Missiles, Great Haste, Dimension Door, Shocking Touch
+Quarterstaff, Scale Armor, Bracers of Force DR2, $100
+
+
+Duergar Underdeep Veteran
+ST 20  HP   20  thr 2d-1 sw 3d+2
+DX 14  Per  12
+IQ 12  Will 12
+HT 14  FP   13
+BS 8, Move 5
+if enlarged SM +1, ST 30 HP 30 thr 3d sw 5d+2
+Combat Reflexes
+High Pain Threshold
+Weapon Master
+Shield Wall Training
+Extra Attack 2
+Every One's a Critical
+Rapier Wit
+Luck
+Peripheral Vision
+Weapon Bond
+Brawling-16 Knife-16 Wrestling-16 Axe/Mace-25 Crossbow-16 Shield-20 Net-20
+Boating-10 Stealth-13 Merchant-10 Fast Draw(Potion)-15  Leadership etc.
+Spells: Enlarge, Invisibility, See Invisibility
+Dodge-12 Parry-19 Block-16 (with +3 DB)
+DR 8 (plate, tough skin)
+Fine Balanced Dwarven Pick (27) 3d+10 imp Reach 1  (enlarged 5d+14)
+
+
+6 Duergar Clansmen
+ST 19  HP   19  thr 2d-1 sw 3d+1
+DX 14  Per  12
+IQ 10  Will 12
+HT 14  FP   14
+BS 8, Move 5
+Combat Reflexes
+High Pain Threshold
+Weapon Master
+Shield Wall Training
+Weapon Bond
+Brawling-16 Knife-16 Wrestling-16 Axe/Mace-20 Knife-20 Shield-20 Crossbow-16
+Boating-10 Stealth-13 Merchant-10 Fast Draw(Potion)-15
+Spells: Enlarge, Invisibility
+Dodge-12 Parry-16 Block-17 (with +3 DB)
+DR 7 (plate, tough skin)
+Fine Balanced Blighted Dwarven Large Knife (22) Reach C-1, 3d+5 cut, 1d+5 imp, plus bleed 1/s
+if enlarged SM +1, ST 28 HP 28 thr 3d-1 sw 5d+1 falchion damage 5d+13 cut, 3d+4 imp, plus bleed
+(Blighted Blade: Wounds bleed 1/s until magically healed)
+Potion of Major Healing
+Potion of See Invisible
+Crossbow (ST 21) (16)  Acc 4, 2d+4 imp, or 2d+4 (2) with bodkin
+Quiver, 5 imp bolts, 5 bodkin bolts
+
+12-12:
+knives, cleavers, waxed parchment sheets
+
+12-13:
+Northwest most:
+Spiked Owlbear
+http://gurpswiki.wikidot.com/m:bird-bear
+SM +1
+ST 25    HP   25  thr 2d+2  sw 5d-1
+DX 14    Will 11
+IQ 5     Per  12
+HT 14    FP   14
+DR 8 (tough skin + plate barding)
+Combat Reflexes
+Weapon Master (spiked claws)
+Extra Attack
+Bite (20) 2d+3 cut, reach C
+Claw (20) 2d+8 cut, reach C,1
+brawling-20, wrestling-20
+BS 7   Move 7
+Dodge 10  Parry (Brawling) 14
+Constriction Attack B43
+    First grapple, then on successive turns QC ST vs. ST or HT
+    If win, victim takes margin as damage  DR protects
+Spikes: DX-4 to stab each enemy in CC as free action, 1d-2 imp
+   Monster Drool on spikes.  R-HT or 2 points injury.
+treasure: pelt 16#, worth $50 (less if damaged)
+          spiked owlbear barding, worth 1/10 plate armor value for parts
+
+
+
+Southwest of eastern group:
+Tasked Invisible Stalker
+SM 1
+ST 25  HP   25  thr 2d+2  sw 5d-1
+DX 16  Will 12
+IQ 12  Per  16
+HT 14  FP   13
+BS 7.5  Move 6 (Fly)  Dodge 13
+Invisible (even after attacking)
+See Invisible
+-3 to hit, Blur
+Combat Reflexes, Improved Dodge
+Can voluntarily go Berserk
+Speaks Auran
+Tracking-20, Stealth-20
+Sumo Wrestling-20  (+2/die to slam)
+Slam: thr-2 cr, +2/die from Sumo-20 (2d+4 cr),
+   add this turn's move from range/speed table, +2 if AoA strong
+DX check for knockdown if >= damage, auto knockdown on 2x damage
+-4 to dodge invisible foe
+-6 to hit invisible foe, -4 if hex known  (Concentrate, Hearing check)
+After a slam, HT-1 or deafened 10s
+
+
+Upper level, room east of western hallway
+Intrusion Countermeasures
+8 Duergar Clansmen
+ST 19  HP   19  thr 2d-1 sw 3d+1
+DX 14  Per  12
+IQ 10  Will 12
+HT 14  FP   14
+BS 8, Move 5
+Combat Reflexes
+High Pain Threshold
+Weapon Master
+Shield Wall Training
+Weapon Bond
+Brawling-16 Knife-16 Wrestling-16 Axe/Mace-20 Broadsword-20 Shield-20
+Boating-10 Stealth-13 Merchant-10 Fast Draw(Potion)-15
+Spells: Enlarge, Invisibility
+Dodge-12 Parry-16 Block-16 (with +3 DB)
+DR 7 (plate, tough skin)
+Fine Balanced Blighted Dwarven Large Falchion (22) Reach 1, 3d+10 cut, 2d+3 imp, plus bleed 1/s
+if enlarged SM +1, ST 28 HP 28 thr 3d-1 sw 5d+1 falchion damage 5d+13 cut, 3d+4 imp, plus bleed
+Potion of Major Healing
+Potion of See Invisible
+(Blighted Blade: Wounds bleed 1/s until magically healed)
+
+Treasure: flask of whiskey, worth $10
+playing cards: $5  40 cards, dwarven runes and pictures
+
+12-14:
+$20
+mirror: worth $400
+2 sacks
+---
+(12)
+sack
+$72 coins
+6 $100 gems
+Full-face Helmet of Hydration -- create water, tube
+
+12-15:
+(upstairs)
+Roll for random encounter every turn, but not Spiked Owlbear
+
+12-18:
+(upstairs)
+TODO
+Master Wizard
+
+Treasure:
+Standing mirror $1200
+Secret compartment Search+1: 12 black onyx, total value $4000
+inside armoire: Search+2, portrait of mountain dwarf female, "Sabinn"
+Search-6: key
+
+12-19:
+(upstairs)
+
+Unhallow: No sanctity zone for good, Bless comes off
+Safe: Lockpicking-6
+Inside metal safe: Symbol of Pain, R-Will-2 or Pain for 1 hour
+Secret door: Search-7
+
+TODO
+2 bear zombies
+
+TODO
+2 sphinx skeletons
+
+
+12-20:
+Danger Sense
+Locks on all doors: Lockpicking-6
+Explosive Runes on door, in Dwarven
+6d force damage
+reader: cannot avoid
+within 3 hexes: Retreating/Diving Dodge-3 (so Dodge-6) for half
+Traps-7 to find, Traps-7 to disable
+
+$1000 worth of gems
+$1000 of precious metals
+$100 tiny platinum sword
+
+12-21:
+50% chance wort (tastes bad)
+else 50% chance poisonous rye, R-HT or nauseated 2 hours, confused 10 minutes
+One cask good, "for delivery to Wayward Daughter Inn"
+
+12-22:
+Door is magically locked, cannot be picked.
+Silent Alarm spell, pings Wizard
+Door can be opened with Dispel Magic, or by cutting it down.
+
+Cultist Wizard
+ST 10  HP   13
+DX 12  Per  13
+IQ 15  Will 15
+HT 12  FP   15  ER 3
+BS 6  Move 5
+Dodge-9  Parry-12  (Iron Arm, Blink)
+DR 6
+Magery 6
+Curious
+Speaks Common, Giant, Undercommon, Dwarf
+Combat Reflexes
+Unfazeable
+Body Sense-16  Innate Attack-16  Staff-14
+Spells:
+Enlarge, Invisibility, Gift of Tongues, Blink, Iron Arm, Great Haste, Mind Reading,
+Missile Shield, Acid Jet, Flame Jet, See Invisible, Truthsayer, Dispel Magic, Alarm,
+Reverse Missiles, Great Haste, Dimension Door, Shocking Touch, Concussion, Explosive
+Lightning, Haste, Armor, Displacement (like Blur -5), Death
+Quarterstaff, Scale Armor, Bracers of Force DR1, $167
+Wand of See Secrets (20 charges)
+Will start with Missile Shield, Haste, Armor, See Invisible, Armor, Shield up
+Pendant: Sign of the Great Beast
+
+5 Cultist Guards
+Rolf
+ST 19  HP   19  thr 2d-1 sw 3d+1
+DX 14  Per  12
+IQ 10  Will 12
+HT 14  FP   14
+BS 7, Move 5
+Combat Reflexes
+High Pain Threshold
+Weapon Master
+Shield Wall Training
+Weapon Bond
+Brawling-16 Knife-16 Wrestling-16 Axe/Mace-20 Broadsword-20 Shield-20 2H Sword-20
+Boating-10 Stealth-13 Merchant-10 Fast Draw(Potion)-15
+Dodge-12 Parry-16 Block-16 (with +3 DB)
+DR 10 (plate, leather, tough skin)
+Fine Balanced Dwarven Bastard Sword (22) Reach 1, 3d+10 cut, 2d+3 imp
+Potion of Major Healing
+Potion of See Invisible
+Anti-Literate Touch: 1/day, Melee hit, Will+2 or lose literacy (all languages)
+Smite: 1/day, +4 to hit, +3 to damage
+
+Treasure:
+
+Shadows that Move: Illicit Guilds of Punjar  History-2 to know, $750
+Bloody Jack, Cozette, and Jakob the Leper: Pirates of the Lirean
+The Mask of Death and Other Dread Artefacts
+Bloody Battles of the Barrowdowns
+
+
+12-24:
+8 Ebuul Lizards
+SM 1
+ST 24  HP   24  thr 2d+1
+DX 10  Will 14
+IQ  2  Per  13
+HT 13  FP   13
+BS 7   Move 7   Dodge 11
+DR 5
+Aquatic, Dark Vision, Combat Reflexes
+Brawling-20 Stealth-20 Innate Attack-20
+Bite (20) Reach C,1  2d+7 cut  Followup: Contest of ST to trip
+Breathe Poison Cone (20) 3 hexes long, 3 hexes wide  R-HT-4 or blinded
+   5s later: R-HT-4 or paralyzed
+
+All are hidden; Stealth vs. Per to detect.
+
+
+12-26:
+
+Invisible Stalker
+SM 1
+ST 25  HP   25  thr 2d+2  sw 5d-1
+DX 16  Will 12
+IQ 12  Per  16
+HT 14  FP   13
+BS 7.5  Move 6 (Fly)  Dodge 13
+Invisible (even after attacking)
+See Invisible
+-3 to hit, Blur
+Combat Reflexes, Improved Dodge
+Can voluntarily go Berserk
+Speaks Auran
+Tracking-20, Stealth-20
+Sumo Wrestling-20  (+2/die to slam)
+Slam: thr-2 cr, +2/die from Sumo-20 (2d+4 cr),
+   add this turn's move from range/speed table, +2 if AoA strong
+DX check for knockdown if >= damage, auto knockdown on 2x damage
+-4 to dodge invisible foe
+-6 to hit invisible foe, -4 if hex known  (Concentrate, Hearing check)
+After a slam, HT-1 or deafened 10s
+
+Dire Bats (10)  http://gurpswiki.wikidot.com/m:dire-bat
+ST: 17  HP:   17    Speed: 7.25
+DX: 16  Will: 12    Move: 4
+IQ:  3  Per:  12    Weight: 200 lbs.
+HT: 13  FP:   13    SM: 0
+Dodge: 10    Parry: N/A      DR: 2
+Bite (16): 1d+1 cutting. Reach C.
+Traits: Flight (Air Move 7; Winged; Handling Bonus +1);
+   Scanning Sense (Sonar, 20 yards); Sharp Teeth; Wild Animal.
+Skills: Brawling-16; Stealth-18.
+
+Grand Devotee, duergar werebat
+SM 0
+ST 30  HP   30  thr 3d  sw 5d+2
+DX 24  Will 20
+IQ 15  Per  14
+HT 24  FP   24   ER 6
+BS 12  Move 12   Air Move 12
+Dodge 16+3  Block 17+3 Parry 17+3
+DR 10 (vulnerable to silver)
+Luck every 15 minutes
+Bless +2
+Combat Reflexes
+Unholy Might/Grace/Vitality, included in stats
+Enlarge, Invisibility
+Unfazeable
+Power Investiture 6
+Dispel Magic-20  Bless-20  Deathtouch-20  etc.
+Inflict Wounds: as Magic Bolt, 2d
+Flight
+Mace-26 Shield-26 Brawling-26
+Fine Balanced Dwarven Unholy Mace (26) Reach 1, 5d+15 cr (+2 vs. good)
+Lanyard
+Large Shield
+Bite (26) 3d+3 cut, R-HT or become a werebat
+Mail (shifterboon)
+Onyx holy symbol of Sodoutym ($50)
+
+
+12-27:
+Roll for random encounter every visit, but not Spiked Owlbear after first time
+Each A room has 6 casks of rye beer, $50 each
+
+12-28a:
+11 Duergar Clansmen
+ST 19  HP   19  thr 2d-1 sw 3d+1
+DX 14  Per  12
+IQ 10  Will 12
+HT 14  FP   14
+BS 8, Move 5
+Combat Reflexes
+High Pain Threshold
+Weapon Master
+Shield Wall Training
+Weapon Bond
+Brawling-16 Knife-16 Wrestling-16 Axe/Mace-20 Broadsword-20 Shield-20
+Boating-10 Stealth-13 Merchant-10 Fast Draw(Potion)-15
+Spells: Enlarge, Invisibility
+Dodge-12 Parry-16 Block-16 (with +3 DB)
+DR 7 (plate, tough skin)
+Fine Balanced Dwarven Large Axe (22) Reach 1, 3d+11 cut
+if enlarged SM +1, ST 28 HP 28 thr 3d-1 sw 5d+1 axe damage 5d+15 cut
+5 total Potion of Major Healing
+4 total Potion of See Invisible
+$633 total coins
+2 72" Scorpions, on tripods  (LT 82, 83)
+Skill 20, Acc 4, 7d+1 imp, 30s to reload
+
+
+12-29:
+150 crossbow bolts
+20 ballista spears
+
+12-31:
+Spiked Owlbear
+http://gurpswiki.wikidot.com/m:bird-bear
+SM +1
+ST 25    HP   25  thr 2d+2  sw 5d-1
+DX 14    Will 11
+IQ 5     Per  12
+HT 14    FP   14
+DR 8 (tough skin + plate barding)
+Combat Reflexes
+Weapon Master (spiked claws)
+Extra Attack
+Bite (20) 2d+3 cut, reach C
+Claw (20) 2d+8 cut, reach C,1
+brawling-20, wrestling-20
+BS 7   Move 7
+Dodge 10  Parry (Brawling) 14
+Constriction Attack B43
+    First grapple, then on successive turns QC ST vs. ST or HT
+    If win, victim takes margin as damage  DR protects
+Spikes: DX-4 to stab each enemy in CC as free action, 1d-2 imp
+   Monster Drool on spikes.  R-HT or 2 points injury.
+treasure: pelt 16#, worth $50 (less if damaged)
+          spiked owlbear barding, worth 1/10 plate armor value for parts
+
+4 Duergar Clansmen
+ST 19  HP   19  thr 2d-1 sw 3d+1
+DX 14  Per  12
+IQ 10  Will 12
+HT 14  FP   14
+BS 8, Move 5
+Combat Reflexes
+High Pain Threshold
+Weapon Master
+Shield Wall Training
+Weapon Bond
+Brawling-16 Knife-16 Wrestling-16 Axe/Mace-20 Broadsword-20 Shield-20
+Boating-10 Stealth-13 Merchant-10 Fast Draw(Potion)-15
+Spells: Enlarge, Invisibility
+Dodge-12 Parry-16 Block-16 (with +3 DB)
+DR 7 (plate, tough skin)
+Fine Balanced Dwarven Large Axe (22) Reach 1, 3d+11 cut
+if enlarged SM +1, ST 28 HP 28 thr 3d-1 sw 5d+1 axe damage 5d+15 cut
+2 See Invisible Potions
+2 Major Healing Potions
+1 Swordbreaker Oil
+whistle
+$159
+
+12-34:
+4 Duergar Clansmen
+ST 19  HP   19  thr 2d-1 sw 3d+1
+DX 14  Per  12
+IQ 10  Will 12
+HT 14  FP   14
+BS 8, Move 5
+Combat Reflexes
+High Pain Threshold
+Weapon Master
+Shield Wall Training
+Weapon Bond
+Brawling-16 Knife-16 Wrestling-16 Axe/Mace-20 Broadsword-20 Shield-20
+Boating-10 Stealth-13 Merchant-10 Fast Draw(Potion)-15
+Spells: Enlarge, Invisibility
+Dodge-12 Parry-16 Block-16 (with +3 DB)
+DR 7 (plate, tough skin)
+Fine Balanced Dwarven Large Axe (22) Reach 1, 3d+11 cut
+if enlarged SM +1, ST 28 HP 28 thr 3d-1 sw 5d+1 axe damage 5d+15 cut
+
+When 2 duergar are knocked out or 3 are injured, 4th pulls lever
+Collapsing walls trap, 14d damage, never miss, can't dodge except by leaving area
+
+12-35:
+Per to see drawing on the wall
+
+12-36:
+No encounter
+
+12-37:
+
+Koborth
+SM 0
+ST 25  HP   25  thr 2d+2  sw 5d-1
+DX 16  Will 20
+IQ 14  Per  15
+HT 14  FP   14
+BS 7.5 Move  7
+DR 15
+Dodge 12+3  Parry 19+3  Block 18
+Magic Resistance 6
+Extra Attack 2
+Unfazeable
+Shield Wall Training
+See Invisible
+HPT
+Tracking: Crown of Narborg
+Unturnable
+Weapon Master (swords)
+Fear Aura: 10 yard radius, Will-2 or Panic (run, if you can't run, AoD,
+                                            -4 to everything but defense)
+No eyes, brains, vitals
+Unnatural: Dies at -HP
+
+Broadsword-30  Two-Handed Sword-30  Shield-25
+Intimidation-20 Tactics-20 Brawling-20
+
+Fine Balanced Dwarven Bastard Sword (30) 1H Reach 1,2 5d+11 cut
+                                                  2   2d+9  imp
+Fine Balanced Dwarven Bastard Sword (30) 2H Reach 1,2 5d+12 cut
+                                                  2   2d+10 imp
+Banded Mail (like Scale)
+Large Shield
+
+
+Treasure:
+Dire Bearskin Rug, #300, $2500
+
+12-38:
+Note on desk: Assassination Options
+Description of Party, and order in which they should be killed:
+1. Seep, female elf wizard, many spells, can Teleport or at least Blink,
+   can Mass Daze, often invisible, can cast without words or gestures,
+   kill as fast as possible, do not try to take prisoner, do not bunch up
+   and get Mass Dazed.
+2. Eliash, Heavily armored elf cleric with flail, very strong, sources
+   differ on combat ability: some say he's lethal and others say he's only
+   mediocre, so possibly it depends on sanctity.  Try to fight in
+   low-sanctity zone for his evil surfacer religion.  Be sure to kill him
+   so he doesn't Resurrect his allies.
+3. Zabar, human male thief, usually invisible, can See Invisible, flanks
+   and stabs eyes.  Seems fairly weak, but Stone Giants tell us that he is
+   the leader, so he may be intelligent or have secret magic or clerical
+   powers.  Kill him as fast as possible.
+4. Polly, female elf with powerful magic bow and Dark Vision googles, likes
+   to flank and shoot in the back.  Use Missile Shield to stop her bow, and
+   then deal with as you wish.
+5. Gor-Ath, very strong orc with two handed sword, magic resistance, seems
+   to be bodyguard slave, not sure if loyal or charmed.  May take alive
+   if all the elves and humans are dead; he might be useful.
+6  Wolfrik, duergar warrior traitor, possibly charmed, take alive if possible
+   for interrogation.
+Reward: $50000 for each elf and human, dead only, heads needed for verification.
+   $10000 dead or $20000 alive for Gor-Ath and Wolfrik.  You can also keep all
+   their gear; Polly's magic bow and Eliash's armor look quite valuable, and
+   Polly stole Dark Vision googles from one of our human hirelings.
+
+
+12-39:
+
+Illusion curtains: Will-1 to disbelieve if attempted
+                   Will+0 if someone shoots through them
+
+12 Duergar Clansmen (2 visible, 10 behind illusions)
+ST 19  HP   19  thr 2d-1 sw 3d+1
+DX 14  Per  12
+IQ 10  Will 12
+HT 14  FP   14
+BS 8, Move 5
+Combat Reflexes
+High Pain Threshold
+Weapon Master
+Shield Wall Training
+Weapon Bond
+Brawling-16 Knife-16 Wrestling-16 Axe/Mace-20 Broadsword-20 Shield-20 Crossbow-20
+Boating-10 Stealth-13 Merchant-10 Fast Draw(Potion)-15
+Spells: Enlarge, Invisibility
+Dodge-12 Parry-16 Block-16 (with +3 DB)
+DR 7 (plate, tough skin)
+Fine Balanced Dwarven Large Axe (22) Reach 1, 3d+11 cut
+if enlarged SM +1, ST 28 HP 28 thr 3d-1 sw 5d+1 axe damage 5d+15 cut
+2 have ST 21 Crossbows
+Crossbow (ST 21) (20)  Acc 4, 2d+4 imp, or 2d+4 (2) with bodkin
+Quiver, 5 imp bolts, 5 bodkin bolts
+
+Zahd, Fake Ruler
+ST 19  HP   19  thr 2d-1 sw 3d+1
+DX 14  Per  12
+IQ 10  Will 12
+HT 14  FP   14
+BS 8, Move 5
+Combat Reflexes
+High Pain Threshold
+Weapon Master
+Shield Wall Training
+Weapon Bond
+Brawling-16 Knife-16 Wrestling-16 Axe/Mace-20 Broadsword-20 Shield-20
+Boating-10 Stealth-13 Merchant-10 Fast Draw(Potion)-15
+Spells: Enlarge, Invisibility
+Dodge-12 Parry-16 Block-16 (with +3 DB)
+DR 7 (plate, tough skin)
+Fine Balanced Dwarven Large Axe (22) Reach 1, 3d+11 cut
+if enlarged SM +1, ST 28 HP 28 thr 3d-1 sw 5d+1 axe damage 5d+15 cut
+fake crown worth $900
+key
+
+Treasure:
+$10000 in coins on the floor
+
+Secret door: Search-8
+
+12-40:
+Lockpicking-10
+
+Thane Hrolad
+ST 19  HP   19  thr 2d-1 sw 3d+1
+DX 14  Per  12
+IQ 10  Will 12
+HT 14  FP   14
+BS 8, Move 5
+DR 20
+Combat Reflexes
+High Pain Threshold
+Weapon Master
+Shield Wall Training
+Weapon Bond
+Unfazeable
+Brawling-16 Knife-16 Wrestling-16 Axe/Mace-20 Broadsword-20 Shield-20
+Boating-10 Stealth-13 Merchant-10 Fast Draw(Potion)-15
+Spells: Enlarge, Invisibility
+Dodge-12 Parry-16 Block-16 (with +3 DB)
+DR 17 (plate, tough skin, crown)
+Fine Balanced Dwarven Large Axe (22) Reach 1, 3d+11 cut
+if enlarged SM +1, ST 28 HP 28 thr 3d-1 sw 5d+1 axe damage 5d+15 cut
+Crown of Narborg (evil, take 1d+2 on touch, lose 1 from each attribute if worn)
+Horn of Valhalla (summons 2-5 grimlock barbarians, 2 charges remain)
+Rod of Lordly Might (mace, flaming broadsword, axe, spear, longspear, climbing pole, compass)
+key
+
+Grimlock Barbarians
+ST 20  HP   20  thr 2d-1  sw 3d+2
+DX 14  Will 12
+IQ 10  Per  14
+HT 14  FP   14
+BS 7, Move 8
+Dodge 12 (15), Parry 15 (18), Block 15 (18)  DR 5
+Combat Reflexes, Weapon Master, Shield Wall Training, HPT
+Axe-20  Shield-16  Brawling-16
+Axe (20)  Reach 1, 3d+10 cut
+Fine Dwarven Axe, Large Shield, Hide Armor

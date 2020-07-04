@@ -1,0 +1,658 @@
+9B-1:
+Vision+2 to spot Behir's treasure
+Vision   to spot portcullis
+Vision-6 to spot arrow slits in rear of tower
+
+
+Behir
+SM +5
+ST 35  HP   35
+DX 10  Will 11
+IQ  9  Per  11
+HT 13  FP   17
+Speed 6  Move 8  Dodge 9
+DR 6, 20 vs. electricity
+
+Sharp Claws (12): 5d-1 cutting  Reach C-5.
+
+Sharp Teeth (12): 5d-1 cutting  Reach C.  Bite counts as grapple.
+
+Swallow: Grapple, then Takedown (QC ST vs. ST/DX/grappling skill),
+         then Pin (RC ST + SM, +3 for most free hands), Pin = swallow
+         Swallowed: take 3d cr + 1d acid per turn
+         Escape: 20 cutting to make a hole
+
+Breathe Electricity (14): 3d burning surge, costs 1 FP, takes 1 second to
+recharge. Range 10, 1-yard wide line. Targets stuck by this attack must make
+an HT roll, at -1 per 2 points of penetrating damage, or be physically stunned.
+On subsequent turns, they can roll HT to recover.
+
+Traits: Bad Grip 2; Constriction Attack; Discriminatory Smell; Extended
+Lifespan 4; Extra Legs (12 Legs); High Pain Threshold; Horizontal; Immunity to
+Electric Conduction; Immunity to Noxious Electric Effects; Infravision;
+Intolerance (Dragons); Nictitating Membrane 3; Night Vision 5; Peripheral
+Vision; Scales; See Invisible (constant); Very Low Consumption;
+
+Skills: Brawling-16; Innate Attack (Breath)-16; Tracking-12; Wrestling-16.
+
+Spells: Armor-16 (up to +5 DR), Slow Fall-16, Haste-16 (up to +3 Move/Dodge)
+
+Notes: Size 12 hexes.
+
+
+
+Treasure on ledge X:
+$1300
+$3600 in emeralds
+Human-sized Heavy Leather Armor of Shadow, Fortify +1, +5 to Stealth vs. Vision
+Fine Balanced Dwarven Halberd
+Oil of Magic Weapon (temporary Accuracy +1, Puissance +1)
+Necklace with steel medallion, hen bowing to jester
+Savoir Faire-6 to know this is Fellowship of the Humbled Hen
+
+
+9B-2:
+
+Portcullis: Lever inside
+1125 lbs.
+ST 27 to lift overhead (4s)
+Or Escape-6 to slide between bars
+Or DR 8, 30 HP to break a bar
+Partial Cover behind portcullis: Exploits 42
+
+2 Drow ("Human") spider riders
+ST 13   HP   13  thr 1d  sw 2d-1
+DX 13   Will 13
+IQ 11   Per  13
+HT 12   FP   12
+BS 6.25 Move  6  Dodge 11  Block-13  Parry 13F
+DR 4
+Dark Vision
+Combat Reflexes
+Magic Resistance (improved) 3
+Magery 0
+Immune to Sleep
+Resist +3 to Charm
+-3 to HT rolls to resist bright lights
+Languages: Common, Elf, Undercommon
+
+Rapier-16  Riding(spider)-16  Crossbow-16  Poison-14  Knife-14 Shield-16
+Wrestling-14  Climbing-13  Fast Draw(arrow, sword, potion)-16
+
+Spell-like: Darkness-12  Simple Illusion-12  Faerie Fire-12
+(Faerie Fire counters stealth, blur, invisibility, etc. 2 hex area)
+
+Fine Pistol Crossbow (16)  Acc 1, 1d+2 imp + poison
+Hip quiver, 20 bolts (10 imp 10 bodkin)
+Fine Balanced Edged Rapier (16+1) reach 1-2  2d cut or 1d+1 imp + poison
+Long Knife (14)  reach C-1  2d-2 cut or 1d imp + poison
+Mail (suit)
+Fine light buckler: DB1
+Hat of disguise: Wearer appears to be an unattractive human male
+2 doses poison
+Potion of Major Healing
+Dust of Tracelessness
+
+Drow poison:
+R-HT+1 or KO
+If KO, R-HT+1 or stay KO for 1d+1 hours
+
+Riding-2 to fast mount spider
+
+
+2 Humongous Spiders
+SM +1
+ST 19  HP   19  thr 2d-1  sw 3d+1
+DX 13  Will 10
+IQ  4  Per  10
+HT 13  FP   13
+BS 6.5
+Move 7
+Dodge 9
+DR 3
+Night Vision 9
+Tremorsense (detects invisible)
+360 vision, ambidexterity, spider climb move 4
+Brawling-15, Stealth-13
+Bite(15) 2d imp  Reach C-1 followup R-HT or 1d toxic  > HP/2 poison = paralyzed
+Binding (Web) Acc 3, Max 300, grappled (can't move/change position/facing, -4 DX,
+    -2 defenses)
+Web has ST 12, DR 4, lasts an hour
+victim must win QC of ST to break free, -1 to ST per failure
+or attack web, -4 to hit (Innate Attack always hits),
+   each point of damage reduces web's ST by 1
+Flammable: 3 points burning sets it on fire
+
+
+3 Big Spiders
+SM-1
+ST  5  HP    5
+DX 15  Will 10
+IQ  2  Per  10
+HT 11  FP   11
+BS 7
+Move 9
+Dodge 10
+DR 1
+Night Vision 9
+Tremorsense (detects invisible)
+360 vision, ambidexterity, spider climb move 7
+Brawling-17, Stealth-15
+Bite(17) 1d-4 imp  Reach C followup 4d or 2d toxic based on R-HT
+    > HP/2 poison = paralyzed
+Binding (Web) Acc 3, Max 300, grappled (can't move/change position/facing, -4 DX,
+    -2 defenses)
+Web has ST 12, DR 4, lasts an hour
+victim must win QC of ST to break free, -1 to ST per failure
+or attack web, -4 to hit (Innate Attack always hits),
+   each point of damage reduces web's ST by 1
+Flammable: 3 points burning sets it on fire
+
+
+
+Azzik, Gargoyle Scout
+SM 0
+ST 17  HP   19   thr 1d+2  sw 3d-1
+DX 15  Will 12
+IQ  9  Per  10
+HT 14  FP   14
+Speed 7.25 Move 7 Air Move 10
+DR 2+3 = 5
+
+If asleep, needs to make a Per+2 roll, -1 / 3 hexes to yeller, to awaken
+
+Heroic Archer, Weapon Master (Bow), Night Vision 5, Claws, Flight
+Limited Camouflage (stone), No Nuisance Rolls (Fast Draw and Quick Ready)
+Extra Attack, Combat Reflexes, Weapon Bond
+Ugly, Flight (Winged), Gluttony, ORH (Dirty -1), Bad Temper(9)
+Language: Undercommon
+Bow-20  Fast-Draw  Stealth-17 (+2 on stone) Brawling-15
+
+(ST 19) Elven Balanced Composite Bow (22)  Acc 3  2d+7 imp or cut or (2) pi
+Barbed Tail  (15)  1d+4 imp striker Reach C
+Clawed Kick  (15)  1d+4 cr          Reach C,1
+Clawed Punch (15)  1d+3 cr          Reach C
+
+Treasure: ST 19 Elven Balanced Composite Bow, Leather Armor w/ Fortify +1,
+20 each imp, cut, bodkin arrows, Potion of Major Healing, pouch with
+$122 in coins and some stinky cheese
+
+59 rats in box
+
+Secret door to armory: Search-4
+Secret door to stairs: Search-6, must be searching 10' up, not at ground level.
+     Also features iron ladder.
+
+Treasure in armory:
+50 bolts
+broken fine pistol crossbow
+4 fine long spears
+2 fine light bucklers DB1
+Wand of Flame Jet (1-3d, 26 charges, 1 charge/d/s)
+Potion of Darkvision
+Dust of Tracelessness
+Pipes of Haunting (10 yard radius, Musical Instruments to play,
+                   R-Will+1 or fear for 4 rounds, can exclude targets, 2 uses/day)
+Idol of Tororthun (whip-wielding drider form) $1100
+
+
+9B-3:
+Iron Door is trapped, words to deactivate and reactivate
+Traps-7 to find, Traps-7 to disable
+Prismatic Spray, 20 yard range, cone, each target in area hit by:
+automatic blindness for 1d+1 turns
+1 20 Fire, dodge for half
+2 40 acid, dodge for half
+3 80 electricity, dodge for half
+4 poison, R-HT or die, on failure lose 1d HT
+5 petrified, R-HT to avoid
+6 R-Will or confused (1/3 chance attack, flee, babble) until Remove Curse etc.
+7 R-Will or sent to another plane  (TODO Far Garden?)
+8 roll twice ignoring more 8s
+
+
+9B-4:
+Listening at door: Hearing-3 to hear soft singing
+Elven and music-7 -> song is "Five Rings of Berain"
+History-4 to know the story
+Vision-2 to notice that holes in wall to N/E are arrow slits / murder holes
+
+
+9B-5:
+
+2 Drow rogues
+Hearing-0 to hear soft singing
+easily surprised while playing with spiders: -5 to Per
+
+ST 13   HP   13  thr 1d  sw 2d-1
+DX 13   Will 13
+IQ 11   Per  13
+HT 12   FP   12
+BS 6.25 Move  6  Dodge 11  Parry 12F
+DR 5
+
+Dark Vision
+Combat Reflexes, Enhanced Dodge
+Magic Resistance (improved) 3
+Magery 0
+Immune to Sleep
+Resist +3 to Charm
+-3 to HT rolls to resist bright lights
+Languages: Common, Elf, Undercommon
+
+Rapier-16  Riding(spider)-16  Crossbow-16  Poison-14  Knife-14 Shield-16
+Acrobatics-16  Wrestling-14  Climbing-13  Fast Draw(arrow, sword, potion)-16
+
+Spell-like: Darkness-12  Simple Illusion-12  Faerie Fire-12
+(Faerie Fire counters stealth, blur, invisibility, etc. 2 hex area)
+
+Fine Balanced Edged Rapier (16+1) reach 1-2  2d cut or 1d+1 imp + poison
+Long Knife (14)  reach C-1  2d-2 cut or 1d imp + poison
+Mail (suit)
+Ironskin Amulet DR1
+2 doses poison
+Potion of Great Haste
+Potion of Major Healing
+1 has Wand of Invisibility (37 charges)
+
+Drow poison:
+R-HT+1 or KO
+If KO, R-HT+1 or stay KO for 1d+1 hours
+
+4 phase spiders (3 in ethereal plane to start)
+SM +1
+ST 19  HP   19  thr 2d-1  sw 3d+1
+DX 13  Will 11
+IQ  7  Per  12
+HT 13  FP   13
+BS 6.5
+Move 7 Dodge 9 Phase-14
+DR 3
+Darkvision
+Tremorsense (detects invisible)
+Ethereal Jaunt: Ethereal during/as Move, come back as free action
+Can move any direction while Ethereal at half speed
+While Ethereal: invisible, insubstantial, can see material plane
+360 vision, ambidexterity, spider climb move 4
+Brawling-16, Stealth-13
+Bite(16) 2d imp + poison Reach C-1
+poison: immediate and again in 1 minute: R-HT-1 or 1d+1 HT damage
+
+
+9B-8:
+Listen+2 to hear Undercommon from corridor, then from door to right
+Secret door: Search-6
+Search-2 to spot arrow slits/murder holes at west end
+
+9B-9:
+cots
+rope
+tables
+stools
+benches
+dummies
+fine large knife
+4 bokken
+
+
+9B-10:
+
+Drow Rogue
+ST 13   HP   13  thr 1d  sw 2d-1
+DX 13   Will 13
+IQ 11   Per  13
+HT 12   FP   12
+BS 6.25 Move  6  Dodge 11  Parry 12F
+DR 5
+Dark Vision
+Combat Reflexes, Enhanced Dodge
+Magic Resistance (improved) 3
+Magery 0
+Immune to Sleep
+Resist +3 to Charm
+-3 to HT rolls to resist bright lights
+Languages: Common, Elf, Undercommon
+Rapier-16  Riding(spider)-16  Crossbow-16  Poison-14  Knife-14 Shield-16
+Acrobatics-16  Wrestling-14  Climbing-13  Fast Draw(arrow, sword, potion)-16
+Spell-like: Darkness-12  Simple Illusion-12  Faerie Fire-12
+(Faerie Fire counters stealth, blur, invisibility, etc. 2 hex area)
+Fine Balanced Edged Rapier (16+1) reach 1-2  2d cut or 1d+1 imp + poison
+Long Knife (14)  reach C-1  2d-2 cut or 1d imp + poison
+Mail (suit)
+Ironskin Amulet DR1
+2 doses poison
+Potion of Great Haste
+Potion of Major Healing
+Drow poison:
+R-HT+1 or KO
+If KO, R-HT+1 or stay KO for 1d+1 hours
+
+Advanced Shield Guardian
+SM +1
+ST 22    HP   22  thr 2d  sw 4d
+DX 10    Will 10
+IQ  3    Per  10
+HT 14    FP   14
+BS 6  Move 6  Dodge 11  Parry 14
+DR 6
+
+Dark Vision
+Regeneration 5 HP/s
+Sacrificial Parry
+Combat Reflexes
+See Invisible
+Enhanced Dodge +1
+Enhanced Parry +1
+Sumo-18   Brawling-18  Wrestling-18  Parry Missile Weapons-18
+
+Punch (18)  2d+2 cr, striker, Reach C-1
+Kick  (16)  2d+3 cr, striker  Reach C-1
+Slam  (18)  slam at 2d+2 cr
+
+Stored Spell: Grace (at +4 to DX)
+
+
+Magus Revesk, Drow Wizard
+ST  9  HP   12  thr 1d-2  sw 1d-1
+DX 12  Will 17      (note: +5 to DX if Grace cast by golem)
+IQ 15  Per  15
+HT  9  FP   12   ER 9  (6 GBF)
+Speed 5.5   Move 5   Dodge 9  Parry 11  Iron Arm-20
+Dark Vision
+Magery 4
+Improved Magic Resistance 4
+Perfect Balance
+Languages: Abyssal, Common, Draconic, Elf, Undercommon
+Innate Attack-18 (both fireball and jet)
+All spells from Illusion, Necro, Body Control at 20
+
+Flight (gliding, GBF)
+Sonar (GBF)
+
+Knife-16  Knife Throwing-16
+Fine Large Knife (16) 1d-1 imp  + poison reach C,1
+
+Drow poison:
+R-HT+1 or KO
+If KO, R-HT+1 or stay KO for 1d+1 hours
+
+dusty rose prism ioun stone: +1 to active defenses, not with Combat Reflexes
+shield guardian amulet
+spellbook, silver and obsidian embossed, $3400
+
+
+
+Tactics:
+1. Guardian, Grace Me.
+2. Acid Blood on rogue (anytime she takes damage, 1 HP to adjacent)
+3. Stinking Cloud - area, cost 2, like fog but R-HT or nauseated
+4. Debility R-HT or -5 to ST
+5. Bloodlust on zombie (Berserk)
+6. Explosive Fireball
+7. Mass Boil Blood: all within 10 yards, 2d fire damage, R-HT or -1 HT
+Missile Shield
+Vampiric Touch (Deathtouch but heals him half)
+Iron Arm
+Deflect
+Death Vision
+Flame Jet
+Invisibility
+Illusions
+
+Shield Guardian
+SM+1
+ST 25  HP   50  thr 2d+2  sw 5d-1
+DX 11  Will 12
+IQ  8  Per   8
+HT 14
+Speed 6.25
+Move 6
+DR 10 (stone and metal)
+Dodge 10  Parry 17
+
+Traits: Automaton; Cannot Learn; Doesnât Breathe; Dsn't
+Eat or Drink; Doesnât Sleep; High Pain ThresholdHomogeneous;
+Immunity to Disease; Immunity to Poison;
+Indomitable; No Blood; Pressure Support; Reprogrammable;
+Unfazeable; Unhealing (Total); Unnatural.
+Dark Vision, Regeneration 5
+
+Combat Reflexes, High Pain Threshold, Enhanced Parry 3, Sacrificial Parry
+Strikers
+
+Find Master (can trace by amulet)
+Spell Storing: Grace +5
+Shield Other: 1/2 of damage to master goes to golem
+
+Sumo Wrestling-20  Brawling-20
+
+Slam  (20) 2d+4 cr
+Punch (20) 2d+4 cr   Reach C, 1
+
+
+Umol, Dire Bat Familiar  http://gurpswiki.wikidot.com/m:dire-bat
+ST: 17  HP:   17    Speed: 7.25
+DX: 16  Will: 12    Move: 4
+IQ: 10  Per:  12    Weight: 200 lbs.
+HT: 13  FP:   13    SM: +1 (2 hexes)
+Dodge: 10    Parry: N/A      DR: 2
+Bite (16): 1d+1 cutting. Reach C.
+Traits: Flight (Air Move 7; Winged; Handling Bonus +1);
+   Scanning Sense (Sonar, 20 yards); Sharp Teeth; Wild Animal.
+Skills: Brawling-16; Stealth-18.
+Can speak Undercommon
+
+
+Duergar Blood Zombie
+ST 15  HP  19  sw 1d+1  thr 2d+1
+DX 14  Will 8
+IQ  8  Per  8
+HT 15
+Speed 7.25
+Move 7
+DR 6/4 vs. cr
+Dodge 13  Parry 14  Block 14
+Appearance (Monstrous); Automaton; Bad Smell;
+Cannot Learn; Dependency (Loses 1 HP per minute in no-mana areas);
+Disturbing Voice; Doesnât Breath
+Doesnât Eat or Drink; Doesnât Sleep; Highn Threshold;
+Immunity to Disease; Immunity to Mind Control;
+Immunity to Poison; Indomitable; No Blood; No Sense of Smell/Taste;
+Reprogrammable; Single-Minded; Temperature Tolerance 5 (Cold);
+Temperature Tolerance 5 (Heat); Unfazeable; Unhealing (Total);
+Unliving; Unnatural (dies at -HP).
+
+Shield Wall Training
+
+Skills: Brawling-15; Shield-16; Wrestling-15; Flail-16
+Punch (15) 1d cr, reach C
+Shield Bash (16) 1d+1 cr, reach 1
+Morningstar (16) 2d+4 cr, reach 1
+Dwarven Morningstar, Large Shield, Dwarf Scale
+
+
+Treasure:
+2 books holding up bench, missing pages
+
+
+
+9B-11:
+
+Sister of Pain
+ST 16     HP   19  thr 1d+1  sw 2d+2
+DX 17     Per  13
+IQ 11     Will 15
+HT 13     FP   13
+BS   7.5
+Move 8
+DR 2 (tough skin), DR +2 on feet (boots), DR +2 on hands (gauntlets)
+Dodge 14, Parry 17
+
+Punch (20) C    1d+4 cr
+Kick  (20) C,1  1d+6 cr
+
+Chi Talent 4, Unarmed Master, 7 Secret Kicks, Uninterrupted Flurry
+Magic Resistance 5, Unfazeable,
+Combat Reflexes, Enhanced Parry 3, Enhanced Dodge 3, Peripheral Vision
+
+skills at 20:
+Fast-Draw (Potion), Escape, Interrogation, Karate, Judo, Wrestling,
+Throwing Art, Parry Missile Weapons, Blind Fighting, Peripheral Vision
+
+Agility Potion +1d to DX
+Liquid Ice Potion (grenade)  2d burning, armor 1/5
+Backpack of Lightening (holds 40#, contents 25% lightened) 3# $6060
+Fine Torturer's Tools ($500)
+
+
+
+Master Ussalo
+ST 20  HP   23  thr 2d-1  sw 3d+2
+DX 15  Will 12
+IQ 11  Per  12
+HT 14  FP   14
+BS 7.25
+Move 7
+DR 5 (tough skin + scale)
+Parry: 14+3  Block: 17  Dodge: 11+3
+
+Shield Wall Training, Weapon Master, Combat Reflexes, High Pain Threshold
+Luck
+Bless +1
+
+Skills at 20:
+Axe/Mace, Knife, Throwing(Knife), Shield, Fast Draw (potion, knife),
+
+Fine Balanced Dwarven Mace of Thundering (Thunderclap on crit)
+    (3-6 yards, R-HT or deaf)
+Scale Armor DR 4
+Large Shield DB 3
+Potion of Major Healing 2d
+4 Fine Balanced Large Knives w/ poison
+
+Drow poison:
+R-HT+1 or KO
+If KO, R-HT+1 or stay KO for 1d+1 hours
+
+Mace              (21)  3d+11 cr          Reach 1
+Large Knife       (21)  3d+5 cut, poison  Reach C-1
+                     or 2d+3 imp, poison
+Thrown Large Knife(20): 2d+3 imp, poison
+
+
+
+
+Phase spiders (in ethereal plane to start)
+SM +1
+ST 19  HP   19  thr 2d-1  sw 3d+1
+DX 13  Will 11
+IQ  7  Per  12
+HT 13  FP   13
+BS 6.5
+Move 7 Dodge 9 Phase-14
+DR 3
+Darkvision
+Tremorsense (detects invisible)
+Ethereal Jaunt: Ethereal during/as Move, come back as free action
+Can move any direction while Ethereal at half speed
+While Ethereal: invisible, insubstantial, can see material plane
+360 vision, ambidexterity, spider climb move 4
+Brawling-15, Stealth-13
+Bite(15) 2d imp + poison Reach C-1
+poison: immediate and again in 1 minute: R-HT-1 or 1d+1 HT damage
+
+
+9B-12:
+
+High sanctity for Tororthun, low sanctity for others
+
+Matron Chaliax
+
+ST 15   HP   18  thr 1d+1  sw 2d+1
+DX 13   Will 15
+IQ 15   Per  15
+HT 14   FP   17
+BS  8   Move  8  Dodge 13+3  Parry 13+3  Block 17+3
+DR 14
+Dark Vision
+Combat Reflexes, Enhanced Dodge
+Magic Resistance (improved) 3
+Magery 0
+Immune to Sleep
+Resist +3 to Charm
+-3 to HT rolls to resist bright lights
+Languages: Common, Elf, Undercommon
+Rapier-16  Riding(spider)-16  Crossbow-16  Poison-14  Knife-14 Shield-16
+Acrobatics-16  Wrestling-14  Climbing-13  Fast Draw(arrow, sword, potion)-16
+Spell-like: Darkness-12  Simple Illusion-12  Faerie Fire-12
+(Faerie Fire counters stealth, blur, invisibility, etc. 2 hex area, 1/3 range penalty)
+Fine Balanced Edged Rapier (16+1) reach 1-2  2d cut or 1d+1 imp + poison
+Long Knife (14)  reach C-1  2d-2 cut or 1d imp + poison
+
+Arachnid Armor: Fine Dwarven Heavy Plate, Fortify 4: DR 14, grants Sharp Teeth
+  (bite does cut), poison bite followup (R-HT or KO, immediately and in 1 minute),
+  gives Born Biter (SM +3 for biting)
+  Heavily Cursed: all but evil drow worshippers of Tororthun: -2 to all stats
+Fine Large Shield w/ spider picture
+Holy symbol of Tororthun ($100, evil)
+Cloak of Charisma +1
+
+Karate-20 Judo-20 Brawling-20 Wrestling-20 Sumo-20 Shield-20
+Theology-20 Diplomacy-20
+Deathtouch-20 Minor Healing-20 Major Healing-20 Bless-20
+See Invisible-20 Missile Shield-20 Reverse Missiles-20
+Great Haste-20
+Shield Wall Training
+Weapon Master (Arachnid Armor + Shield)
+Luck
+Bless +1
+
+Bite  (20)  1d+2 cut + followup poison (R-HT or KO, followup in 1 minute) Reach C-1
+Slam  (20)  1d+4 cr
+Punch (20)  1d+2 cr  Reach C
+Kick  (20)  1d+3 cr  Reach C-1
+
+
+
+2 Drow Skulkers
+ST 13   HP   13  thr 1d  sw 2d-1
+DX 13   Will 13
+IQ 11   Per  13
+HT 12   FP   12
+BS 6.25 Move  6  Dodge 11  Parry 12F
+DR 5
+Dark Vision
+Combat Reflexes, Enhanced Dodge
+Magic Resistance (improved) 3
+Magery 0
+Immune to Sleep
+Resist +3 to Charm
+-3 to HT rolls to resist bright lights
+Languages: Common, Elf, Undercommon
+Rapier-16  Riding(spider)-16  Crossbow-16  Poison-14  Knife-14 Shield-16
+Acrobatics-16  Wrestling-14  Climbing-13  Fast Draw(arrow, sword, potion)-16
+Spell-like: Darkness-12  Simple Illusion-12  Faerie Fire-12
+(Faerie Fire counters stealth, blur, invisibility, etc. 2 hex area)
+Fine Balanced Edged Rapier (16+1) reach 1-2  2d cut or 1d+1 imp + poison
+lanyard
+Long Knife (14)  reach C-1  2d-2 cut or 1d imp + poison
+Mail (suit)
+2 doses poison
+Potion of Great Haste
+Potion of Major Healing
+Drow poison:
+R-HT+1 or KO
+If KO, R-HT+1 or stay KO for 1d+1 hours
+Bless +1
+
+
+summoned: 3 Spider Swarms DFM54
+Move 2G, HP 15, damage 2d toxic, R-HT for half
+clothing / armor protects for 2s / 5s then none
+
+pearl $800
+aquamarine $500
+3 diamonds $1000 ea.
+4 jaspers $60 ea.
+2 moss agages $6 ea.
+palanquin $3500  40#

@@ -1,0 +1,1042 @@
+Whiterock Level 8
+
+Hiking rules B351, Move 4*10 = 40 miles per day
+Half for bad terrain (most), full for roads
+20% bonus if everyone makes Hiking roll
+
+
+Wandering monsters, per hour, 2d6
+2-3   Unquiet Dead
+4     Concerned Fey
+5     On Patrol (Scouting Party within 10 miles of 8-17)
+6     Scouting Party (On Patrol within 5 miles of 8-4)
+7     Nothing
+8     Confused and Angry
+9     Prey of the Pack
+10    In Concert
+11-12 Forest Book
+
+Unquiet Dead:
+Forest animals flee from it, giving warning
+Braxilant, skeletal chimera
+ST: 35  HP:   40  Speed:  6.00    thr 4d-1 sw 6d+1
+DX: 12  Will: 10  Move:   6
+IQ: 4   Per:  12  Weight: 1,950 lbs.
+HT: 12  FP:   12  SM: +2 (7 hexes)
+Dodge: 12      Parry: n/a  DR: 8
+Bite (22): 4d+3 cutting. Reach C-1
+Claws (22): 4d+3 cutting. Reach C-2.
+Traits: 360Â° Vision; Appearance (Horrific; Universal); Bad Temper (6);Extra Attack 2;
+   Extra Head 2; Quadruped; Social Stigma (Monster); Temperature Tolerance 1;
+   Automaton; Cannot Float; Cannot Learn; Darkvision; Dependency (Mana; common, constant);
+   Doesn't Breathe; Doesn't Eat or Drink; Doesn't Sleep;
+   Fragile (Brittle) (crippled limbs or extremities break off);
+   Fragile (Unnatural) (automatically fails roll to stay alive at -HP);
+   High Pain Threshold (never suffers shock penalties); Immunity (All mind control);
+   Immunity to Metabolic Hazards; Indomitable (can't be influenced);
+   Injury Tolerance (No Blood, No Brain, No Eyes, No Vitals, Unliving)
+      (imp, pi++, x1; pi+, x0.5; pi, x0.33; pi-, x0.2); Mute; No Sense of Smell/Taste;
+   Reprogrammable; Sexless; Single-Minded; Skinny; Social Stigma (Dead);
+   Temperature Tolerance 10; Unaging; Unfazeable (can't be frightened or intimidated);
+   Unhealing (Total); Vacuum Support; Vulnerability (Crushing Attacks; x2);
+   Wealth (Dead Broke).
+Skills: Brawling-22; Innate Attack (Breath)-15; Survival (Mountains)-14.
+
+Concerned Fey:
+8 Grigs, led by Fawheestu, need an escort
+
+On Patrol:
+Centaur Ranger
+
+Unicorn Paragon
+Can cast minor healing with horn
+
+Scouting Party:
+#1 4 Worgs 50' ahead of 2 Bugbears, moving stealthily
+
+4 Worgs
+SM 0
+ST: 17  HP:   17  Speed: 6.00
+DX: 12  Will: 11  Move: 6
+IQ:  8  Per:  14  Weight: 300 lbs.
+HT: 12  FP:   12  SM: +1
+Dodge: 9      Parry: n/a      DR: 2
+Bite (14): 1d+2 cutting; Reach C.
+Traits: Acute Hearing 1; Acute Vision 1; Bad Temper (12); Chummy; Colorblindness;
+Discriminatory Smell; Night Vision 8; Quadruped; Supernatural Feature (Glowing red eyes);
+Temperature Tolerance 1 (3Â° to 70Â°).
+Skills: Brawling-14; Stealth-13; Tracking-15.
+
+2 Bugbears (Brute template)
+SM 1
+ST 16   HP   18  thr 1d+1  sw 2d+2
+DX 13   Will 10
+IQ 10   Per  10
+HT 13   FP   13
+BS 6.5  Move  6
+DR 3 (leather, tough skin)
+Dodge 10 Parry 11U  (all including DB)
+Combat Reflexes
+High Pain Threshold
+Berserk (Battle Rage) (12- to avoid)
+Flail-15 Bow-14 Fast-Draw (Arrow)-14 Tactics-9 Observation-12
+Survival(Woods)-12 Tracking-12 Brawling-14 Jumping-14
+Fine Flail (15) 2d+6 cr  Reach 1,2*  Parry 11U  -4 to parry, -2 to block
+Composite Bow (14) Acc 3  1d+4 imp - 10 arrows
+Treasure: $10 in coins each.
+
+#2
+4 Goblin Wasp Riders (Archer template)
+SM-1
+ST 13   HP   14  thr 1d  sw 2d-1
+DX 13   Will 10
+IQ  9   Per  12  Vision 14
+HT 12   FP   12
+BS 6.25 Move  6
+Dodge 9 Parry 10
+DR 2
+Heroic Archer (Acc w/o Aim, ignore bulk penalty on Move and Attack and Close Combat,
+   ignore penalty to flying or acrobatic attack, Quick-Shoot at Bow-3, DWA at Bow-2,
+   half penalties to fast-draw arrows.
+Weapon Bond (Bow)
+Weapon Master (Bow)
+Strongbow
+Acute Vision +2
+Overconfidence, Greed
+Bow-20, Fast-Draw (Arrow)-20, Tactics-9, Observation-12, Survival(Woods)-12, Tracking-12
+Shortsword-16 Brawling-16 Jumping-16 Riding (Wasp)-20 Acrobatics-13
+Composite Bow (21) Acc 3  1d+7 imp - 20 fine arrows
+                          1d+7 pi, 2 armor divisor - 20 fine bodkin arrows
+Shortsword (16) 1d imp, 2d-1 cut  Reach 1
+Possessions: bow, shortsword, arrows, quiver, leather armor, saddles
+
+Mostly attack from 15 yards (7 up, 13 away) for -5 range penalty
+Shoot lightly armored enemies first
+Melee when out of arrows
+Flee at 5 HP
+
+4 Spider Eaters (http://gurpswiki.wikidot.com/m:spider-eater)
+SM+2
+ST 21    HP   21
+DX 11    Will 11
+IQ  4    Per  12
+HT 13    FP   13
+BS 6     Move  6 (Air 12)
+DR 2
+Dodge 9  Parry 9
+Bite (13) 2d+1 cr, Reach C
+Sting (13) 2d+1 imp, Reach C-1 R HT-1 or paralyzed for 2 weeks/point missed
+Acute Hearing 4; Acute Vision 4; Doesn't Breathe (Oxygen Absorption);
+Double-Jointed; Flight (Air Speed 12; Winged); High Pain Threshold;
+Injury Tolerance (No Vitals); Loner (12); No Fine Manipulators;
+Semi-Upright; Wild Animal.
+Brawling-13, Escape 19
+Can take an extra second to implant eggs in paralyzed victims,
+   Major surgery to remove.
+   Hatch in 6 weeks, killing victim.
+
+#3
+2 Goblin Rogues (Cutpurse template)
+SM -1
+ST 11   HP   12  thr 1d-1  sw 1d+1
+DX 14   Will 12
+IQ 11   Per  12
+HT 11   FP   12
+BS 6.25 Move  6
+Dodge 10 Parry 11 DR 3/2
+Combat Reflexes
+Infravision, Rapid Healing, Resistant to Metabolic Hazards, Sharp Teeth
+Ugly, Cowardice (12), Social Stigma (Savage)
+Climbing-14 Stealth-15 Traps-12
+Shortsword-14 Brawling-14 Crossbow-14 Fast-Draw(Bolt)-14 Wrestling-13
+Acrobatics-12 Observation-11 First Aid-11
+Pistol Crossbow(14), Acc 1, 1d+1 imp, range 165/220, 10 cold iron bolts
+Shortsword(14) Reach 1, 1d-1 imp, 1d+1 cut, Parry 11
+Potion of Major Healing (2d)
+Leather Armor, 1 has Bracers of Armor DR1
+
+Bugbears (Brute template)
+SM 1
+ST 16   HP   18  thr 1d+1  sw 2d+2
+DX 13   Will 10
+IQ 10   Per  10
+HT 13   FP   13
+BS 6.5  Move  6
+DR 3 (leather, tough skin)
+Dodge 11 Parry 13  (all including DB)
+Combat Reflexes
+High Pain Threshold
+Broadsword-16 Tactics-9 Observation-12
+Survival(Woods)-12 Tracking-12 Brawling-14 Jumping-14
+Broadsword (16) 2d+3 cut  Reach 1  Parry 13
+Buckler DB1
+Treasure: $1 coin
+
+Confused and Angry:
+Athach (huge 3-armed giant)
+ST: 26    HP:    26      Speed: 5.50          thr 2d+2  sw 5d
+DX: 11    Will:  11      Move: 4 (7 base)
+IQ:  8    Per:   10      Weight: 4,500 lbs.
+HT: 15    FP:    15      SM: +3 (5 hexes, 2 Ã 3)
+Dodge: 8  Parry: 10/10U  DR: 4* torso/groin, 2* elsewhere
+Giant Mace x2 (14): 5d+4 crushing. One in each hand, may strike twice in
+   second. Reach 2-4.
+Fine Balanced Icy Shortspear (14) Reach 1, 2d+4 imp +2 cold damage, Parry 10
+Poisonous Bite (13): 2d+3 cutting + follow-up 1d toxic (resist HT-3).
+   Follow-up hourly damage is 2d toxic for three cycles. Reach C.
+Thrown Rocks Ã3 (11): 2d+2 crushing. These rocks weight 50 lbs. They count s
+   heavy weapons, and the athach may throw two a second. Acc 0, Range 26.
+Traits: Ambidexterity; Extra Arms (3 arms); Extra Attack 1; Infravision.
+Skills: Axe/Mace-14; Spear-13; Brawling-13; Climbing-13; Jumping-16; Throwing-11.
+Treasure: Hide armor, 2 giant maces, Fine Balanced Icy Shortspear,
+   Necklace of Fireballs (1 5d, 2 3d) (unknown to athach),
+   large diamond-studded stickpin ($1000), $350 in coins, $30 and $50 zircons,
+   $12 malachite, $700 aquamarine
+
+Prey of the Pack:
+3 Dire Wolves
+2 attack, 1 hangs back
+ST: 25  HP:   25  Speed: 6.25
+DX: 12  Will: 11  Move: 9
+IQ: 4   Per:  11  Weight: 800 lbs.
+HT: 13  FP:   13  SM: +1 (3 hexes)
+Dodge: 9      Parry: N/A      DR: 2
+Bite (14): 2d+3 cutting. Reach C.
+Traits: Discriminatory Smell; Night Vision 5; Quadruped; Sharp Teeth; Wild Animal.
+Skills: Brawling-14; Running-15; Stealth-12; Survival(forest)-11; Tracking-12.
+Class: Giant Animal.
+
+In Concert:
+Satyrs Ebuss and Frinn
+Pixie Usilia
+
+Forest Book:
+5 Dire Badgers
+Ninia Porrel
+
+8-1:
+Gate from 7-3
+60 man-hours to reconstruct
+Each hour, margin on ST check equals hours done
+Foreman: -5 to ST, but
+   Theology-2 to understand gate and subtract 15 hours
+   Engineer, Architecture, etc. +2 to subtract 15 hours
+Writing in Druidic
+Naturalist-2 or Thaumatology-6 to know about the Far Garden
+History-2 to know about Vallisneria Forestfriend
+Anyone with Theology knows of Ildavir, Giver of Form,
+   Goddess of Creation, Life, Nature, and Animals
+
+Missing stone: taken by Derro
+
+
+8-2:
+Goblin Template DF3p10
+SM-1, IQ-1, HT+1, HP+1, Will+1, Per+1
+Infravision, Rapid Healing, Resistant to Metabolic Hazards, Sharp Teeth
+Ugly, Cowardice (12), Social Stigma (Savage)
+
+Mounted Combat B396
+Only 1 turn of Aim unless hovering or Moving a Step
+Weapon skill limited to Riding
+If stunned or knocked back, Riding-4 or fall
+Miss by 1 on rider/mount hits the other
+If mount is hit, Riding-mount's Shock penalty or spook, B397
+extra +1 to retreats
+Falling Damage DF2p19 5 yards=2d
+
+4 Goblin Wasp Riders (Archer template)
+SM-1
+ST 13   HP   14  thr 1d  sw 2d-1
+DX 13   Will 10
+IQ  9   Per  12  Vision 14
+HT 12   FP   12
+BS 6.25 Move  6
+Dodge 9 Parry 10
+DR 2
+Heroic Archer (Acc w/o Aim, ignore bulk penalty on Move and Attack and Close Combat,
+   ignore penalty to flying or acrobatic attack, Quick-Shoot at Bow-3, DWA at Bow-2,
+   half penalties to fast-draw arrows.
+Weapon Bond (Bow)
+Acute Vision +2
+Extra Attack
+No Nuisance Rolls (fast draw)
+Overconfidence, Greed
+Bow-16, Fast-Draw (Arrow)-15, Tactics-9, Observation-12, Survival(Woods)-12, Tracking-12
+Shortsword-15 Brawling-13 Jumping-13 Riding (Wasp)-16 Acrobatics-13
+Composite Bow (17) Acc 3  1d+3 imp - 10 arrows
+                          1d+3 pi, 2 armor divisor - 10 bodkin arrows
+Shortsword (15) 1d imp, 2d-1 cut  Reach 1
+Possessions: bow, shortsword, arrows, quiver, leather armor, saddles
+   1 has pouch w/ 2 hematites ($10 ea.), bloodstone ($50), white pearl ($110)
+
+Mostly attack from 15 yards (7 up, 13 away) for -5 range penalty
+Shoot lightly armored enemies first
+Melee when out of arrows
+Flee at 5 HP
+
+4 Spider Eaters (http://gurpswiki.wikidot.com/m:spider-eater)
+SM+2
+ST 21    HP   21
+DX 11    Will 11
+IQ  4    Per  12
+HT 13    FP   13
+BS 6     Move  6 (Air 12)
+DR 2
+Dodge 9  Parry 9
+Bite (16) 2d+1 cr, Reach C
+Sting (16) 2d+1 imp, Reach C-1 R HT-1 or paralyzed for 2 weeks/point missed
+Acute Hearing 4; Acute Vision 4; Doesn't Breathe (Oxygen Absorption);
+Double-Jointed; Flight (Air Speed 12; Winged); High Pain Threshold;
+Injury Tolerance (No Vitals); Loner (12); No Fine Manipulators;
+Semi-Upright; Wild Animal.
+Brawling-13, Escape 19
+Can take an extra second to implant eggs in paralyzed victims,
+   Major surgery to remove.
+   Hatch in 6 weeks, killing victim.
+
+Vision+2: Small tent city to NW
+Vision+0: Cabin atop hill to W; 2 bridges crossing the river
+Vision-2: Buildings far off in scorched forest
+Vision-8: Tiny log fort far to the E
+
+8-3:
+Vision-1 to notice man hanging upside-down in tree
+Naturalist-0 or Diagnosis-0 to notice he's been poisoned
+Neutralize Poison to fix
+Stagheart Tearny, druid
+
+8-4:
+Dawn-on-Stream
+Haele centaur broken Common, accented Elvish
+Soras Leafbrother centaur
+Dalen Porrel human boy
+Arrel dog
+Grisby faerie dragon
+Saria Sundew female pixie bard
+Guber Grumbleworthy grig shopkeeper
+Chases-the-Current female nixie
+Philos satyr
+
+TODO Stats for Soras, Grisby
+
+Grisby's quest - find what's killing unicorns
+   $1000/horn if the head of Forst is included
+Dalen's quest - find his sisters Jae and Ninia
+   Ninia: $200, plus another $200 if no badgers are slain
+   Jae: $200
+Soras pays:
+   $100 per evil goblinoid head
+   Handy Haversack (holds 120# weighs 5#, right item on top) for skeleton of Braxilant
+   $5000 for Trag's head
+   $500 for proof of Erinyes, $500 more for its head
+   Overwhelming Victory: $800, 2 $40 peridots, Belt of Giant ST (+2), Luckstone (Luck adv.)
+   Hard-Fought Victory: $800, 2 $40 peridots, Belt of Giant ST (+2)
+   Marginal Victory: $800, 2 $40 peridots
+   All quests done and promise to destroy gate: Bracelet of Friends
+
+8-5:
+Contest of Vision vs. Stealth(15) to notice odd bush then Naturalist+0 to identify it
+
+6 Verdivis bushes
+SM 0
+ST 17  HP   20  thr 1d+2 sw 3d-1
+DX 12  Will 10
+IQ  2  Per  10
+HT 12  FP   12
+BS 6   Move  0
+DR 4
+Immune to electricity, night vision 5, tremorsense
+3 roots, each with 20 HP (separate from main plant)
+Dodge (root only) 10, at -4 if grappling a victim
+Stealth-15 Brawling-15 Wrestling-15
+Root(15), Reach 1-5, 1d+4 cr or pi, plus poison: R HT-2 or paralyzed
+   Follow-up free grapple check (wrestling vs. active defense)  -4 to DX if grappled
+      Grappled victim must win QC of ST to break free
+   Once grappled, Constriction Attack (QC, ST vs. ST or HT, damage=margin of victory)
+   Helpless victims can be dragged 3 hexes/turn to trunk
+   Allies on surface can make ST-2 checks (soft ground) to unearth buried victim,
+      at +4 with a shovel or pick
+
+Treasure (buried):
+$880 in coins
+tiger eye turquoise worth $6
+jade necklace worth $110
+Fine scythe worth $150
+Wand of Beast Summoning (owl)
+
+Door to largest room is locked, Lockpicking-2
+Summon Monster Trap if door is opened or broken without saying password, resets
+
+Monstrous Scorpion (http://gurpswiki.wikidot.com/m:giant-scorpion)
+SM 1
+ST 20  HP   30  thr 2d-1  sw 3d+2
+DX 16  Will 10
+IQ  2  Per  10
+HT 14  FP   14
+BS 6.5 Move  6
+DR 8
+nictitating membrane DR 4 eyes
+Dodge 10  Parry 11
+Brawling 20
+Sting  (20) 2d+4 imp + poison (R HT-3, 2d every hour for 5 hours)
+Pincer (20) 3d+8 cut, plus free grapple check (DX vs. active defense)
+Camoflague-14 Jumping-12
+
+Treasure:
+$750 in gold and silver coins
+Potion of Major Healing (2d)
+Potion of Invulnerability (+3 DR)
+Wand of Magical Bolt
+   (1d-1 cr, 200 yard range, auto hit if Innate Attack (Projectile) 3+,
+    Dodge only, unaffected by DR) w/ 18 charges  See DF11p37
+Spellbook
+   Magical Bolt (advantage)
+   Create Object
+   Seek Earth, Shape Earth, Earth to Stone, Create Earth,
+   Create Fire, Ignite Fire, Extinguish Fire, Fireproof, Resist Fire
+   Test Food, Cook, Create Food
+   Detect Magic, Aura, See Secrets
+   Seeker, Trace, History
+
+8-6:
+Aranea Rogue (Hybrid form, disguised and Illusion Disguised (19), Cutpurse template)
+SM 0
+ST 10  HP   12  thr 1d-2 sw 1d
+DX 15  Will 12
+IQ 12  Per  12
+HT 12  FP   12
+BS  6  Move  6
+Parry 12F, Dodge 10
+DR 4/2 (mail shirt)
+Binding 14 Acc 3, Sticky (lasts 10s)
+   on hit, target is grappled (-4 DX)
+   to break free, victim must win QC ST or Escape vs. 14
+   or destroy binding, attack at -4, DR 3, 14 HP
+Clinging
+Combat Reflexes
+Fangs
+Magery 2
+Night Vision 9
+Rapier-16 Brawling-15 Climbing-14 Jumping-14 Stealth-14 Tracking-12 Disguise-15
+Rapier (16) 1d-1 imp Reach 1,2 Parry 12F
+Bite   (15) 1d-3 imp Reach C  Poison: R HT+1, 1d ST, later 2d ST
+Spells: Daze-12, Detect Magic-12 Sound-12 Light-12 Apportation-12 Simple Illusion-12
+        Sleep-12 Blur-12 Magic Resistance-12 Shield-12 Armor-12
+Potion of Major Healing
+Potion of Agility (+1 DX)
+
+
+Aranea Sorcerer (Spider Form, Apprentice template, Invisible)
+SM 0
+ST 10   HP   12  thr 1d-2 sw 1d
+DX 12   Will 13
+IQ 14   Per  13
+HT 11   FP   11
+BS 5.75 Move  5
+Dodge 9
+DR 2
+Binding 14 Acc 3, Sticky (lasts 10s)
+   on hit, target is grappled (-4 DX)
+   to break free, victim must win QC ST or Escape vs. 14
+   or destroy binding, attack at -4, DR 3, 14 HP
+Clinging
+Combat Reflexes
+Fangs
+Magery 3
+Night Vision 9
+Bite   (15) 1d-3 imp Reach C  Poison: R HT+1, 1d ST, later 2d ST
+Spells: Daze-15, Detect Magic-15 Sound-15 Light-15 Apportation-15 Simple Illusion-15
+        Sleep-15 Blur-15 Magic Resistance-15 Perfect Illusion-15 Illusion Disguise-15
+        Haste-15 Shield-15 Shocking Touch-15 Acid Ball-15 Armor-15
+Sack
+Periapt of Health (immune to disease)
+Scroll of Grace
+
+4 Aranea (Spider Form, on ceiling behind Simple Illusions of columns, Blur)
+SM 0
+ST 10   HP   12  thr 1d-2 sw 1d
+DX 12   Will 13
+IQ 10   Per  11
+HT 11   FP   11
+BS 5.75 Move  5
+Dodge 9
+DR 2
+Binding 14 Acc 3, Sticky (lasts 10s)
+   on hit, target is grappled (-4 DX)
+   to break free, victim must win QC ST or Escape vs. 14
+   or destroy binding, attack at -4, DR 3, 14 HP
+Clinging
+Combat Reflexes
+Fangs
+Magery 1
+Night Vision 9
+Bite   (15) 1d-3 imp Reach C  Poison: R HT+1, 1d ST, later 2d ST
+Spells: Daze-12, Detect Magic-12 Sound-12 Light-12 Apportation-12 Simple Illusion-12
+        Sleep-12 Blur-12 Magic Resistance-12 Armor-12
+
+Loot:
+$5000 in coins
+$8 moss agate
+$50 zircon
+$400 small golden diadem with pearls
+$4000 platinum bracelet with emeralds
+cleric scroll: Stop Paralysis, Detect Undead
+silver dagger (worth $400)
+
+8-7:
+Diagnosis-0 to determine unicorn's cause of death.
+   If made by 2, see that heavy object knocked off its horn.
+Tracking+3 to see tracks of 2 horses and 2 humans
+   Tracking+1 to see that the tracks go north
+
+Violated Brother
+SM 1
+ST 20  HP   20
+DX 13  Will 15
+IQ  6  Per  12  Vision 16  Hearing 16
+HT 13  FP   13
+BS 6.5 Move 10
+DR 3
+Dodge 10
+Insubstantial, with Affect Substantial
+Combat Reflexes
+Dark Vision
+Negative Energy: everything within 5 hexes takes 4 damage/turn, Will-4 for half,
+    DR does not protect
+Gaze (16), 2 turns to cast.  Range 3, Will-4 or die.
+Hoof (16), 1d negative energy, DR does not protect
+
+8-8:
+If not following trail, Vision-2 to spot cave
+Naturalist+0 or Hidden Lore(Monsters) +0 to identify Madhorn
+Listen-4 to hear Jae through gag
+Wet floor: DX check to avoid falling if moving faster than half Move
+If falling in a slope hex, DX check to avoid sliding down into pit
+A (NW): 3 yards deep, 1d+2
+B (SE): 5 yards deep, 2d, Search+2 to find $900 and Potion of Minor Healing
+C (NE): 10 yards deep, 3d, but only SM-1 can fall in
+All armor counts as flexible vs. falls, so 1 HP per 5 points stopped
+Climbing-2 to climb out of any pit
+
+Madhorn
+SM 1
+ST 20  HP   20
+DX 13  Will 15
+IQ  6  Per  16
+HT 13  FP   13
+BS 6.5 Move 10
+DR 3
+Dodge 9
+Hoof (15), 2d+2 cr, Reach C
+Horn (18), 2d+5 imp, Reach C,1  Wounds fester (cost double to heal unless Cure Disease)
+Acute Hearing 2; Acute Vision 2;
+Enhanced Move 1 (Ground Speed 20);
+Peripheral Vision;
+Quadruped;
+Warp (Extra Carrying Capacity, Medium Encumbrance; Limited Use, 1/day;
+   Range Limit, Own woods; Reliable, +10).
+Immune to Poison
+At 50% HP, +2 to ST and DX (+1 to damage)
+At 25% HP, Hasted (+1 to Move, Dodge)
+Area Knowledge (Own woods)-12; Jumping-15; Stealth-14; Survival (Woodlands)-17.
+
+Forst, Redcap
+SM -1
+ST 17  HP   20  thr 1d+2 sw 3d-1
+DX 12  Will 12
+IQ  9  Per  12
+HT 14  FP   14
+BS 6.5 Move  6
+DR 6 (heavy hide armor)
+Dodge 11
+Appearance (Ugly), Bully (12-), Claws (Sharp), Combat Reflexes, Dependency (Mana, Constantly),
+Enhanced Dodge, Extra Attack (Multi-Strike), Loner (6-, -4), Magery 0, Night Vision 3,
+See Invisible
+Sure-Footed (Tangled Growth), Vulnerability (Pure Iron X2)
+Recoils from holy symbols, unless he makes a Will+0 check
+Brawling-16, Climbing-13, Stealth-15, Tactics-10, Traps-10, Wrestling-16, Axe/Mace-20
+Fine Balanced Mace (21): Reach 1, 3d+2 cr, parry 12U
+Claw (16): Reach C, 1d+1 cut, parry 11
+Baleful Gaze (16): Range 10, Will-2 or take 1d (DR does not protect), Forst heals the same
+
+treasure:
+$900
+Potion of Bravery
+Fine Balanced Mace
+
+
+8-9:
+Naturalist+1 to realize plants are harmless
+Vision+0 to see nymph Emainee
+HT-3 to avoid being blinded
+ST 10  HP   12  thr 1d-2 sw 1d
+DX 16  Per  14
+IQ 14  Will 14
+HT 12  FP   12
++4 to all defenses and resistance rolls
+BS 7
+Move 7 Dodge 14  Parry 18
+Weapon Master (knife), Combat Reflexes
+Blink-20  Dimension Door-20  Body Sense-16
+Rusting Grasp-20  touch to destroy weapon/armor
+Stunning Glance: Resist at HT-2, 10 yard range no range penalty, stunned 1d+1s
+Call Lightning-20  1 bolt/s within 50 hexes, 3d electrical damage
+
+Large Knife (21)  1d+1 imp
+
+Treasure:
+Fine Balanced Large Knife with Penetrating Weapon, $600
+
+
+8-10:
+Tracking+2 to notice high traffic area
+   If made by 4, notice huge clawed footprint
+   If made by 5, know it's a wyvern print
+Vision vs. Stealth-16 to notice wyvern in pool
+Vision-6 to see female leave nest; easier checks each 5s as she approaches
+Vision+4 to notice nest if female seen taking off; harder checks each 5s as she approaches
+
+Male Wyvern
+SM 3
+ST 20    HP   30  thr 2d-1  sw 3d+2
+DX 12    Will 12
+IQ  6    Per  12
+HT 13    FP   13
+BS 5.25  Move 5  Air Move 12
+DR 8
+Dodge 11
+Bite    (20) 2d+1 cut, Reach C
+Stinger (20) 2d+3 imp plus poison 1d+2 HT (R HT-1), repeated in 1 minute
+             Reach C,1 in front or C-2 in rear
+Talons  (20) 2d+5 imp, Reach C,1
+Acute Hearing 5; Acute Vision 5; Discriminatory Smell; Extra Attack 1;
+Flight (Air Move 12; Winged); Immunity to Sleep; Immunity to Paralysis;
+nictitating membrane
+Night Vision 8; Quadruped.
+Brawling-20; Stealth-16
+Notes: Knows Draconic, but seldom speaks it. It isn't smart enough to have much to say anyways.
+
+Female Wyvern (in lair nearby; will take a few turns to arrive)
+SM 3
+ST 25    HP   35  thr 2d+2  sw 5d-1
+DX 12    Will 11
+IQ  6    Per  12
+HT 14    FP   14
+BS 7  Move 7  Air Move 12
+DR 4
+Dodge 11
+Bite    (20) 2d+4 cut, Reach C
+Stinger (20) 2d+6 imp plus poison 1d+2 HT (R HT-1), repeated in 1 minute
+             Reach C,1 in front or C-2 in rear
+Talons  (20) 2d+8 imp, Reach C,1
+Acute Hearing 5; Acute Vision 5; Discriminatory Smell; Extra Attack 1;
+Flight (Air Move 10; Winged); Immunity to Sleep; Immunity to Paralysis;
+Night Vision 8; Quadruped.
+Brawling-20; Stealth-17
+Notes: Knows Draconic, but seldom speaks it. It isn't smart enough to have much to say anyways.
+
+Nest is Vision-6 to spot, 250 yards away, 20 yards up.  Climbing-4 to reach.
+Gale force winds up there -> will activate ring
+Treasure:
+$300 in coins
+ornate silver medallion w/geometric design ($400)
+spyglass ($1000)
+iron scroll case with rubies ($700)
+   wizard scroll: Shocking Touch, Colors, Gift of Letters
+   cleric scroll: Bless, Instant Regeneration
+sapphire figurine of blue dragon ($800)
+sandalwood box inlaid with onyx ($300)
+Ring of Feather Falling
+Wand of Charm (32 charges)
+
+8-11:
+Vision-2 to spot writing on stones (in secret Druidic language)
+
+Earthquake: DX-1 or fall, if falling, 9- on 3d6 to fall in fissure, DX-4 to avoid fissure,
+   1 minute to escape fissure before spell ends and it snaps shut
+
+8-12:
+Listen+3 to hear Erinyes complaining
+Naturalist+1 to know it's a unicorn paragon corpse
+Climbing+2 to climb walls,
+   failure by 2 causes a collapse (4d cr, R-DX for half to anyone below)
+   failure by 2 again causes a pin (ST-1 to lift)
+   anyone on top of wall when it collapses R-DX or 2d cr
+ST+0 to roll giant trunk
+Search+2 to find treasure under unicorn paragon corpse:
+   $1400 in coins
+   2 $11 freshwater pearls
+   $120 coral gem
+   golden unicorn paragon horn
+
+Erinyes
+ST  17 HP   23  thr 1d+2  sw 3d-1  BL 58 lbs.
+DX  15 Will 14
+IQ  12 Per  14
+HT  15 FP   15
+BS 7.5 Move  7 (Air 13)
+DR 10
+Parry 12 Dodge 14
+Beautiful
+Combat Reflexes
+Dark Vision
+High Pain Threshold
+Heroic Archer (Bow-3 to ready instantly, Acc w/o Aim, or ignore Bulk for M+A or CC)
+Weapon Master All
+Immune to Fire, Poison
+Magic Resistance 5 (Improved)
+Resist Acid, Cold +5
+Resist Fire
+Summon 2d lemures on 10-, once per day
+Telepathy
+True Seeing
+Vulnerability: Double damage from pure good
+ATR
+Extra Attack 1
+No brain, vitals
+Bow-20 Axe-20 Lasso-20 Stealth-16 Fast-Draw (arrow)-20
+Spells: Charm-20 Teleport-20 Blight-20 Dispel Magic-20
+Flaming Composite Bow (20)  ST 17  Acc 3  Range 340/425  Bulk -7  1d+7 imp, +2 burn
+always on fire, damage to holder unless immune
+33 Arrows
+Lasso (20) 16 yards long B410
+   Once entangled, fly up.  Medium (174#) Move 7, Heavy (348#) Move 5
+   Falling damage DF2p19
+      5 2d
+     10 3d
+     15 3d+2
+     20 4d
+     25 4d+2
+     30 5d
+     35 5d+2
+     40 6d-1
+     45 6d
+     50 6d+2
+     60 7d
+     70 7d+2
+     80 8d+1
+    100 9d+1
+Fine Dwarven Axe (20)  Reach 1  3d+8 cut  Parry 12
+
+8 Lemures
+ST 14 HP   14  thr 1d sw 2d
+DX 10 Will 10
+IQ  6 Per  10
+HT 10 FP   10
+BS  5 Move  5
+DR  5
+Parry 11 Dodge 10
+Dark Vision
+Immune to Fire, Poison, Mind Control
+Magic Resistance 5 (Improved)
+Resist Acid, Cold +5
+Vulnerability: Double damage from pure good, silver
+Brawling-15  Wrestling-15  Sumo-15
+Claws (15) 1d+3 cut
+
+8-13:
+Selistimme, Dryad, Cleric
+Heals wounds, tells PCs to get Forst and recover unicorn horns
+
+8-14:
+River: 10 yards wide, 5' deep at banks, 15' deep in middle, flows S to N
+   Rough current: Swimming+0 check, failure means being carried downriver  B354
+   If carried into bridge, 1d+1 cr.  Bridge is too slippery to grab.
+   After spell: Swimming-2, 2d cr
+
+Crazy Half-Elf Druid
+ST 11   HP   13  thr 1d-1 sw 1d+1
+DX 13   Will 14
+IQ 14   Per  14
+HT 13   FP   16
+BS 6    Move  6
+DR 2 (Leather armor)
+Dodge 9  Parry 13
+Power Investiture 4
+Staff-16  Swimming-13
+Shapeshifting(Dire Lion)-20 Frostbite-16 Create Animal-2 Minor Healing-16
+Major Healing-16 Lightning-16 Explosive Lightning-16 Control River(special)-16
+Heal Plant-16 Plant Speech-16 Shatter-15 Dispel Magic-16
+Staff (16) Reach 1,2  1d+3 cr  Parry 13
+Control River: Anyone on bridge gets slammed by HP 15 Move 5 for 1d-1
+   DX or ST check to avoid fall.  If knocked off bridge, 1d-2 cr.
+Treasure:
+   Brooch of Shielding (stops 92 damage from Magical Bolt)
+   Boots of Levitation
+   $20 in silver
+
+Dire Lion form   from http://gurpswiki.wikidot.com/m:dire-lion
+ST: 25  HP:   25  Speed: 6.25
+DX: 12  Will: 14  Move: 6
+IQ: 14  Per:  14  Weight: 3,500 lbs.
+HT: 13  FP:   16  SM: +2 (5 hexes)
+Dodge: 9      Parry: N/A      DR: 2
+Bite (15): 2d+3 cutting. Reach C.
+Claws (15): 2d+3 cutting. Reach C, 1.
+Traits: Discriminatory Smell; Night Vision 5; Quadruped; Sharp Claws; Sharp Teeth;
+        Wild Animal.
+Skills: Brawling-15; Running-14; Stealth-13.
+
+Shambling Mound  from http://gurpswiki.wikidot.com/m:shambling-mound
+ST: 21  HP:   21  Speed: 5.25
+DX: 10  Will: 11  Move: 2
+IQ: 8   Per:  10  Weight: 3,800 lbs.
+HT: 11  FP:   11  SM: +1
+Dodge: 8      Parry: 9        DR: 5
+Garbage Appendage (13): 2d+2 crushing, and it counts as a grappling attack. If
+   it succeeds, it starts its Constriction Attack its next round. Reach C, 1.
+   Constrict: QC: ST vs. ST/HT.  Damage equal to margin.
+Traits: Acute Hearing 4; Amphibious; Chameleon 3 (Limited, Swampland);
+Constriction Attack; Damage Resistance 30 (Limited, Electricity);
+Damage Resistance 5 (Limited, Heat/Fire); Detect (Light); Doesn't Breathe;
+Infravision; Injury Tolerance (Homogenous; No Blood); Loner (6);
+No Legs (Sessile); No Fine Manipulators; No Legs (Slithers); Wild Animal.
+Skills: Brawling-13; Camouflage-9 (12 in swampland if moving, 15 if perfectly still);
+   Stealth-12.
+Class: Plant.
+Notes: Electrical attacks that do not get through DR instead grant 1d-3
+   temporary HP, which fade at the rate of 1 HP an hour.
+
+Dire Ape   from http://gurpswiki.wikidot.com/m:dire-ape
+ST: 22  HP:   24  Speed: 6.00
+DX: 12  Will: 11  Move: 5
+IQ: 6   Per:  10  Weight: 1,000 lbs.
+HT: 12  FP:   12  SM: +1
+Dodge: 9      Parry: N/A      DR: 2
+Bite (14): 2d+1 cutting. Reach C.
+Claws (14): 2d+1 cutting. Reach C, 1.
+Traits: Brachiator (Tree Move 2); Discriminatory Smell; Night Vision 5; Sharp Claws;
+    Sharp Teeth; Wild Animal.
+Skills: Brawling-14; Climbing-15; Stealth-13.
+
+8-15:
+Vision check at 6d6x10 feet, -1 per 10'
+
+Wagon: 4x2 hexes.  Any fire attack causes 5d fireball on 10-.  DX+1 for half.
+
+6 Goblin Warriors (Guard template)
+SM-1
+ST 13   HP   14  thr 1d  sw 2d-1
+DX 12   Will 10
+IQ  9   Per  10
+HT 13   FP   13
+BS 6.25 Move  5
+DR 4/2 (mail)
+Dodge 9  Block  10  Parry 11
+Infravision, Rapid Healing, Resistant to Metabolic Hazards, Sharp Teeth
+Ugly, Cowardice (12), Social Stigma (Savage)
+Broadsword-14  Spear-13  Thrown Spear-14  Brawling-12  Wrestling-11  Shield-13
+Cheap Scimitar (14) Reach 1  2d cut
+2* Javelin (13)  Reach 1 1d+1 imp
+   Thrown (14) Acc 3 Range 19/32  1d+1 imp
+Buckler (13) DB 1
+
+Erga, Goblin wizard
+SM -1
+ST 10   HP   11  thr 1d-2  sw 1d
+DX 13   Will 15
+IQ 14   Per  13
+HT 12   FP   15
+BS 6.25 Move  6
+DR 0  Dodge 9  Parry 12
+Infravision, Rapid Healing, Resistant to Metabolic Hazards, Sharp Teeth
+Ugly, Cowardice (12), Social Stigma (Savage), Overconfidence
+Magery 3
+Alchemy-14 Thaumatology-14 Hazmat-13 Staff-15 Innate Attack-15 Brawling-13
+Staff(15)  Reach 1,2  1d+2 cr  Parry 12
+
+Breathe Fire-15 Burning Touch-15 Concussion-15 Create Air-15 Create Fire-15
+Deflect Energy-15 Explosive Fireball-15 Extinguish Fire-15 Fire Cloud-15
+Fireball-15 Fireproof-15 Flame Jet-15 Flaming Armor-15 Flaming Missiles-15
+Flaming Weapon-15 Heat-15 Ignite Fire-15 Lightning-15 Purify Air-15
+Rain of Fire-15 Resist Fire-15 Shape Air-15 Shape Fire-15 Smoke-15 Sound-15
+Spark Storm-15 Stench-15 Thunderclap-15 Wall of Lightning-15 Windstorm-15
+Missile Shield-15
+
+Possessions: Backpack, pouch
+
+Noog, Goblin wizard
+Like Erga with different spells:
+
+Agonize-15 Animation-15 Choke-15 Clumsiness-15 Control Zombie-15
+Death Vision-15 Deathtouch-15 Debility-15 Decay-15 Frailty-15 Itch-15
+Lend Energy-15 Lend Vitality-15 Minor Healing-15 Pain-15 Paralyze Limb-15
+Pestilence-15 Rotting Death-15 Sensitize-15 Sickness-15 Skull-Spirit-15
+Spasm-15 Steal Energy-15 Steal Vitality-15 Stun-15 Summon Spirit-15
+Test Food-15 Wither Limb-15 Zombie-15 Zombie Summoning-15
+Missile Shield-15
+
+Bugbear (Archer template)
+SM 1
+ST 15   HP   15  thr 1d+1  sw 2d+1
+DX 14   Will 10
+IQ 10   Per  12
+HT 13   FP   13
+BS 6.75 Move  6
+DR 3 (leather, tough skin)
+Dodge 11 Block 13 Parry 11U  (all including DB)
+Combat Reflexes
+High Pain Threshold
+Heroic Archer (Acc w/o Aim, ignore bulk penalty on Move and Attack and Close Combat,
+   ignore penalty to flying or acrobatic attack, Quick-Shoot at Bow-3, DWA at Bow-2,
+   half penalties to fast-draw arrows.
+Bow-17, Fast-Draw (Arrow)-16, Axe/Mace-15 Tactics-9, Observation-12, Shield-15
+Survival(Woods)-12, Tracking-12 Brawling-14 Jumping-14 Teamster-10
+Composite Bow (17) Acc 3  1d+4 imp - 14 arrows
+                          1d+4 pi, 2 armor divisor - 14 bodkin arrows
+Fine Axe (15) 2d+4 cut  Reach 1, Parry 12U
+Balanced Bucker (16) DB 1
+Possessions: composite bow, fine axe, arrows, quiver, leather armor,
+   balanced buckler, $120 red sardonyx, $11 and $6 black hematites,
+   $700 green alexandrite
+
+8-16:
+Climbing+0 to climb walls
+
+5 Bugbears (Brute template)
+SM 1
+ST 16   HP   20  thr 1d+1  sw 2d+2
+DX 13   Will 10
+IQ 10   Per  10
+HT 13   FP   13
+BS 6.5  Move  6
+DR 3 (leather, tough skin)
+Dodge 10 Parry 11U  (all including DB)
+Combat Reflexes
+High Pain Threshold
+Berserk (Battle Rage) (12- to avoid)
+Flail-15 Bow-14 Fast-Draw (Arrow)-14 Tactics-9 Observation-12
+Survival(Woods)-12 Tracking-12 Brawling-14 Jumping-14
+Fine Flail (15) 2d+6 cr  Reach 1,2*  Parry 11U  -4 to parry, -2 to block
+Composite Bow (14) Acc 3  1d+4 imp - 10 arrows
+Treasure: $26 in coins each.
+
+Mortra, Fire Giantess  http://gurpswiki.wikidot.com/m:fire-giant
+ST: 25  HP:   30  Speed: 5.25  thr 2d+2  sw 5d-1
+(w/ Potion ST 30, thr 3d, sw 5d+2)
+DX:  9  Will: 12  Move: 4 (base 7)
+IQ: 10  Per:  12  Weight: 7,000 lbs.
+HT: 12  FP:   12  SM: +2 (2 hexes)
+Dodge: 10 (base 8) Parry: 9
+DR: 7 torso/groin (steel laminate plate), 6/4 arms/legs/head (mail)
+Warhammer (16): 5d+2 imp (w/ potion 5d+5 imp) Reach 1, 2, 3.
+Rock Throwing (16): 2d-1 cr (potion: 3d-3 cr) plus 1d+1 burning. Range -/40.
+Traits: Acute Taste/Smell 3; Bad Temper (12); DR 2 (Tough Skin); DR 30
+(Limited, Heat/Fire Only); Enhanced Move (Ground Move 10); Extended Lifespan 4;
+High Pain Threshold; Night Vision 3; Penetrating Voice; Social Stigma
+(Oversized Barbarian); Stubbornness; Vulnerability (Cold, Ã2).
+Skills: Intimidation-13; Parry Missile Weapons-13; Throwing-11; Axe/Mace-16
+Possessions: Minor Healing Potion, Strength Potion
+
+8-17:
+pitch pool: 1d burning/turn within 5 hexes if breathing
+            HT+0 (-4 in heavy armor/clothing) or lose 1d-2 FP every 5s
+            entering pool is like Alchemist's Fire 1d/s for 30s, armor DR at 1/5
+            missiles over pool at -2
+Damaged wall: ST+0 to knock it over.  Can use as a bridge.
+              3d cr (R-DX for half) if pushed onto you
+
+Trag Bugbear/Giant, Martial Artist template
+SM +1
+ST 24  HP   30  thr 2d+1  sw 4d+2
+DX 16  Will 11
+IQ 10  Per  10
+HT 12  FP   12
+BS  7  Move  8
+Dodge 13
+Trained by a Master
+Combat Reflexes
+DR 3 (tough skin) +1 (belt) = 4
+Perfect Balance
+Jumping-16 Acrobatics-15 Judo-16 Karate-22(23)
+Intimidation-10 Parry Missile Weapons-16 Throwing Art-17 Stealth-15 Tactics-10
+Climbing-15 First Aid-10 Running-11
+Parry Missile Weapons-13 Kiai-13
+Luck
+Extra Attack 2
+
+Karate (23):
+Rock Throwing (20): 2d-2 crushing plus 1d+1 burning. Range -/40.
+
+Possessions:
+$700 fire opal on chain
+3 Beads of Force: 5d6 force / 3 hex radius  Dodge or trapped in sphere for 10 min.
+Monk's Belt: +1 DR (force), gain Karate at DX, or +1 to Karate
+Bag of Holding (35#, holds 1000# / 150 ft**3)
+   $4140 in coins
+   $30 bloodstone
+   $700 alexandrite
+   $13 hematite
+   $1400 and $1200 star rubies
+   $70 zircon
+   Potion of Enchant Weapon (temporary +1 Accuracy and Puissance)
+   3 flasks acid (DF1p28)
+   wizard scroll (Mage Sight)
+Nearby:
+   Fine crossbow
+   Fine scale armor (elf-sized)
+   Manacles
+
+8-18:
+Tracking-2 or Vision-4 to find the gate, +2 if a goblin has been interrogated
+Naturalist-4 to identify overgrown rhinocerous beetle
+If not accompanying Soras, there will be many goblins, bugbears, and worgs here.
+Box cavern has ledge overhead, ceiling 20' high
+
+Giant Rhinocerous Beetle
+SM +3
+ST 43  HP  100  thr 5d   sw 7d+1
+DX 12  Will 12
+IQ  3  Per  12
+HT 14  FP   14
+BS 6.5 Move  6/18
+DR 15
+Dodge 10  Parry 8
+Horn (15) Reach 1-3 5d imp
+Bite (15) Reach C-2 5d cr
+Trample (15) 5d cr  can only dodge
+Slam (15) 5d-2 cr, does 1/2 Trample damage if opponent is knocked down and run over
+Combat Reflexes, Nictitating Membrane, Tremorsense, Extra Attack 2, High Pain Threshold
+Brawling-15 Sumo-15
+
+8 Goblin Warriors (Guard template)
+SM-1
+ST 13   HP   14  thr 1d  sw 2d-1
+DX 12   Will 10
+IQ  9   Per  10
+HT 13   FP   13
+BS 6.25 Move  5
+DR 4/2 (mail)
+Dodge 9  Block  10  Parry 11
+Infravision, Rapid Healing, Resistant to Metabolic Hazards, Sharp Teeth
+Ugly, Cowardice (12), Social Stigma (Savage)
+Broadsword-14  Spear-13  Thrown Spear-14  Brawling-12  Wrestling-11  Shield-13
+Cheap Scimitar (14) Reach 1  2d cut
+2* Javelin (13)  Reach 1 1d+1 imp
+   Thrown (14) Acc 3 Range 19/32  1d+1 imp
+Buckler (13) DB 1
+
+2 Goblin wizards
+SM -1
+ST 10   HP   11  thr 1d-2  sw 1d
+DX 13   Will 15
+IQ 14   Per  13
+HT 12   FP   15
+BS 6.25 Move  6
+DR 0  Dodge 9  Parry 12
+Infravision, Rapid Healing, Resistant to Metabolic Hazards, Sharp Teeth
+Ugly, Cowardice (12), Social Stigma (Savage), Overconfidence
+Magery 3
+Alchemy-14 Thaumatology-14 Hazmat-13 Staff-15 Innate Attack-15 Brawling-13
+Staff(15)  Reach 1,2  1d+2 cr  Parry 12
+
+Breathe Fire-15 Burning Touch-15 Concussion-15 Create Air-15 Create Fire-15
+Deflect Energy-15 Explosive Fireball-15 Extinguish Fire-15 Fire Cloud-15
+Fireball-15 Fireproof-15 Flame Jet-15 Flaming Armor-15 Flaming Missiles-15
+Flaming Weapon-15 Heat-15 Ignite Fire-15 Lightning-15 Purify Air-15
+Rain of Fire-15 Resist Fire-15 Shape Air-15 Shape Fire-15 Smoke-15 Sound-15
+Spark Storm-15 Stench-15 Thunderclap-15 Wall of Lightning-15 Windstorm-15
+Missile Shield-15 See Invisible-15
+
+Possessions: Backpack, pouch

@@ -1,0 +1,628 @@
+Whiterock Level 3:
+
+Wandering monsters: 6- (7- if very noisy) per 30 minutes
+
+Orcs
+
+Have white to silver-gray hair, milky white skin with bluish tint, fine
+billowing cloaks.  +1 ST, -1 DX compared to most orcs.
+
+War1 orcs are worthy with Guard template
+
+ST 14  HP 16  thr 1d  sw 2d
+DX 10
+IQ  9  Will 10  Per 10  Hearing 12
+HT 13  FP 13
+Magic Resistance 4
+Darkvision
+Sensitive to bright light
+Brawling-10
+Knife-10
+Wrestling-9
+Two-Handed Sword-13, Two-Handed Axe/Mace-13, Polearm-13, or Two-Handed Flail-12
+Hook-10 (some)
+Crossbow-12 (some)
+Whip-12 (some)
+
+Move 4
+Dodge 7
+scale armor, flail, $8d4
+flail (12): 2d+4 cr, reach 1,2*, parry 9U, -4 to parry, -2 to block
+glaive (13): 2d+3 cut reach 2,3* or 1d+3 imp reach 1-3*, parry 9U
+bill (13): 2d+3 cut reach 2,3* or 1d+3 imp reach 1-3*  parry 9U
+           or 1d-1 cut reach 1-3* hook
+           hook MA74: (10), plus -2 for limb, -5 for head,
+           QC ST to force opponent to knees, or from knees to fall down
+           (-5+reach) for weapon, +2 to QC (weapon skill, DX or ST based) to disarm B401
+           (-4+DB) for shield
+crossbow (12) 1d+4 imp, acc 4
+
+
+War2 orcs are worthy with Guard template.  Like war1, but +1 to weapon skills
+
+ST 14  HP 16  thr 1d  sw 2d
+DX 10
+IQ  9  Will 10  Per 10  Hearing 12
+HT 13  FP 13
+Magic Resistance 4
+Darkvision
+Sensitive to bright light
+Brawling-10
+Knife-11
+Wrestling-10
+Two-Handed Sword-14, Two-Handed Axe/Mace-14, Polearm-14, or Two-Handed Flail-13
+Hook-11 (some)
+Crossbow-13 (some)
+Whip-13 (some)
+
+Move 4
+Dodge 7
+scale armor, flail (or glaive or bill or crossbow), $16d4
+flail (13): 2d+4 cr, reach 1,2*, parry 9U, -4 to parry, -2 to block
+glaive (14): 2d+3 cut reach 2,3* or 1d+3 imp reach 1-3*, parry 10U
+bill (14): 2d+3 cut reach 2,3* or 1d+3 imp reach 1-3*  parry 10U
+           or 1d-1 cut reach 1-3* hook
+           hook MA74: (10), plus -2 for limb, -5 for head,
+           QC ST to force opponent to knees, or from knees to fall down
+           (-5+reach) for weapon, +2 to QC (weapon skill, DX or ST based) to disarm B401
+           (-4+DB) for shield
+crossbow (13) 1d+4 imp, acc 4
+
+
+Bugbear, worthy with Guard template.
+ST 15  thr 1d+1  sw 2d+1  HP 17
+DX 12
+IQ 10  Will 10  Per 11
+HT 13  FP 13
+SM +1
+Darkvision
+Sensitive to bright light
+DR1 (tough skin)
+Discriminatory Smell
+Silence 1
+Brawling-12
+Knife-12
+Wrestling-11
+Flail-14 + Weapon Bond (15)
+Spear-12
+Thrown Weapon(Spear)-12
+Shield-12
+Move 6
+Dodge 9
+Block 9
+leather armor (total DR 3), flail, spear, medium shield, $12d6
+morningstar (15): 2d+4 cr, reach 1*, parry 12U, -4 to parry, -2 to block
+spear (12): (2H) 1d+4 imp, reach 1,2*, parry 11
+thrown spear (12): 1d+4 imp, acc 2, range 15/22
+only speaks Goblin, and broken Orc
+
+
+Troglodyte, worthy with Guard template
+ST 12  thr 1d-1  sw 1d+2  HP 12
+DX 10
+IQ  9  Will 9  Per 10
+HT 12  (+ Fit)  FP 12
+Darkvision
+Fit
+DR1 (flexible)
+Amphibious
+Sharp Teeth, 1d-2 cut
+Sharp Claws, 1d-2 cut
+Stench: Affliction 2, area effect 8, emanation, respiratory agent,
+  uncontrollable (when angry or frightened), nauseated
+  HT-1 to resist, DR does not help
+  nausea: B428 -2 to all attribute/skill rolls, -1 to defenses, roll vs. HT
+  when eating / exposed to foul odor / fail Fright Check / stunned,
+  failure means Retching for 25-HT s: -5 to DX/IQ/Per, can't Concentrate,
+  lose 1 FP, lose last meal
+
+Brawling-10
+Knife-10
+Wrestling-10
+Stealth-13
+Axe/Mace-12, Net-11, Spear-12, Thrown Weapon(Spear)-12
+
+Move 4
+Dodge 7
+leather armor (total DR 3), club or net and javelins
+knobbed club (12): 1d+3 cr, reach 1, parry 9
+javelin (12): 1d imp, reach 1, parry 9
+thrown javelin (12): 1d imp, acc 3, range 18/30
+
+thrown net (12): acc 1, range 14 B411
+Target can dodge/parry, parry with cutting damage damages net
+If not defended, entangled: can't move or attack until freed
+escape: need 1 free hand, 3 DX-1 rolls (1/turn), -2 if only 1 free hand
+or cut with reach "C" cutting weapon, auto hit, DR1, 14 HP,
+diffuse (B380, no more than 1 HP from imp/pi, 2 HP from most attacks)
+
+melee net (12): reach 1-2
+Target can dodge/parry, parry with cutting damage damages net
+if no defense, ensnared.  Ready on subsequent turn, contest of ST
+attacker wins: defender immobilized  defender wins: attacker disarmed
+
+
+Rasthnum
+worthy
+Look like spiny rocks.
+ST  8
+DX 10
+IQ  3
+HT 10
+Catfall
+Climbing-18
+Stealth-20
+Venom
+Darkvision
+attack:
+death from above, 2d cr
+spines: 1d-1 pi, HT+2 or paralyzed for 3-12 minutes
+Dodge: 9  DR: 4
+
+
+3-1:
+Search check to find secret door
+Traps check to find/disable falling net of armor trap
+If triggered, DX check to evade, 1d+2 cr
+Bugbears get Per+1 check (12) to hear noise.
+
+Search+5 to find concealed exit (behind tapestry) to W
+Traps-1 to find/disable morningstar trap
+melee attack: 3d+4 cr, -4 to parry (and will break weapons),
+                       -2 to block (and will break shields)
+
+3-2:
+4 War1 orcs w/ flails and (2) crossbows
+ST 14  HP 16  thr 1d  sw 2d
+DX 10
+IQ  9  Will 10  Per 10  Hearing 12
+HT 13  FP 13
+Magic Resistance 4
+Darkvision
+Sensitive to bright light
+Brawling-10
+Knife-10
+Wrestling-9
+Two-Handed Sword-13, Two-Handed Axe/Mace-13, Polearm-13, or Two-Handed Flail-12
+Hook-10 (some)
+Crossbow-12 (some)
+Whip-12 (some)
+Move 4
+Dodge 7
+scale armor, flail, $8d4
+flail (12): 2d+4 cr, reach 1,2*, parry 9U, -4 to parry, -2 to block
+crossbow (12) 1d+4 imp, acc 4
+
+
+Robgrut, orc, Apprentice template
+ST 15  thr 1d+1  sw 2d+1  HP 15
+DX 10
+IQ 13  Will 13  Per 12  Hearing 13
+HT 12  FP 13
+BS 5
+Move 5  Dodge 8
+Magery 2
+Darkvision
+Sensitive to bright light
+Alchemy-13
+Flail-13
+Shield-12
+Seek Water-13
+Purify Water-13
+Create Water-13
+Foolishness-13
+Forgetfulness-13
+Command-13
+Itch-13
+Spasm-13
+Clumsiness-13
+Tanglefoot-13
+Morningstar (13) 1d+3 cr, reach 1,2  parry 11 (w/DB)
+Medium shield
+Scale armor DR4
+2 tanglefoot bags (worth $100 ea.):
+   On hit, target rolls DX or is rooted to floor.  (If resisted, half move.)
+   ST-1 check, or 15 points of damage with cutting weapon to break free (Half move)
+   Goo evaporates in 10 seconds.
+6 flash pellets (as Flash spell)
+2 Alchemist's Fire (DF1 p28)
+Acc 0, Range STx2, shatters when hitting DR3, 1d burn/s for 30s, until
+   target rolls on ground.  Armor DR protects at 1/5 normal.
+   On ground, 2-yard-radius fire, 1d-1 burn/s, 30s
+Bag of Air: 3d Air Jet twice per day, self-powered
+2 Demon's Brew poison (DF1 p28), 2 yard radius, 2d injury, or 1d with HT roll
+Toaker, toad familiar, grants ER 6
+
+Treasure: Alchemy Lab $500 40#, 4 flash pellets, 3 vials of acid,
+$55 of powdered quartz, $30 of gold dust, $200 of amethysts,
+several alchemy books, book about trogs (all in Orcish)
+spellbook (orcish):
+    Seek Water, Purify Water, Create Water, Foolishness, Forgetfulness,
+    Command, Itch, Spasm, Clumsiness, Tanglefoot
+Paper listing Clockwork Academy, "Forward progress one gear at a time" (in gnome)
+
+3-3:
+Treasure: instructions to create a stenchpot, in Orcish, worth $100
+grappling hook
+rope
+shovels
+
+3-4:
+3 bugbears.  1 has a key around his neck.
+
+Bugbear, worthy with Guard template.
+
+ST 15  thr 1d+1  sw 2d+1  HP 17
+DX 12
+IQ 10  Will 10  Per 11
+HT 13  FP 13
+SM +1
+Darkvision
+Sensitive to bright light
+DR1 (tough skin)
+Discriminatory Smell
+Silence 1
+Brawling-12
+Knife-12
+Wrestling-11
+Flail-14 + Weapon Bond (15)
+Spear-12
+Thrown Weapon(Spear)-12
+Shield-12
+
+Move 6
+Dodge 9 (11)
+Block 9 (11)
+leather armor (total DR 3), flail, spear, medium shield, $12d6
+morningstar (15): 2d+4 cr, reach 1*, parry 12U, -4 to parry, -2 to block
+spear (12): (2H) 1d+4 imp, reach 1,2*, parry 11
+thrown spear (12): 1d+4 imp, acc 2, range 15/22
+only speaks Goblin, and broken Orc
+
+Treasure:
+$51, gemstone dice (worth $70) on table.
+Locked chest (pick at -2) contains $650, and a contract (in Goblin)
+
+3-5:
+25% chance of 4 War2 orcs (from 3-8) w/crossbows and flails.
+ST 14  HP 16  thr 1d  sw 2d
+DX 10
+IQ  9  Will 10  Per 10  Hearing 12
+HT 13  FP 13
+Magic Resistance 4
+Darkvision
+Sensitive to bright light
+Brawling-10
+Knife-11
+Wrestling-10
+Two-Handed Sword-14, Two-Handed Axe/Mace-14, Polearm-14, or Two-Handed Flail-13
+Crossbow-13
+Move 4
+Dodge 7
+scale armor, flail, $40
+flail (13): 2d+4 cr, reach 1,2*, parry 9U, -4 to parry, -2 to block
+crossbow (13) 1d+4 imp, acc 4
+Treasure: 55 bolts, 3 everburning torches on wall
+
+Altar: Search at -6 to find secret compartment.
+Contains platinum plate ($50), iron key, prayer book to Justicia ($40),
+cracked Bottle of Air (2% cumulative chance it breaks)  (for Water Breathing)
+
+3-6:
+papers in table in Orcish, about mines (IQ-1 check to understand)
+locked chest under bed, pick at +0, Fire Trap, 1d+5, R-DX+1 for half,
+Traps-5 to find/disable.
+Contains $57 in coins, bone carved box ($75),
+silver/onyx bird necklace ($350),
+silver/jade flute (Sorrowsong Instrument, $150),
+secret compartment in bottom (Search-5), containing parchment with
+    5 words in Orcish.
+
+Secret door: Search-3
+Room contains stone table with scale model of castle (Handout E)
+
+3-7:
+Door locked, -2 to pick
+
+7 Orc Zombies
+DF9 p26
+SM 0
+ST 15  HP   19   thr 1d+1  sw 2d+1
+DX  9  Will 10
+IQ  7  Per   9
+HT 13
+BS 5.5  Move 5  Dodge 8
+SM 0
+Darkvision
+Brawling-12
+Axe/Mace-12
+DR 3, tough skin
+punch (12): 1d cr, reach C  Parry 9
+1 has fine mace w/+1 Puissance (12): 2d+4 cr, parry 9U   DR 7, mail shirt
+4 have mace (12) 2d+3 cr, parry 9U  DR 5, leather
+strangling grasp (10, 5 vs. neck), no damage, can squeeze B370
+    QC ST vs. ST/HT, cr damage equal to margin of victory, * 1.5 for neck,
+    1 FP/turn to suffocation
+
+treasure: 7 pieces of gold or silver jewelry, $75 each
+
+secret door: Search-2
+
+3-8:
+Thunderstone trap, Search Traps+0, Disable Traps-1, R-HT or deafened 1 hour
+
+6 War2 orcs (unless 3 were already fought)
+Hiding behind table for cover, crossbows, then thunderstones, then flails
+ST 14  HP 16  thr 1d  sw 2d
+DX 10
+IQ  9  Will 10  Per 10  Hearing 12
+HT 13  FP 13
+Magic Resistance 4
+Darkvision
+Sensitive to bright light
+Brawling-10
+Knife-11
+Wrestling-10
+Two-Handed Sword-14, Two-Handed Axe/Mace-14, Polearm-14, or Two-Handed Flail-13
+Hook-11 (some)
+Crossbow-13 (some)
+Whip-13 (some)
+Move 4
+Dodge 7
+DR 4 / 2 vs. cr
+Have mail, flails, crossbows, 1 thunderstone, 2 flash pellets, $40
+flail (13): 2d+4 cr, reach 1,2*, parry 9U, -4 to parry, -2 to block
+crossbow (13) 1d+4 imp, acc 4
+
+3-9:
+4 (now 6) War2 orcs
+ST 14  HP 16  thr 1d  sw 2d
+DX 10
+IQ  9  Will 10  Per 10  Hearing 12
+HT 13  FP 13
+Magic Resistance 4
+Darkvision
+Sensitive to bright light
+Brawling-10
+Knife-11
+Wrestling-10
+Two-Handed Sword-14, Two-Handed Axe/Mace-14, Polearm-14, or Two-Handed Flail-13
+Hook-11 (some)
+Crossbow-13 (some)
+Whip-13 (some)
+Move 4
+Dodge 7
+DR 4 / 2 vs. cr
+Have mail, flails, crossbows, 1 thunderstone, 2 flash pellets, $40
+flail (13): 2d+4 cr, reach 1,2*, parry 9U, -4 to parry, -2 to block
+crossbow (13) 1d+4 imp, acc 4
+Have mail, flails, crossbows, Alchemists's fire, $40 in coins ea.
+Alchemist's Fire DF1 p28
+Acc 0, Range STx2, shatters when hitting DR3, 1d burn/s for 30s, until
+   target rolls on ground.  Armor DR protects at 1/5 normal.
+   On ground, 2-yard-radius fire, 1d-1 burn/s, 30s
+
+3-10:
+4 War1 orcs
+ST 14  HP 16  thr 1d  sw 2d
+DX 10
+IQ  9  Will 10  Per 10  Hearing 12
+HT 13  FP 13
+Magic Resistance 4
+Darkvision
+Sensitive to bright light
+Brawling-10
+Knife-10
+Wrestling-9
+Two-Handed Sword-13, Two-Handed Axe/Mace-13, Polearm-13, or Two-Handed Flail-12
+Hook-10 (some)
+Crossbow-12 (some)
+Whip-12 (some)
+Move 4
+Dodge 7
+scale armor, flail, $8d4
+flail (12): 2d+4 cr, reach 1,2*, parry 9U, -4 to parry, -2 to block
+crossbow (12) 1d+4 imp, acc 4
+
+1 hearing roll per Thunderstone detonated.  If any are made, ready barrels.
+13 hex steps (3 MP / hex)
+2 barrels/turn
+DX or Jump+1 to avoid each barrel.
+If hit, DX+2 or fall down stairs, 1-3 cr per 3 hexes fallen
+Orcs hide behind barrels, shoot crossbows, also have flails, scale armor,
+$20 ea. in coins
+1 barrel has $222 in coins
+Orcs will try to slam enemies into well
+Search +0 to see rungs underwater
+Search -3 to see removed rungs to top
+
+3-11:
+Search +0 to see word on floor ("danger" in Orcish), with arrow
+2 Rasthnums
+worthy
+Look like spiny rocks.
+ST  8
+DX 10
+IQ  3
+HT 10
+Catfall
+Climbing-18
+Stealth-20
+Venom
+Darkvision
+attack:
+death from above, 2d cr
+spines: 1d-1 pi, HT+2 or paralyzed for 3-12 minutes
+Dodge: 9  DR: 4
+
+3-12:
+Search+2 to see that rock was placed manually
+ST check to move rock
+Search+0 to see 2' underwater passage
+
+
+Numoura Shimmerscale (nixie) asks for help.
+SM -1
+ST  6   HP    7   thr 1d-4  sw 1d-3
+DX 15   Will 13
+IQ 13   Per  13
+HT 12   FP   12
+BS 6.75
+Move 6  Dodge 10
+DR 3, 0 vs. cold iron
+Amphibious
+Combat Reflexes
+Night Vision
+Magic Resistance 2, switchable
+Knows Aquan, accented Elvish, broken Common
+Charm-16
+Flash-14
+Water Breathing-special (2/day, lasts 24 hours)
+Simple Illusion-13
+Telepathy-15
+Punch (15) 1d-5 cr, Reach C
+Gives ring (pink coral, pearls, platinum, magic, $500) as reward.
+    (See handout D)
+    Aquil'iya:
+    Water Breathing
+    Activate with major fire damage, major wind, essential water,
+       turning to stone and back
+    First activation: Aquan, Detect Magic-15, Create Water,
+       Extinguish Fire-15 (1/day)
+    Second activation: Vulnerability (x2) to fire, +5 to Swimming, Water Walking,
+       Banish (vs. Elementals only, 1/day)
+       Ring gains speech and telepathy (Common, Aquan, Auran, Ignan, Terrain),
+          Gift of Letters-15
+    Third activation: Elemental Protection-15 (DR 30 vs. acid, cold, electricity,
+       fire, sound), Rain of Ice Daggers (2/week), Wall of Ice-15 (1/day)
+    Fourth activation: Seeker (other Melosiran Rings, 1/week),
+       Dehydrate-15 (1/day), Shape Water-15 (2/week),
+       Ring gains Create Water Elemental-15 (to defend wielder)
+       TODO detail elemental.  Swarm?
+    Power 20
+
+3-13:
+DX+2 check each turn on ledge to avoid slipping, failure by 5+ means in water
+Water is 20' deep.
+
+Monstrous Crayfish:
+SM +2
+ST 18  HP 18
+DX 10
+IQ  4
+HT 13
+BS 5.75
+Move 5
+Dodge 8
+Constriction Attack
+DR 4
+Claw, Reach 2, grapple.  If successful, QC ST vs. ST/HT each subsequent turn,
+margin of victory damage (plus drowning)
+Grappled: -4 to DX, can only use reach C weapons, break free with QC ST,
+   Crayfish gets +5 if using both claws
+Flees with 7 HP left.
+
+Underwater combat rules:
+All DX skills capped at Swimming skill while swimming (not standing on bottom)
+attack at -4 per yard of maximum weapon reach
+thrust damage -1 per yard of max reach
+swing damage -1 per die per yard of max reach
+Must make aquabatics roll to retreat without pushing off something
+Swimming: HT-4, +3 if entered water intentionally, - 2x encumbrance level
+Drowning: Lose 1 FP per 5s.  At 0 FP, roll vs. Will each 1s or unconscious.
+1 Swimming roll per 5s if drowning
+Vision -4 roll to spot anything underwater (murky), -6 once combat starts
+     (silt stirred up)
+
+3-14:
+blue quartz, $50
+Per-2 to detect green slime on ceiling
+1d per turn.  Can be scraped off but damages metal.
+Killed by Cure Disease, fire, cold, sunlight
+
+3-15:
+2 Orc Barbarian, Brute template
+SM +1
+ST 16    HP   18   thr 1d+1  sw 2d+2
+DX 12    Will 10
+IQ  9    Per  10   Hearing 12
+HT 13    FP   13
+BS 6
+Move 6
+Dodge 10
+Darkvision
+Light sensitivity
+Magic Resistance 4
+Combat Reflexes
+Berserk
+Weapon Bond (flail)
+Brawling-13
+Knife-12
+Wrestling-11
+Two-Handed Flail-16
+Crossbow-14
+Fast-Draw(arrow)-12
+First Aid-8
+Intimidation-9
+Observation-9
+Stealth-11
+Climbing-12
+
+Flail (16+1=17) 2d+6 cr  Reach 1,2*  Parry 12U
+Crossbow 1d+5 imp Range 320/400   4s to ready, 3 with fast-draw
+Chain shirt DR 4, 10 bolts, $16d6 in coins
+
+3A-1:
+Sloped floor, DX+2 to do anything fast, or fall (combat) / stop (movement).
+Massive iron door, ST-1 to open, leads to blank rock
+
+Drugila, Orc/Cloud Giant Knight-Wizard
+SM +2
+ST 24  HP   24  thr 2d+1 sw 4d+2
+DX 12  Will 12
+IQ 12  Per  12
+HT 14  FP   14
+BS 7
+Move 7
+Dodge 10
+
+Magery-2
+Levitation 3/day
+High Pain Threshold
+Intimidation-13
+Two-Handed Flail-14
+Throwing-14
+Innate Attack-13
+Flame Jet-13
+Fear-13
+Darkness-13
+Missile Shield-13
+
+Fine Ginormous Flail (14) 4d+10 cr, Reach 1-3*, Parry 10
+Thrown Rock 2d+1 cr, acc 1, Range 48
+Breastplate DR 4(+2) front, DR2 (tough skin)
+
+3A-2:
+Climbing+2 to climb the steps, due to height and pitch
+Per+2 to spot white bird of prey in all mosaics
+
+3A-3:
+Cloud Giant Skeleton
+SM +3
+ST 35  HP   30   thr 4d-1 sw 6d+1
+DX 11  Will 16
+IQ  8  Per   9
+HT 10
+BS   5.25
+Move 8   Dodge 8
+Blunt claws
+DR 5
+One arm
+High Pain Threshold
+Injury Tolerance
+Vulnerability: cr * 2
+Punch: Reach 5, 4d+1 cr
+
+Treasure: huge iron crown, $100  silk banner: $250
+
+Griselda - dwarf?

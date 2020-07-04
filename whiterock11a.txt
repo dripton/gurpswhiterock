@@ -1,0 +1,367 @@
+/avern height 12-18 feet, 4-6 hexes
+
+11A-1:
+
+Ceiling 24' up, 8 hexes
+Warded Walls on ceiling, south wall
+
+Vision+0 to notice green sea salt.
+
+Vision+0 to notice murder holes in ceiling
+
+See 12-28a and 12-28b for defenders inside Narborg, directly overhead.
+(11 Duergar Guards, 1 Watch Captain, all with ST 21 crossbows
+Crossbow (ST 21) (20)  Acc 4, 2d+4 imp, or 2d+4 (2) with bodkin
+Crossbows fire every 4 turns with Fast-Draw, so 3/turn or 6/2nd turn or 12/4th turn)
+
+2 72" Scorpions (LT 82)
+Skill 20, Acc 4, 7d+1 imp, 30s to reload
+
+3 Fire Clouds:
+   direct hit: 1d/s for 30s or until extinguished, rolling on ground doesn't work!
+      armor counts for 1/5 DR
+   area: 3 hex radius, 1d-1 burn/s for 30s
+
+11 Duergar Watch
+ST 14  HP 14  thr 1d sw 2d
+DX 14  Per  11
+IQ 10  Will 10
+HT 14  FP   13
+BS 8, Move 5
+Combat Reflexes
+High Pain Threshold
+Weapon Master
+Shield Wall Training
+Brawling-16 Knife-16 Wrestling-16 Axe/Mace-20 Crossbow-20 Shield-20 Gunner-20
+Broadsword-20 Stealth-13 Merchant-10 Fast Draw(Potion)-15
+Spells: Enlarge, Invisibility
+Dodge-12 Parry-16 Block-16 (with +3 DB)
+DR 5 (scale, tough skin)
+Fine Balanced Dwarven Mace (21) Reach 1, 2d+8 cr, Parry 0
+if enlarged SM +1, ST 21 HP 21 thr 2d sw 4d-1  mace damage 4d+10 cr
+Crossbow (ST 21) (20)  Acc 4, 2d+4 imp, or 2d+4 (2) with bodkin
+Quiver, 5 imp bolts, 5 bodkin bolts
+5 Blighted Broadsword (19) Reach 1, 2d+7 cut or 1d+6 imp, plus bleed
+(Blighted Blade: jagged, -1 to skill, +2 to damage, bleed for 1/s until magically healed)
+Potion of See Invisible
+Potion of Minor Healing
+
+Duergar Watch Captain
+ST 20  HP   20  thr 2d-1 sw 3d+2
+DX 14  Per  11
+IQ 10  Will 10
+HT 14  FP   13
+BS 8, Move 5
+if enlarged SM +1, ST 30 HP 30 thr 3d sw 5d+2
+Combat Reflexes
+High Pain Threshold
+Weapon Master
+Shield Wall Training
+Brawling-16 Knife-16 Wrestling-16 Axe/Mace-24 Crossbow-16 Shield-20 Net-20
+Boating-10 Stealth-13 Merchant-10 Fast Draw(Potion)-15  Leadership etc.
+Spells: Enlarge, Invisibility
+Dodge-12 Parry-19 Block-16 (with +3 DB)
+DR 5 (tough skin)
+Fine Balanced Dwarven Mace (24) Reach 1, cr 3d+10 / 5d+15
+Crossbow (ST 30) (20)  Acc 4, 3d+4 imp, or 3d+4 (2) with bodkin
+Large shield
+Whistle
+
+
+
+
+11A-2:
+Listen+3 to hear footfalls
+If made by 9+, it's 3-6 man-sized creatures in steel boots.
+
+4 Duergar Deep Watch
+ST 14  HP 14  thr 1d sw 2d
+DX 14  Per  11
+IQ 10  Will 10
+HT 14  FP   13
+BS 8, Move 5
+Combat Reflexes
+High Pain Threshold
+Weapon Master
+Shield Wall Training
+Brawling-16 Knife-16 Wrestling-16 Axe/Mace-20 Crossbow-20 Shield-20
+Stealth-13 Merchant-10 Fast Draw(Potion)-15 Gesture-16
+Spells: Enlarge, Invisibility
+Dodge-12 Parry-16 Block-16 (with +3 DB)
+DR 5 (scale, tough skin)
+Fine Balanced Dwarven Mace (21) Reach 1, 2d+8 cr, Parry 0
+if enlarged SM +1, ST 21 HP 21 thr 2d sw 4d-1  mace damage 4d+10 cr
+Crossbow (ST 21) (20)  Acc 4, 2d+4 imp, or 2d+4 (2) with bodkin
+Quiver, 5 imp bolts, 5 bodkin bolts
+Potion of Major Healing
+key
+earplugs
+1 has Mouther Salt (mouthers: R-HT or KO), Cloak of Elvenkind
+$35 total
+
+Amphora: 20 HP
+dropping it does 1-6
+Vision-1 to see it cracking as the mouther attacks it
+
+Gibbering Mouther
+SM 1
+ST 20  HP   20
+DX 12  Will 12
+IQ  8  Per  12
+HT 14  FP   14
+BS 6  Dodge 9
+Move 4
+DR 5
+Vampiric Bite (16): 2d-1 cutting Reach C. The gibbering mouther can drain the
+victimâs life if the victim is helpless (pinned, stunned, unconscious, et
+grappled, or willing. If he is wearing armor, the gibbering moutherâs be
+damage must penetrate its DR. Once the gibbering mouther has bitten through the
+victimâs DR, it can drain 1 HP per second from him. For every 3 HP sto
+the gibbering mouther heals 1 HP or 1 FP (its choice). It cannot raise its HP
+or FP above normal this way.
+Spit Acid (16): 1d-1 corrosion. Ranged attack (Acc 3, Range 10/10), costs 1 FP.
+Gibbering: As soon as a mouther spots something edible, it begins a constant
+gibbering. When a creature hears this gibbering, it must roll a Fright Check
+using the Confusion table (GURPS Powers, p. 85). If a victim succeeds at his
+Fright Check, he will be unaffected by this ability for one hour.
+Ground Manipulation: A gibbering mouther can cause stone and earth in a 4-yard
+radius around it to become a morass akin to quicksand. This requires a
+Concentrate maneuver and costs 1 FP. Mired creatures are grappled with ST 12.
+Their only way to free themselves is to break free with a successful Quick
+Contests of ST. Softening stone requires two consecutive Concentrate maneuvers.
+This effect persists for 10 seconds.
+Traits: 360Â° Vision; Constrcition Attack; Disturbing Voice; Extra Attack 5;
+Extra Mouth 5; Horizontal; Immunity to Ground Manipulation; Infravision;
+Injury Tolerance (Homogenous, No Blood, No Eyes, No Head, No Neck);
+Invertebrate; No Fine Manipulators; No Legs (Slithers).
+Skills: Brawling-16; Innate Attack (Breath)-16
+
+
+11A-3:
+Search+2 finds 6 $50 zircons, Ring of Force Shield (Large Shield, weightless)
+
+11A-4:
+Pit.  Geology, etc. check shows it's a lava window, which has closed.
+
+11A-5:
+Vision+2 to see chip marks on walls
+Vision+0 shows faint Undercommon writing, with arrows pointing north
+
+11A-6a:
+
+Potions for sale, all ~20% over list price:
+
+Minor Healing    $ 150
+Jumping +6       $ 500
+Major Healing    $ 450
+Invulnerability  $2500
+Climbing +6      $1000
+Blur +6          $1000
+
+
+Listen-4 or Lip Reading+0 to know what the derro is mumbling
+
+Derro template
+SM -1
+DX+1 HT+1
+Dark Vision, Striking ST 3 (surprise attack only), Magery 0, Magic Resistance 2
+Madness, Delusion (sane), Weakness (Sunlight)
+Spells: Darkness (M111), Daze (M134), Sound (M171),
+   Thunderclap (M171) (stun if HT roll missed by 5)
+
+Derro Zealot, Decanter, and Potion Master
+SM -1
+ST 13   HP   13   thr 1d sw 2d-1
+DX 14   Will 14
+IQ 14   Per  14
+HT 13   FP   13   ER 3
+BS 6.25 Move 6
+Dodge 12 Block 16 Parry 16 (including DB 2)
+DR 4 (leather, Fortify +1, tough skin) or DR 5 (scale, tough skin)
+Dark Vision, Striking ST 3 (surprise attack only), Magic Resistance 5 (improved)
+Madness, Delusion (sane), Weakness (Sunlight)
+Combat Reflexes
+Magery 4
+Spells:
+   Darkness-20 (M111)
+   Daze-20 (M134)
+   Sound-20 (M171),
+   Thunderclap-20 (M171) (stun if HT roll missed by 5)
+   Grease-20 : Per-3 to spot, bad footing (DF16 p38): -2 to attack /
+      DX / Acrobatics / Jumping, -1 to defenses, +1 MP per hex
+   Shocking Touch-20 M196: 1d/FP, metal armor is DR1
+   Acid Jet-20 M192
+   Sleep-20 M135 R-HT
+   Missile Shield-20
+Innate Attack-20 Shortsword-20 Crossbow-20 Stealth-14 Fast-Talk-14
+Fine shortsword (20)
+Medium Buckler DB 2
+Repeating Crossbow (20) id-1 imp Acc 1, 10 shots, 1 ready between shots, Malf 14  $500
+15 bolts (half bodkin)
+5 Crimson Spore Poison: R-HT or lose 1d DX; R-HT 1 minute later or KO 2d minutes $50 ea.
+Invulnerability Potion, +3 DR for 2-7 hours  drank it!
+
+Moruut the Minotaur
+SM +1
+ST 27  HP   50  thr 3d-1  sw 5d+1
+DX 15  Will 14
+IQ  9  Per  13
+HT 15  FP   15
+Absolute Direction, Acute Hearing 2, DR 2 (skull), DR 2 (tough skin),
+Peripheral Vision, Striker (horns, +1 reach)
+Hideous, Bad Temper, Berserk, Bloodlust,
+Extra Attack 2, Combat Reflexes, Enhanced Dodge +3, Weapon Master
+Two-Handed Axe-25 Brawling-25 Sumo-25 Parry Missile Weapons-25 Kiai-20
+Fine Balanced Dwarven Penetrating Accuracy +1 Puissance +1 Greataxe (28) Reach 1-2, 5d+17 cut
+Penetrating Horns (26) Reach 0-2, 3d+5 imp
+
+
+11A-6b:
+scraped, washed, cracked human bones
+clothes
+shortsword
+
+11A-6c:
+3 Potions of Minor Healing
+2 Potions of Jumping +6
+1 Potion of Climbing +6
+1 Potion Labeled Major Healing, actually Shrink
+Alchemy lab gear
+
+Search-6 to find secret door
+
+11A-6d:
+$6
+
+11A-6e:
+flier
+map (handout!)
+21 total Passwall scrolls, make 5' x 8' x 10' hole each
+paper
+
+11A-7:
+
+Savant Azrapath, Half-Fiend Derro
+SM -1
+ST 20   HP   30   thr 2d-1 sw 3d+2
+DX 16   Will 20
+IQ 20   Per  20
+HT 14   FP   14   ER 20
+BS 6.25 Move 6
+Dodge 12 Block 16 Parry 16 (including DB 2)
+DR 10
+Dark Vision, Striking ST 3 (surprise attack only), Magic Resistance 20 (improved)
+immune to poison
+Madness, Delusion (sane), Weakness (Sunlight)
+Combat Reflexes
+Undercommon, Common, Draconic, Dwarven
+Weapon Master, TBAM, Extra Attack 2
+Long Talons (cut or imp at +1/die), Sharp Teeth (thr-1 cut)
+Magery 6
+Spells:
+   Shield-24 (M167)
+   Darkness-24 (M111)
+   Scorching Ray-24 (2 4d instant Flame Jets, 20 hex range)
+   Flame Jet-24
+   Detect Magic-24
+   Daze-24 (M134)
+   Mass Daze-24 (M134)
+   Darkness-24
+   Sound-24 (M171),
+   Thunderclap-24 (M171) (stun if HT roll missed by 5)
+   Concussion-24
+   Grease-24 : Per-3 to spot, bad footing (DF16 p38): -2 to attack /
+      DX / Acrobatics / Jumping, -1 to defenses, +1 MP per hex
+   Shocking Touch-24 M196: 1d/FP, metal armor is DR1
+   Acid Jet-24 M192
+   Sleep-24 M135 R-HT
+   Missile Shield-24
+   Dispel Magic-24
+Innate Attack-25 Stealth-14 Fast-Talk-14 Diplomacy-20
+Karate-20 Brawling-20 Wrestling-20 Sumo-20
+Mask of the Skull: 1/day, Range 16 hexes, Attack-25 (no range penalty)
+   on hit: R-HT-2 or die, if resisted take 3d+13, DR does not protect
+   Only usable by him
+Smith: +10 damage on melee attack once per day
+Claw Punch (20) Reach C, 2d+4 cut/imp
+Bite (20) Reach C, 2d+3 cut
+
+
+11A-8:
+
+3 Duergar Attendants (1 here, 1 11A-9b, 1 11A-9c)
+ST 14  HP 14  thr 1d sw 2d
+DX 14  Per  11
+IQ 10  Will 10
+HT 14  FP   13
+BS 8, Move 5
+Combat Reflexes
+High Pain Threshold
+Weapon Master
+Shield Wall Training
+Brawling-16 Knife-16 Wrestling-16 Axe/Mace-20 Shield-20 Spear-20
+Stealth-13 Merchant-10 Fast Draw(Potion)-15 Innate Attack-20
+Spells: Enlarge, Invisibility
+Dodge-12 Parry-16 Block-16 (with +3 DB)
+DR 5 (scale, tough skin)
+Fine Balanced Dwarven Mace (21) Reach 1, 2d+8 cr, Parry 0
+Fine Balanced Long Spear (21) Reach 2-3, 1d+3 imp, Parry U
+Fine Balanced Long Spear (21) Two-Handed: Reach 2-3, 1d+6 imp, Parry 0
+if enlarged SM +1, ST 21 HP 21 thr 2d sw 4d-1  mace damage 4d+10 cr, spear damage 2d+7 imp
+2 Springwand Bracers each
+(all 3) Wand of Deeper Darkness (10 charges): Darkness, but negates light spells
+Wand of Acid Ball (22 charges) 1-6 charges/s, up to 3s, 1d acid / charge
+Wand of Total Paralysis (10 charges)   M40, R-HT, requires head hit
+Wand of Magic Bolt (19 charges) DF10p37 2d-1 cr, ~auto hit, dodge only, ignores DR
+
+Lightless Gate
+SM +6
+ST 28  HP  117
+DX  1  Will 15
+IQ  2  Per  15
+HT 14  FP   14
+BS 4  Move 0  Dodge 0  Parry-14 (also missiles, only -1 penalty for multiple parries)
+DR 10
+Dark Vision
+Immune to Magic
+Sumo-20  Brawling-20  Parry Missile Weapons-14
+Slam/Punch (20)  Reach 7  4d+9 cr
+Extra Attack 1
+Antipathy/Sympathy: affects multiple creatures up to 30 hex range
+   Will-4 or must run toward/away from wall for 1 hour
+   (can stop running once well out of LOS)
+   If resisted, DX-4
+Deconstruction Ray: unattended objects must R-HT-3 or be disintegrated
+Unnatural: destroyed at -HP
+Vulnerable to Light
+
+
+11A-9a:
+
+Lockpicking-6
+
+Wand of Minor Healing (3)
+Wand of Detect Magic (3)
+Wand of Magic Missile (2)
+Wand of Acid Ball (5)
+Wand of Darkness (4)
+Wand of Dispel Magic (2)
+
+11A-9b:
+Crystal Ball (location locked to only view 2 areas)
+
+11A-9c:
+Fine Balanced Long Spear
+
+11A-9d:
+$575
+
+11A-9e:
+
+Sustaining Spoon
+Spices
+
+11A-10:
+
+Writing in Draconic
+Stairs down are noticably hot

@@ -1,0 +1,157 @@
+You are hanging out in the Inn of the Slumbering Drake in Cillamar, in the
+afternoon before the place fills up, sitting near a warm fire, drinking some
+moderately priced drinks, listening to a reasonably competent half-elven
+singer, and hoping some kind of potentially profitable adventure turns up
+before you need to downgrade to a less pleasant tavern.
+
+Suddenly, in barges Quintus the old alchemist/wizard, followed by a big black
+cat.  "Is there a druid in the house?" Quintus asks, far too loudly.  "I need
+someone who can talk to animals.  It's important!"
+
+The mood ruined, Brie stops strumming and asks "What's the problem, Quintus?
+Cat hide your healing potion recipe?  And why couldn't it wait until the end of
+the song?"
+
+Ixnay the shoulder dragon, who was comfortably sleeping on some pillows in
+front of the fire, opens one eye, looks over toward the door, and hisses at the
+cat.
+
+Both Quintus and the cat give the bard synchronized death stares, and Quintus
+says "No, you fool.  It cannot.  My apprentice Lyssa is missing.  This is her
+familiar, Dodger.  He's made it abundantly clear to me that she's in deep
+trouble somewhere to the east and needs help.  If I were thirty years younger
+I'd just follow the cat to the trouble, blast the everliving snot out of it,
+and then make Lyssa collect the snot and turn it into a potion.  But I'm older
+and wiser and slower than I used to be, so instead I'd like to find someone who
+can talk to this cat and find out exactly what's up with Lyssa.  And then,
+armed with the information in this feline's head, maybe we can find someone to
+blast the everliving snot out of it for me.  And then bring Lyssa, Dodger, and
+the snot back to my tower, unharmed."
+
+Quintus pulls a silver coin out of his pouch and throws it at (rather than to)
+the bard.  She catches it deftly.  "Sorry for interrupting your ditty; please
+buy yourself a drink to soothe your tired throat.  Now, can anyone in this
+place talk to a cat?  Or do you know someone who can, nearby?  Time is of the
+essence."
+
+Dodger hops onto a nearby table, and says "Meow meow meow hiss mrooow meow."
+
+Ixnay hisses at Dodger again.
+Dodger hisses at Ixnay again.
+
+-----
+
+Arien, town drunkard: "Kidnapped, probably the same slavers who took me.  They
+are horrible.  Probably sold her to the orcs who are going to work her to
+death.  You have to save her so she doesn't suffer like I did."
+
+Lord Granger Flitwick: "Yes, listen to Arien, he's totally reliable, not
+anywhere near as drunk as he appears, and will totally help you rather than
+just milk you for drinks."
+
+Gnarkle: "Seriously, Quintus, you're taking orders from a cat now?"
+
+Brie: "Rufus can probably speak to animals.  He lives about a mile to the
+northwest, in an oak grove on the heath, but I don't know if he's home."
+
+(Quintus has Seeker-16, -5 for nothing closely associated, -2 for range, +1
+for knowing Rufus.  If someone remembers Rufus created the Food Chain game,
+they can use the dice to fix the -5.)
+
+Stableboys: Ulan (13) and Waldu (15, limps)
+
+Serving ladies: Cyna (short), Joyce (eye patch), Golda (smiles), Suse (pocks)
+
+/desc
+/as "character" quote
+/emas "character" quote
+/w name message
+/w gm message
+/r
+/gmroll
+
+---
+
+Ambush
+
+4 of Ankiel's goons are hiding: 2 up in the trees, 2 behind trees.
+Surprise Exploits 26, -2 to notice unless watching above
+contest of goons Stealth 11 vs. PCs Per 16? -2
+if surprise works, mental stun  IQ, +1 per turn, +1 for combat reflexes
+Goons jump out of trees, Attack from Above, Exploits 38
+-2 to hit, -2 to defend.  Dropping is a Step.
+3 yards up, falling damage 1d+2, halved if landing on enemy for softness.
+Both faller and target take it.
+
+Ankiel's thugs: Guard template
+
+ST 13 thr 1d sw 2d-1 HP 13
+DX 11
+IQ 10 Will 10 Per 10
+HT 12
+FP 12
+BS 6
+Move 6
+Dodge 9
+
+Brawling-11
+Knife-11
+Wrestling-10
+Broadsword-12
+Stealth-11
+Gesture-10
+Intimidation-9
+Climbing-10
+
+Club $10 Reach 1 1d+1 cr thr or 2d cr sw  Skill 12, Parry 9
+Dagger $20 Reach C 1d-1 imp Parry 7
+Light leather armor: DR1 on most hit locations (not face) $150
+
+Poor morale: Will flee if reduced to 3 HP
+$2 each in coins
+
+Ankiel: Illusionist
+ST 10
+DX 12
+IQ 15
+HT 11
+
+Merchant
+Fast-Talk
+Diplomacy
+Disguise
+Forgery
+Intimidation
+Hidden Lore (Magic Items)
+Detect Lies
+Thaumatology
+
+Cillamar guard uniform
+Leather armor, DR2
+Broadsword
+Fine long knife
+Bracers of Armor DR1
+Scroll with Haste +3, charged, lasts 5 minutes
+Scroll with Invisibility
+$32 in coins
+
+Ankiel will hang back from the fight until he's sure his goons are winning.
+
+
+Craw, raven familiar, like Macaw, DF5 p23
+ST 3   thr 1d-5 sw 1d-4 HP 8
+Striking ST 4 (bite)
+thr 1d-3, sw 1d-2
+DX 12
+IQ 10  Will 12 Per 12
+HT 12  FP 12
+SM -3
+Acrobatics-12
+Brawling-14
+Filch-11
+Flight-12
+Survival(woods)-13
+Air Move 10, Flight
+Sharp Claws, Sharp Teeth - cutting damage
+Bite: 1d-3 cutting  Claw: 1d-5 cutting
+

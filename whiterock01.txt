@@ -1,0 +1,566 @@
+Whiterock Level 1:
+
+
+Stenchpot:
+Resist at HT+2 (within 2 hexes) or nauseated for 5s.
+If hit directly, resist at HT.
+Each additional hit, -1 penalty to resist.
+Nausea Exploits 65: -2 to attr/skill rolls, -1 to defenses
+if exposed to foul odor / stunned / fail fright check, R-HT
+or retching for 25-HT s
+Retching Exploits 66: no potions, -5 to DX, IQ, Per, can't
+Concentrate, lose 1FP at end
+
+
+Interrogation
+Intimidation-0 to get info
+Diplomacy-2 plus bribe will work
+Know how many (10), layout of level, stairs to level 2
+Slavers of the Iron Manacle, from Punjar
+Cover story: Pretend to be monks exploring ruins.  Actually sell slaves to orcs.
+
+
+
+Wandering Monsters: 10% chance (6- on 3d) per empty room
+1-3  2 monstrous centipedes
+4-5  1 blood hawk (waits until outside, goes after familiar or small PC)
+6    1 drunk brute slaver
+
+Monstrous Centipede
+http://gurpswiki.wikidot.com/m:monstrous-centipede
+man-sized
+ST 9, HP 9
+DX 12, bite (12) reach C 1d-3 cr + 1-2 DX poison (R-HT), roll every hour to recover
+dodge 8
+
+Blood Hawk
+http://gurpswiki.wikidot.com/m:blood-hawk
+
+Blood hawks closely resemble normal hawks, but stronger and more aggressive,
+and with a love for the taste of human flesh. All but the tip of their beak,
+and a small area around their eye, is orange and bare.
+
+ST: 12  HP: 12  Speed: 6.00
+DX: 12  Will: 10        Move: 2
+IQ: 4   Per: 11
+HT: 10  FP: 10  SM: -2
+Dodge: 10       Parry: na       DR: 0
+
+Bite (13): 1d-2 large piercing; Reach C.
+Claws (13): 1d-2 cutting; Reach C.
+
+Traits: Acute Hearing 1; Acute Vision 2; Discriminatory Smell; Flight (Air Move
+13; Cannot Hover; Winged); Foot Manipulators (Short; Temporary Disadvantage
+(Legless)); Gregarious; Ham-Fisted (-6); Night Vision 3; Wild Animal.
+Skills: Brawling-13; Flight-12.
+Class: Dire Animal.
+Notes: Blood hawks get a +4 to Vision in daylight.
+
+Warrior slavers use Brute template:
+Godmaer, Drunk (-2 to DX and IQ, -4 to self control, included in stats below)
+ST 14 thr 1d sw 2d
+DX 11
+IQ  8
+HT 12
+Move 6
+Combat Reflexes
+High Pain Threshold
+staff  thr 1d+2 cr / sw 2d+2 cr, reach 1,2 parry +2
+mail shirt (under monk's robe), boots
+1 stenchpot
+fake holy symbol of Dawning Sun
+$4 each
+Brawling-11
+Knife-11
+Wrestling-10
+Staff-15
+Throwing-11 or Crossbow-12
+Gesture-8
+Climbing-10
+Stealth-10
+First Aid-8
+Tactics-6
+Hiking-11
+Observation-7
+Intimidation-7
+staff swing skill 15 sw 2d+2 cr, reach 1,2
+parry 12  dodge 10
+DR 4, 2 vs. cr (torso), 2 (feet), 0 (elsewhere)
+
+
+Exterior walls are white stone, and magical
+Doors are plain wood
+
+1-1
+Old ruined fortress, white stone, 2 towers still standing.
+The winding path you've been following goes down through a cave.
+
+50% chance slaver in 1-14c notices approach; 50% chance he's asleep
+If asleep, all are on rooftop and take a while to come down
+
+If slavers on roof, PCs enter 1-1 loudly, slavers will try for surprise
+(Stealth vs. Hearing) then shoot through murder holes.
+If PCs enter 1-1 silently, PC stealth vs. slaver hearing
+Slavers enter peacefully unless attacked
+Ceiling only 10' up, so Slavers can jump down on outside if they want...
+(Acrobatics roll reduces fall by 5 yards.)
+
+Strong wooden locked door w/ sliding panel  Lockpicking-2
+Forced Entry lock DR6 HP 12, or door DR 3 HP 33
+Murder holes in front of double doors, Per to notice, +4 if looking at ceiling
+3 pits in the floor, unmodified Per-based Traps to notice.  They don't open!
+(IQ-based Traps-4 to fix)
+IQ check if talking to slavers for 1 minute, to reveal something is wrong
+Theology-1 to notice fake holy symbol
+Fast-Talk (IQ-5) vs. Detect Lies (Per-6) to fool slavers
+If PCs Fast-Talk a good story, taken to 1-3 and On Alert
+If hostile, brutes fight and cutpurse shoots through murder holes.
+Shooting from Cover Exploits 42:
+1H weapon: expose head, neck, arm, hand
+2H weapon: expose head, neck, arms, hands, 1/2 torso/vitals (extra -2)
+If both brutes go down, cutpurse drops stenchpot then runs to alert others.
+
+Warrior slavers use Brute template:
+Eatmard, Gery
+ST 14 thr 1d sw 2d
+DX 13
+IQ 10
+HT 12
+Move 6
+Combat Reflexes
+High Pain Threshold
+staff  thr 1d+2 cr / sw 2d+2 cr, reach 1,2 parry +2
+mail shirt (under monk's robe), boots
+1 stenchpot
+fake holy symbol of Dawning Sun
+$4 each
+Brawling-13
+Knife-13
+Wrestling-12
+Staff-17
+Throwing-13 or Crossbow-14
+Gesture-10
+Climbing-12
+Stealth-12
+First Aid-10
+Tactics-8
+Hiking-11
+Observation-9
+Intimidation-9
+staff swing skill 17 sw 2d+2 cr, reach 1,2
+parry 14  dodge 10
+DR 4, 2 vs. cr (torso), 2 (feet), 0 (elsewhere)
+
+Rogue slavers use Cutpurse template
+Cynre
+ST 11 thr 1d-1, sw 1d+1
+DX 14
+IQ 12
+HT 10
+Move 6
+Combat Reflexes
+Climbing-14
+Stealth-15
+Traps-12
+Shortsword-14
+Brawling-14
+Bow-13
+Throwing-13
+Fast-draw (arrow)-14
+Acrobatics-12
+Observation-11
+Search-11
+First aid-12
+Gesture-12
+Hiking-9
+Intimidation-11
+shortsword
+short bow, 20 arrows (10 normal, 10 bodkin)
+heavy leather armor torso/arms (under monk's robe), boots
+3 stenchpots
+fake holy symbol of Dawning Sun
+$9 each
+shortsword skill 14 1d-1 imp, 1d+1 cut reach 1
+short bow 1d-1 imp or 1d-1 (2) pi  acc+1
+parry 11, dodge 10
+DR 2 (torso, arms, feet), 0 elsewhere
+
+1-2
+Faint trail up to 1-14, Per+1 to find
+
+On 7-, a slaver (Will from 1-8) is here tending horses, unless On Alert
+Warrior slavers use Brute template:
+Will
+ST 14 thr 1d sw 2d
+DX 13
+IQ 10
+HT 12
+Move 6
+Combat Reflexes
+High Pain Threshold
+staff  thr 1d+2 cr / sw 2d+2 cr, reach 1,2 parry +2
+mail shirt (under monk's robe), boots
+1 stenchpot
+fake holy symbol of Dawning Sun
+$4 each
+Brawling-13
+Knife-13
+Wrestling-12
+Staff-17
+Throwing-13 or Crossbow-14
+Gesture-10
+Climbing-12
+Stealth-12
+First Aid-10
+Tactics-8
+Hiking-11
+Observation-9
+Intimidation-9
+staff swing skill 17 sw 2d+2 cr, reach 1,2
+parry 14  dodge 10
+DR 4, 2 vs. cr (torso), 2 (feet), 0 (elsewhere)
+
+Wagons: $680, plus cages and manacles
+14 horses are saddle, $1200
+all are stolen...
+If brought back to Whiterock, will end up getting much less as a reward
+
+1-3
+Observation to notice that tools are dusty, have not been used in a while
+Merchant to notice artifacts are fake
+collapsed tent net attack
+can't dodge if inside tent
+Escape (DX-6)
+Burst with ST-4 check
+Cut through with 4 HP cutting damage
+Then ambush by Ikenvar, 6 brutes, 1 cutpurse
+
+2 Warrior slavers use Brute template:
+Artin, Eggther
+ST 14 thr 1d sw 2d
+DX 13
+IQ 10
+HT 12
+Move 6
+Combat Reflexes
+High Pain Threshold
+staff  thr 1d+2 cr / sw 2d+2 cr, reach 1,2 parry +2
+mail shirt (under monk's robe), boots
+1 stenchpot
+fake holy symbol of Dawning Sun
+$4 each
+Brawling-13
+Knife-13
+Wrestling-12
+Staff-17
+Throwing-13 or Crossbow-14
+Gesture-10
+Climbing-12
+Stealth-12
+First Aid-10
+Tactics-8
+Hiking-11
+Observation-9
+Intimidation-9
+staff swing skill 17 sw 2d+2 cr, reach 1,2
+parry 14  dodge 10
+DR 4, 2 vs. cr (torso), 2 (feet), 0 (elsewhere)
+
+1-4
+Search-2 to find holy symbol of Dawning Sun ($50) and gold/ruby ring ($110)
+4 Monstrous Centipedes
+
+1-4a
+Observation/Vision at -3 to find stairs into lake
+
+1-5
+if On Alert, 2 brute slavers here and 2 more with crossbows in the rubble to North
+
+1-6
+Pit, roll vs. DX to avoid falling in if within 1 hex of rubble
+10' deep, 2d-1 cr falling damage
+large area injury = average of torso and lowest DR
+min damage 1 per 5 rolled
+if On Alert, Melchin, Ikenvar, and cutpurse from tower are here
+
+1-7 if investigating tower, attack by giant praying mantis
+Stealth-20 vs. Hearing/Vision to see if it gets surprise
+(mental stun, IQ to recover, +6 for Combat Reflexes, +1 per turn)
+
+Giant Praying Mantis
+SM 1
+ST 19 HP  26  2d-1 thr, 3d+1 sw
+DX 10
+IQ  3 Per 10 Will 13
+HT 13
+Brawling-12 Wrestling-12
+Move 6, Flying Move 8 (short range)
+Stealth-20 in vines
+DR 4
+Dodge 9
+Sharp Claws (12) 2d-2 cut
+Sharp Teeth (12) 2d-2 cut
+Tactic: Grapple then bite.  Will fight to the death in lair but will not pursue.
+
+dead slaver w/ $14, 2 stenchpots, fine dagger hidden in boot (Search+0)
+
+1-8
+Hornet's nest is SM-2
+Hornet swarm: does 1 HP/turn around armor,
+takes max 1 HP from imp/pi attacks, 2 from others
+12 HP to disperse
+
+2 brute slavers w/crossbows, summon help from 1-9
+2 Warrior slavers use Brute template:
+Alaster, Will
+ST 14 thr 1d sw 2d
+DX 13
+IQ 10
+HT 12
+Move 6
+Combat Reflexes
+High Pain Threshold
+staff  thr 1d+2 cr / sw 2d+2 cr, reach 1,2 parry +2
+mail shirt (under monk's robe), boots
+1 stenchpot worth $50
+fake holy symbol of Dawning Sun
+$4 each
+Brawling-13
+Knife-13
+Wrestling-12
+Staff-17
+Crossbow-14
+Gesture-10
+Climbing-12
+Stealth-12
+First Aid-10
+Tactics-8
+Hiking-11
+Observation-9
+Intimidation-9
+staff swing skill 17 sw 2d+2 cr, reach 1,2
+parry 14  dodge 10
+DR 4, 2 vs. cr (torso), 2 (feet), 0 (elsewhere)
+crossbow ST 14, 1d+4 imp Acc 4 shots 1(4)
+10 bolts, quiver
+
+1-9
+
+Ikenvar, half-orc
+ST 15  thr 1d+1 sw 2d+1  HP 17
+DX 14
+IQ 10  Per 11 Hearing 13  Will 11
+HT 13
+Move 6
+Combat Reflexes
+High Pain Threshold
+Infravision
+Rapid Healing
+Night Vision 5
+fine broadsword
+mail armor (under monk's robe), boots
+1 potion of minor healing (1d)
+4 stenchpots
+fake holy symbol of Dawning Sun
+$26
+key to chest
+Brawling-13
+Knife-13
+Wrestling-12
+Broadsword-18
+Throwing-13
+Gesture-10
+Climbing-13
+Stealth-13
+First Aid-10
+Tactics-9
+Hiking-11
+Observation-9
+Intimidation-11
+Leadership-11
+broadsword skill 18 sw 2d+2 cut, reach 1
+parry 13  dodge 10
+DR 4, 2 vs. cr (torso, arms, legs), 2 (feet), 0 (elsewhere)
+
+fake documents, IQ-8 or Strategy-8 to notice forgery
+false drawer bottom (Search-2) cleric scroll of major healing
+Search+1 in ashes, scrap of paper w/ "Underwood Coffins"
+Per-1, secret door
+Search+2, pouch in mattress, $60 and 2 citrines worth $50 each
+Everburning torch  Value: $500
+
+1-10
+
+Locked door, Lockpicking to open, or forced entry
+
+Possible surprise, Melchin on intact part of floor 10' above,
+can pounce down
+
+Melchin, Martial Artist template
+ST 11 Striking ST 13 HP 11   thr 1d sw 2d-1
+DX 16
+IQ 11
+HT 12
+BS 7
+Move 8
+DR 2
+Striking ST 2
+Combat Reflexes
+Enhanced Parry (unarmed)
+Jumping-16
+Acrobatics-15
+Karate-17
+Judo-16
+Stealth-15
+Tactics-10
+Climbing-15
+Intimidation-10
+Observation-10
+Immovable Stance-17
+Parry Missile Weapons-17
+Push-17
+Power Blow-13
+Flying Leap-11
+Kiai-13
+punch (17) 1d+1 cr  reach C  parry 13 dodge 11
+kick (15) 1d+2 cr  reach C,1
+push (17) (3d-1)x2 knockback only
+
+power blow  costs 1 FP
+-10 instant, -5 1 turn, -4 2 turns, -3 4 turns -2 8 turns, -1 16 turns, -0 32 turns
+double ST for damage for next attack only
+ST 26 means 2d+2 thr, so 2d+3 punch, 2d+4 kick
+
+flying leap 1 FP
+-10 instant, -5 1 turn, -4 2 turns, -3 4 turns -2 8 turns, -1 16 turns, -0 32 turns
+-2 to hit, triple ST for damage and knockback
+ST 39 4d+1 thr, so 4d+3 kick
+
+kiai 1 FP
+QC kiai vs. will, at -1 for each full 2 hexes, to mentally stun target
+
+Monk's outfit
+potion of barkskin (DR 2)
+oil of magic weapon (+1 skill, +1 damage)
+fake holy symbol
+$45
+prayer rug
+box with 10 candles, flint and steel, pouch of dried figs
+
+1-11
+West secret door: Per-3
+North secret door: Per+0
+tapestry: needs Repair spell to see castle
+
+1-12
+Owlbear Skeleton
+http://gurpswiki.wikidot.com/m:bird-bear
+DF9 26
+ST 21 HP 25
+DX 13 Will 11
+IQ 5 Per 12
+HT 13 FP 13
+Bite(15) 2d+1 cut, reach C
+Claw(15) 2d+1 cut, reach C/1
+brawling-15, wrestling-15
+move 6
+dodge 9
+DR 4
+Unliving: imp x1, pi+ 1/2 pi 1/3 pi- 1/5  Crushing x2  No brain, vitals, eyes
+immune to cold
+SM+1
+
+
+Search-2 to find chest in rubble
+-1 to pick lock
+poison needle trap on lock, traps -1 to find, traps -1 to disable,
+1 imp damage, resist at HT+2 or poison reduces DX by 1-2, roll again hourly to recover
+chest contains $550, 7 pieces of jewelry ($350 total), key
+
+1-14
+empty
+
+1-14a
+find trail: Per+1
+door barred from outside
+Per-2 to notice webs, failure means victim has blundered into one
+
+Rust Spider
+DF5 p25
+SM0
+bite skill 14  reach C 1d imp
+dodge 9
+ST 11 HP 18
+DX 12, Brawling 14
+IQ 4
+HT 11
+DR 1
+web skill 14 range 10 (no range penalties) Binding 5 Engulfing (B40) 1 SM0
+target, web rusts metal items worn or carried by target
+Binding has ST 5, DR 1
+
+secret trap door in floor, Per-3
+Entangled halfling has shortsword (rusted) with $150 ruby in pommel,
+fine lockpicks hidden in fold of trousers (Search +0 to find)
+
+1-14b
+ST-2 or Forced Entry to bash trapdoor in ceiling open
+6 blood hawks, plus 11 hatchlings
+25% chance (10-11 on 3d6) that 1-3 adults are gone
+
+total of $4 in nests
+Search+0 to find blue quartz worth $15
+3 unhatched eggs worth $75 ea. to Quintus if kept warm and safe
+
+1-14c
+Climbing+4 to climb ladder up outside of tower
+Climbing-2 to climb outside tower wall
+Galen, cutpurse slaver, 50% chance he's asleep (auto-wakes if trapdoor bashed)
+If awake, PC Stealth vs. Galen's Hearing.  If Galen wins he tries to cut the
+   ladder with his sword, then uses the mirror to notify allies in 1-8.
+raven in cage
+Animal Handling (birds) +1, or IQ-4, to make the bird talk
+chest with quill, inkpots, parchment cut into 1"x6" strips,
+leather tube with cords
+
+Rogue slavers use Cutpurse template
+Galen
+ST 11 thr 1d-1, sw 1d+1
+DX 14
+IQ 12
+HT 10
+Move 6
+Combat Reflexes
+Climbing-14
+Stealth-15
+Traps-12
+Shortsword-14
+Brawling-14
+Bow-13
+Throwing-13
+Fast-draw (arrow)-14
+Acrobatics-12
+Observation-11
+Search-11
+First aid-12
+Gesture-12
+Hiking-9
+Intimidation-11
+shortsword
+short bow, 20 arrows (10 normal, 10 bodkin)
+heavy leather armor torso/arms (under monk's robe), boots
+3 stenchpots
+fake holy symbol of Dawning Sun
+$9 each
+shortsword skill 14 1d-1 imp, 1d+1 cut reach 1
+short bow 1d-1 imp or 1d-1 (2) pi  acc+1
+parry 11, dodge 10
+DR 2 (torso, arms, feet), 0 elsewhere
+
+1-15
+Per-3 to find secret door
+Blank waterstained books
+Book with "Knowledge is the Key" in Common/Elven/Draconic/Dwarven
+Silver holy symbol, $50
+Search+1 to notice bleached driftwood Wand of See Secrets (power 15)
+command word in Draconic on shaft "e'tacol 'latrop"

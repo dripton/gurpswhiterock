@@ -1,0 +1,220 @@
+Climbing-2 to climb walls.
++2 for pitons.
+Fail by 2- = stuck, can't continue moving that way
+Fail by 3+ = fall
+On a fall, Climbing-10 to catch yourself.
+
+
+
+
+11B-1:
+
+Horrible smell
+Hearing+2 to hear buzzing below
+Must win contest of Vision vs. Stealth to spot Fissure Wasp on wall
+Tactics: fights until 1/2 HP then flies down to warn others
+
+1 Fissure Wasp Scout
+SM -2
+ST 14  HP   14  thr 1d sw 2d
+DX 16  Will 10
+IQ  2  Per  12
+HT 13  FP   13
+BS 7.25
+Move 6 (Air Move 12)
+Dodge 11   DR 1
+Traits: 360 Degree Vision; Combat Reflexes; Extra Legs (6) Flight (Winged);
+Horizontal; Darkvision; No Fine Manipulators; Immune to poison; Striker;
+Camouflage
+Skills: Brawling-20; Stealth-24 (including +8 for camouflage);
+Survival (Swamp or Jungle)-14.
+Stinger (20) Reach C, damage 1d+2 imp + followup poison
+Poison: R-HT-2 or lose 1-4 ST, followup in 1 minute: total exhaustion, FP -> 1
+Sonorous Drone: Everyone within 10 hexes of flying scout must R-HT or fall asleep.
+Every subsequent round, 1 point harder to resist.
+
+
+11B-2:
+Per check to notice slight increase in warmth
+Smell is even worse here.
+Unstable surface. DX+2 check to move.  Failure = fall prone.
+Falling near edge, DX+2 check or fall off.
+
+Beetles ignore those not on their ledge, but attack anyone on their ledge.
+
+11 Giant Bombardier Beetle
+https://pseudoboo.blogspot.com/2016/02/encounter-dire-bombardier-beetle.html
+SM 1
+ST 19  HP   10
+DX 10  Will 10
+IQ  4  Per  10
+HT 10  FP   10
+Dodge 8
+DR 10 back, 2 front/head, 0 vitals
+Bite (16) Reach C-1, 2d cut
+Burning Spray (16) Acc 3, Range 10/100, 2d burn
+if hit (even if DR protected) R-HT or nausea for margin of failure * 10 minutes
+Spray worth $400
+Shell worth $200
+
+Treasure:
+purse with $600, Potion of Fire Resistance
+Ring of Climbing (leather loop, always on, +4 to Climbing skill)
+
+
+11B-3:
+Obviously warmer here
+
+Wasps attack if anyone gets within 4 hexes, or attacks them.
+Fight to the death, but don't pursue fleeing opponents.
+
+6 Fissure Wasp Scouts
+SM -2
+ST 14  HP   14  thr 1d sw 2d
+DX 16  Will 10
+IQ  2  Per  12
+HT 13  FP   13
+BS 7.25
+Move 6 (Air Move 12)
+Dodge 11   DR 1
+Traits: 360 Degree Vision; Combat Reflexes; Extra Legs (6) Flight (Winged);
+Horizontal; Darkvision; No Fine Manipulators; Immune to poison; Striker;
+Camouflage
+Skills: Brawling-20; Stealth-24 (including +8 for camouflage);
+Survival (Swamp or Jungle)-14.
+Stinger (20) Reach C, damage 1d+2 imp + followup poison
+Poison: R-HT-2 or lose 1-4 ST, followup in 1 minute: total exhaustion, FP -> 1
+Sonorous Drone: Everyone within 10 hexes of flying scout must R-HT or fall asleep.
+Every subsequent round, 1 point harder to resist.
+
+
+11B-4:
+
+only if first Fissure Wasp Scout got away:
+
+9 Fissure Wasp Scouts
+SM -2
+ST 14  HP   14  thr 1d sw 2d
+DX 16  Will 10
+IQ  2  Per  12
+HT 13  FP   13
+BS 7.25
+Move 6 (Air Move 12)
+Dodge 11   DR 1
+Traits: 360 Degree Vision; Combat Reflexes; Extra Legs (6) Flight (Winged);
+Horizontal; Darkvision; No Fine Manipulators; Immune to poison; Striker;
+Camouflage
+Skills: Brawling-20; Stealth-24 (including +8 for camouflage);
+Survival (Swamp or Jungle)-14.
+Stinger (20) Reach C, damage 1d+2 imp + followup poison
+Poison: R-HT-2 or lose 1-4 ST, followup in 1 minute: total exhaustion, FP -> 1
+Sonorous Drone: Everyone within 10 hexes of flying scout must R-HT or fall asleep.
+Every subsequent round, 1 point harder to resist.
+
+11B-5:
+
+Really hot and smelly.
+
+3 Fissure Wasp Scouts (+9 more if not already fought)
+SM -2
+ST 14  HP   14  thr 1d sw 2d
+DX 16  Will 10
+IQ  2  Per  12
+HT 13  FP   13
+BS 7.25
+Move 6 (Air Move 12)
+Dodge 11   DR 1
+Traits: 360 Degree Vision; Combat Reflexes; Extra Legs (6) Flight (Winged);
+Horizontal; Darkvision; No Fine Manipulators; Immune to poison; Striker;
+Camouflage
+Skills: Brawling-20; Stealth-24 (including +8 for camouflage);
+Survival (Swamp or Jungle)-14.
+Stinger (20) Reach C, damage 1d+2 imp + followup poison
+Poison: R-HT-2 or lose 1-4 ST, followup in 1 minute: total exhaustion, FP -> 1
+Sonorous Drone: Everyone within 10 hexes of flying scout must R-HT or fall asleep.
+Every subsequent round, 1 point harder to resist.
+
+11B-6:
+
+attack whoever's closest to the queen
+3 Fissure Wasp Scouts
+SM -2
+ST 14  HP   14  thr 1d sw 2d
+DX 16  Will 10
+IQ  2  Per  12
+HT 13  FP   13
+BS 7.25
+Move 6 (Air Move 12)
+Dodge 11   DR 1
+Traits: 360 Degree Vision; Combat Reflexes; Extra Legs (6) Flight (Winged);
+Horizontal; Darkvision; No Fine Manipulators; Immune to poison; Striker;
+Camouflage
+Skills: Brawling-20; Stealth-24 (including +8 for camouflage);
+Survival (Swamp or Jungle)-14.
+Stinger (20) Reach C, damage 1d+2 imp + followup poison
+Poison: R-HT-2 or lose 1-4 ST, followup in 1 minute: total exhaustion, FP -> 1
+Sonorous Drone: Everyone within 10 hexes of flying scout must R-HT or fall asleep.
+Every subsequent round, 1 point harder to resist.
+
+Fissure Wasp Queen
+SM  0
+ST 20  HP   20  thr 2d-1 sw 3d+2
+DX 13  Will 10
+IQ  2  Per  12
+HT 14  FP   14
+BS 7.25
+Move 5
+Dodge 9   DR 4
+Traits: 360 Degree Vision; Combat Reflexes; Extra Legs (6) Flight (Winged);
+Horizontal; Darkvision; No Fine Manipulators; Immune to poison; Striker;
+Camouflage
+Skills: Brawling-17; Climbing-18
+Bite (17) Reach C, damage 2d cut
+Distracting Drone: Buzz wings as free action.  Everyone within 20 hexes
+   suffers -4 to anything that needs Concentration.
+Piercing Drone: 30' cone, 3d6 sonic damage, dive outside cone to avoid damage
+   Can't use 2 rounds in a row.
+
+Treasure: (1 hour of work to dig out)
+$500,
+Potion of Invulnerability
+Hide Armor (suit) with Fortify +1
+Small Shield w/ Shield Lectern
+
+11B-7:
+
+10' from bottom, R-HT or Nauseated by smell. (-2 to attributes, -1 to defenses)
+If sickened, R-HT again next turn (if still in smell) or retching.
+   (-5 to IQ/DX, no Concentrate, no potions, lose 1 FP)
+Various Air spells can help.
+
+Attack from stealth, backup to 11B-8 for shelter if hurt
+
+Otyugh
+SM  2
+ST 25  HP   50  thr 2d+2  sw 5d-1
+DX 10  Will 15
+IQ  3  Per  13
+HT 15  FP   15
+BS 7, Move 7
+DR 8
+Dodge 10
+Brawling-20  Wrestling-20  Stealth-18 (w/ Camouflage)
+Blind fighting; Combat Reflexes; Extra Attack 2; Constriction Attack; Camouflage
+Tentacle Grab (20) Reach 4
+   Once grappled, Constrict as free action: QC ST vs. ST/HT, win inflicts margin
+
+Treasure:
+$1249
+6 $40 clear quartz
+Very Fine, Balanced Long Knife w/ Permanent Affect Spirits
+
+11B-8:
+2 Everburning Torches
+IQ-8 to know that runes are anti-gating
+Thaumatology-8, Theology-8: redirect summons, anti-demon
+Vision-6: tiny writing in rear wall, in Pelltar's code
+"If you would gaze upon darkness, gaze in darkness"
+failure:
+"If you gaze into darkness, it gazes back"
+To open: hack through (DR 8, 540 HP), or destroy / take torches, or Darkness

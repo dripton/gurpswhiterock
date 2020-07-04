@@ -1,0 +1,463 @@
+Whiterock Level 4:
+
+Wandering monsters
+6- per 30 minutes, 7- if noisy
+
+1 daycare
+2-3 trog patrol
+4-5 undead patrol
+6 ants (7-6 only)
+
+
+Troglodyte template
+-1 DX
+-1 IQ
++2 HT
+Darkvision
+Light Sensitive (-3 in very bright light)
+Stealth +4
+DR 3
+Sharp Claws (cut damage on punch)
+Sharp Teeth (thr-1 cut on bite)
+Poison Resistance +3
+Disease Resistance +3
+Primitive -1 TL
+Language: Draconic
+Stench: 10 yards, HT+1 or nauseated (B428)
+  Nauseated: -2 to attr/skill rolls, -1 to defenses, roll vs. HT if you
+             eat, exposed to (different) foul odor, fail fright check,
+             or are stunned.  Failure means Retching (B429) for 25-HT s.
+  Retching: -5 to DX, IQ, Per, can't Concentrate, lose 1 FP after, lose
+            recent food/drink/medicine.
+
+
+Female or Young Troglodyte
+ST  9  HP    9   thr 1d-2 sw 1d-1
+DX  9  Will 10
+IQ  9  Per   9
+HT 12  FP   12
+BS 5.25
+Move 5  Dodge 8
+DR 3
+Punch 1d-3 cut
+Bite  1d-3 cut
+Stealth-13
+Stench
+
+Troglodyte Guard
+ST 12  HP   12   thr 1d-1 sw 1d+2
+DX 10  Will 10
+IQ  9  Per   9
+HT 14  FP   14
+BS 6
+Move 6  Dodge 9
+DR 3
+Stench
+Stealth-14
+Brawling-12
+Broadsword-12
+Spear-12
+Thrown Weapon(Spear)-12
+Net-11 (some)
+Punch (12) 1d-1 cut
+Bite  (12) 1d-1 cut
+Light Club (12) : 1d+3 cr, Reach 1, Parry 9
+Javelin (12) : 1d imp, Reach 1, Parry 9
+Thrown Javelin (12) : 1d imp, Range 18/30
+$20-80 in trinkets
+
+thrown net (12): acc 1, range 14 B411
+Target can dodge/parry, parry with cutting damage damages net
+If not defended, entangled: can't move or attack until freed
+escape: need 1 free hand, 3 DX-1 rolls (1/turn), -2 if only 1 free hand
+or cut with reach "C" cutting weapon, auto hit, DR1, 14 HP,
+diffuse (B380, no more than 1 HP from imp/pi, 2 HP from most attacks)
+
+melee net (12): reach 1-2
+Target can dodge/parry, parry with cutting damage damages net
+if no defense, ensnared.  Ready on subsequent turn, contest of ST
+attacker wins: defender immobilized  defender wins: attacker disarmed
+
+
+Skeletal Wyrmling
+SM +1
+ST 18  HP   18  thr 1d+2  sw 3d
+DX 11  Will 13
+IQ  7  Per  10
+HT 10
+Darkvision
+Immune to Cold
+DR 4
+Crushing x2
+Sharp Claws (cut damage on punch)
+Sharp Teeth (thr-1 cut on bite)
+Brawling-12
+Claw (12) 1d+2 cut  Reach 0
+Bite (12) 1d+2 cut  Reach 0
+
+
+Soldier Stonebore Ant
+SM 0
+ST 14  HP  14  thr 1d  sw 2d
+DX 10  Will 9
+IQ  3  Per 10
+HT 12  FP  12
+Darkvision
+Sharp Teeth (thr-1 cut on bite)
+DR 3
+Climbing-15
+Tracking-14 (scent)
+Brawling-12
+Bite (12): 1d cut  Reach 0
+
+
+4-1: 20 piercers within squares marked by glowing lichen rocks
+
+Piercer
+SM-1
+ST  8
+DX  2
+IQ  2
+HT 11
+12 to hit
+Move 1  Dodge 4
+Clinging (Climb move 1)
+Per-based Survival (underground) -2 to detect
+On drop: 2d piercing.  Can be dodged if no surprise.
+1d-2 corrosive if struck unarmed
+
+4-2: 3 camoflaged pits, Per-2 to spot, DX to avoid falling
+1d+2 falling damage
+Troglodytes get Hearing check (9) if triggered
+
+full of debris
+Search-2 in 2nd pit to find Wand of Lightning Bolts (3d, 9 charges)
+
+4-3:
+Search to find secret door (rock), Search+2 from inside
+
+4-4:
+3 man-hours of moving rocks to unseal entrance
+
+Invisible Stalker
+ST 18  HP   18  thr 1d+2 sw 3d
+DX 14  Will 12
+IQ 12  Per  12
+HT 12  FP   12
+BS 6.5  Move 6 (Fly)  Dodge 10
+Invisible even after attacking
+Combat Reflexes
+Speaks Auran
+Bound to organ -- can't move more than 3 hexes away
+Tracking-16
+Sumo Wrestling-16  (+2/die to slam)
+Slam damage dice: HPxvelocity/100  1: 1d-1, 2:1d, 3-5: 1d+1, 6-7: 1d+2
+DX check for knockdown if >= damage, auto knockdown on 2x damage
+-4 to dodge invisible foe
+-6 to hit invisible foe, -4 if hex known  (Concentrate, Hearing check)
+After a slam, HT-1 or deafened 10s
+
+Tablets with music: $125 ea, $500 for the set of 3
+
+(Changed to air elemental.)
+If freed, makes a big wind that partially activates Aquil'iya.
+(Aquan language, Detect Magic-15, Create Water-15, Extinguish Fire-15 1/day)
+
+
+4-5:
+3 Guard Troglodytes in each
+Troglodyte Guard
+ST 12  HP   12   thr 1d-1 sw 1d+2
+DX 10  Will 10
+IQ  9  Per   9
+HT 14  FP   14
+BS 6
+Move 6  Dodge 9
+DR 3
+Stench
+Stealth-14
+Brawling-12
+Broadsword-12
+Spear-12
+Thrown Weapon(Spear)-12
+Net-11 (some)
+Punch (12) 1d-1 cut
+Bite  (12) 1d-1 cut
+Light Club (12) : 1d+3 cr, Reach 1, Parry 9
+Javelin (12) : 1d imp, Reach 1, Parry 9
+Thrown Javelin (12) : 1d imp, Range 18/30
+$20-80 in trinkets
+
+thrown net (12): acc 1, range 14 B411
+Target can dodge/parry, parry with cutting damage damages net
+If not defended, entangled: can't move or attack until freed
+escape: need 1 free hand, 3 DX-1 rolls (1/turn), -2 if only 1 free hand
+or cut with reach "C" cutting weapon, auto hit, DR1, 14 HP,
+diffuse (B380, no more than 1 HP from imp/pi, 2 HP from most attacks)
+
+melee net (12): reach 1-2
+Target can dodge/parry, parry with cutting damage damages net
+if no defense, ensnared.  Ready on subsequent turn, contest of ST
+attacker wins: defender immobilized  defender wins: attacker disarmed
+Hearing+2 (11) to hear combat in other locations
+
+4-6:
+noncombatant Troglodytes, 8 females and 15 young
+Female or Young Troglodyte
+ST  9  HP    9   thr 1d-2 sw 1d-1
+DX  9  Will 10
+IQ  9  Per   9
+HT 12  FP   12
+BS 5.25
+Move 5  Dodge 8
+DR 3
+Punch 1d-3 cut
+Bite  1d-3 cut
+Stealth-13
+Stench
+Stench
+
+4-7:
+noncombatant Troglodytes, 1 female and 2 young (each)
+Female or Young Troglodyte
+ST  9  HP    9   thr 1d-2 sw 1d-1
+DX  9  Will 10
+IQ  9  Per   9
+HT 12  FP   12
+BS 5.25
+Move 5  Dodge 8
+DR 3
+Punch 1d-3 cut
+Bite  1d-3 cut
+Stealth-13
+Stench
+"Bronwyn was here"
+
+4-8:
+Cold.  Bodies (cave lizards, goats, orcs)
+
+4-9:
+Search-2 to find secret doors
+
+Cave Moray (6)
+ST 14  HP  14  thr 1d  sw 2d
+DX 13
+IQ  2
+HT 11
+BS 6, Dodge-11
+DR 3
+Darkvision
+Tremorsense
+Stealth-17
+Sharp Teeth (thr-1 cut on bite)
+Bite (13) 1d-1 cut
+Only one opponent can melee into cyst
+At 5 HP, withdraw into cyst
+With surprise, attack telegraphically then withdraw
+1 has swallowed platinum/emerald necklace ($1700)
+
+
+4-10:
+Grizzlisk
+ST 16  HP   16  thr 1d+1  sw 2d+2
+DX 10  Will 12
+IQ 10  Per  11
+HT 14  FP   14
+BS 6, Move 6, Dodge 10
+DR 6
+Combat Reflexes
+High Pain Threshold
+Weapon Master (Greatclub)
+Weapon Bond (Greatclub)
+Ambidextrous
+Stealth-17
+Intimidation-15
+Axe/Mace-18
+Spear-14
+Thrown Spear-14
+Net-13
+Tactics-8
+Brawling-14
+Greatclub (20): 2d+9 cr, Reach 1, Parry 13
+Javelin (14): 1d+2 imp, Reach 1, Parry 10
+Thrown Javelin (14): 1d+1 imp
+Punch: 1d+1 cut
+Bite: 1d+1 cut
+Silk Net (13)
+Leather Armor w/Fortify +1, Lighten -25%  (stinky, though)
+Greatclub is Fine Balanced Dwarven Mace with $1600 of purple quartz studs
+
+In secret compartment (Search-1):
+rusty elf-sized elven chain shirt, Fortify +1, Lighten -25%,
+    DR 5, 16.875# worth $5550
+fine bastard sword: worth $2600
+moldy, rat-gnawed spellbook (in Elvish) with: Lend Energy, Recover Energy,
+    Might, Frailty, Vigor, Hold Breath, Itch, Spasm, Pain,
+    Tickle, Strike Dumb
+
+4-11:
+Net trap, Search to spot, DX+1 to evade
+Entangled: can't move or attack until freed
+escape: need 1 free hand, 3 DX-1 rolls (1/turn), -2 if only 1 free hand
+or cut with reach "C" cutting weapon, auto hit, DR1, 14 HP,
+diffuse (B380, no more than 1 HP from imp/pi, 2 HP from most attacks)
+
+4 elite Troglodytes
+ST 12  HP   12   thr 1d-1 sw 1d+2
+DX 11  Will 10
+IQ  9  Per   9
+HT 14  FP   14
+BS 6
+DR 5 (leather armor)
+Move 6  Dodge 9
+Stench
+Stealth-14
+Brawling-14
+Broadsword-14
+Spear-14
+Thrown Weapon(Spear)-14
+Net-13
+Punch (14) 1d-1 cut
+Bite  (14) 1d-1 cut
+Light Club (14) : 1d+3 cr, Reach 1, Parry 9
+Javelin (14) : 1d imp, Reach 1, Parry 9
+Thrown Javelin (14) : 1d imp, Range 18/30
+$15d4 in trinkets ea.
+Stench
+
+thrown net (12): acc 1, range 14 B411
+Target can dodge/parry, parry with cutting damage damages net
+If not defended, entangled: can't move or attack until freed
+escape: need 1 free hand, 3 DX-1 rolls (1/turn), -2 if only 1 free hand
+or cut with reach "C" cutting weapon, auto hit, DR1, 14 HP,
+diffuse (B380, no more than 1 HP from imp/pi, 2 HP from most attacks)
+
+melee net (12): reach 1-2
+Target can dodge/parry, parry with cutting damage damages net
+if no defense, ensnared.  Ready on subsequent turn, contest of ST
+attacker wins: defender immobilized  defender wins: attacker disarmed
+
+fire pit: HT to avoid coughing/blindness fit for 3s
+
+4-12:
+6 elite Troglodytes
+
+4-13:
+chamber too big to see the other side
+
+Benthoc
+ST 18  HP   18  thr 1d+2  sw 3d
+DX 10  Will 12
+IQ 11  Per  12
+HT 13  FP   15
+Immune to fire, paralysis, sleep
+
+Axe/Mace-15
+Atlatl-16
+Brawling-15
+Spear-15
+Thrown Spear-15
+Fine Mace (15): 1d+5 cr, Reach 1, Parry 10U
+Atlatl/Javelin (16): 3d+2 imp, Acc 3, Range 43/65
+Breath(15): 30' long 9' wide cone of fire, 1/day, auto hit, 3d,
+    DX for 1/2 damage
+Potion of Major Healing (2d)
+
+fine atlatl w/accuracy +1, puissance +1
+platinum (dragon) holy symbol of Marandracotha ($400)
+leather armor, total DR 5
+wand: Total Paralysis, 5 charges, must hit head in melee
+spells: minor healing, major healing, dispel magic, shatter, blindness,
+        deafness, darkness, shield, missile shield, walk through earth
+
+(random tactics due to insanity)
+ranged: randomly pick D-spell, O-range spell, breath, atlatl/javelin
+melee: randomly pick D-spell, O-melee spell, breath, wand, mace, potion
+Stench: HT-1 to resist
+key to dragon cage
+
+6 Troglodyte Zombies
+ST 14  HP   14  thr 1d  sw 2d
+DX  9  Will 10
+IQ  7  Per   9
+HT 13  FP   13
+BS 6
+DR 4
+Move 5  Dodge 8
+Brawling-13
+Punch (13) 1d cut
+Bite  (13) 1d cut
+
+2 secret doors: search+2
+7 obsidian teeth gems in statue: $125 ea.
+2 fire opal eyes in pit: $1000 ea.
+
+4-14:
+slippery, DX+2 to avoid slipping if > 1/2 Move
+
+random steam vent near wall every 10s, 2d fire, DX for half
+
+Cinderalis
+SM +3
+ST 25  HP   25  thr 2d+2 sw 5d-1
+DX 12  Will 11
+IQ 12  Per  14
+HT 15  FP   15
+BS 6.75
+Move 6
+Flight, Air Move 13
+Dodge 10
+DR 4
+High Pain Threshold
+Immune to fire, paralysis, sleep, disease
+Vulnerable to cold
+Dark Vision
+Tremorsense -- can sense invisible
+Sharp Claws
+Sharp Teeth
+Speaks Draconic
+Brawling-15
+Breath: 2d+2 burn, 10 yard range, 1 hex cone (auto hit unless dodged), 2 FP
+        Cone: DFE 45-6 Only defense is dodge+dive out of area
+        Large Area Injury DFE 53: average torso and worst DR, unless only 1 part in hex
+Front Claw (15) 2d+3 cut, reach C-2
+Rear Claw  (13) 2d+4 cut, reach C-2
+Bite: (15) 2d+3 cut reach C-1
+
+Cage has already been smashed open
+
+loot: $1418 in coins, 7 jade harp strings (magic), fine balanced long knife,
+      silver scroll case ($250) w/scroll in dwarven (total paralysis,
+      flaming missiles, gift of tongues), 5 gems ($250 ruby, $250 emerald,
+      $250 diamond, $150 opal, $85 jet)
+
+4-15:
+Pit Search-4, DX-2 to avoid falling in
+room is difficult terrain; web areas are impassable until webs are destroyed
+
+Spider Mother
+SM +2
+ST 19  HP   19  thr 2d-1  sw 3d+1
+DX 14  Will 10
+IQ  4  Per  10
+HT 12  FP   12
+BS 6.5
+Move 6
+Dodge 9
+DR 3
+Night Vision 9
+Tremorsense (detects invisible)
+Brawling-15
+Bite(15) 3d+1  Reach 3
+Binding (Web) Acc 3, Max 300, grappled (can't move/change position/facing, -4 DX)
+Web has ST 12, DR 4, lasts an hour
+victim must win QC of ST to break free
+or attack web, -4 to hit (Innate Attack always hits),
+   each point of damage reduces web's ST by 1
+Flammable: 3 points burning sets it on fire
+
+Treasure (Search+2/Scrounging, 1 roll per 10 minutes):
+fine shortsword
+pouch with $18 in coins
+copper scroll tube ($15) with scroll of Shape Earth in Common
+silver necklace w/ obsidian spider (Drow), worth $225

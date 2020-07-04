@@ -1,0 +1,112 @@
+6B-1:
+To - Infernal         Drazzt
+Pass - Celestial      Onway
+Through - Terran      Ixt
+My - Common*          My
+Portal - Abyssal      Derangshu
+Insert - Undercommon  Stang
+The - Draconic        Yar
+Key - Elven*          Maeron
+In - Auran            Bub
+My - Aquan            Een
+Maw - Ignan           Flambran
+
+Runes in Dwarven, encoded.
+IQ-5 to decode
+
+Stone Door Golem
+SM +1
+ST 22  HP 30  thr 2d  sw 4d
+DX  1
+IQ  5
+HT 12
+DR 10 / 5 vs. cr
+Brawling-12
+Immune to magic (except rock to mud = slow, stone to flesh negates DR)
+Flesh to Stone-16 1/day  R-HT
+Bite (12) Reach C, 2d cr
+Slam (12) Reach 1, 6d cr  (knockback!)
+DX check to jump through open door immediately after slam
+Failure: Trapped, 6d cr per second.  Escape-4 to get out.
+
+
+6B-2:
+Loras
+Vision-2 to spot Dawning Sun holy sumbol around his neck.
+
+ST 10  HP   25
+DX 12  Will 19
+IQ 19  Per  16
+HT 11  FP   15
+BS 5.75
+Move 5
+Dodge 8
+DR 10, 6 vs. cr and magic
+Immune to cold, electricity, polymorph, mind control
+Magery-6
+Most spells at 23, except flashy attack spells
+Most mental skills at 20+
+Brawling-16
+Touch attack (16)  Reach C, damage 1d+6 ignoring DR, Will-2 for half
+                   HT-2 or paralyzed
+Boots of Levitation
+Bracers of Armor, +4 to DR
+Ring of Protection, +2 to DR
+Headband of Intellect, +2 to IQ
+Quill of Dictation
+Most languages
+
+Caryatid Columns (4)
+ST 14  HP   20  thr 1d  sw 2d
+DX 10  Will 10
+IQ  3  Per   9
+HT 11  FP   11
+BS 5.25
+Move 5
+Dodge 8 + 3
+Parry 10 + 3
+Block 10 + 3
+DR 8
+Any weapon that strikes column must make HT+1 check or shatter
+Immune to most magic, but slain by rock to mud, stone to flesh, stone shape
+(Resist those at +2)
+Broadsword-15
+Shield-15
+Broadsword (15) Reach 1, Damage 2d+1 cut, Parry 10
+Large Shield DB 3
+Shield Wall Training
+
+Lorus requires a book or interesting magic item he doesn't have, or information
+from History-6 for each research topic.  (Same for copying spells from his
+spellbook.)
+
+6B-4:
+Research-8 and several hours to find a particular book without help from libractus.
+Diplomacy-4, Fast-Talk-8, or unique magic item to get Lorus to help with research.
+Otherwise:
+Info about Aquil'iya: History / Research / Hidden Lore -4
+    How to activate Acqui'ita: -8
+Sleep of Ages spell: -10
+Info about White Roc: -4
+    Command words for White Roc: -10
+Clockwork Academy: +0
+    Understanding the constructs: -6, and must read Gnomish
+Sphinx Empire: -6
+Shadowcrown: -10
+Star Arms: -8
+Mysterious Tower: -10
+Drow family history: -7
+Tomb under Porthmeor: Architecture -8
+Door Golems: -6
+
+6B-5:
+3 crystal balls, 1 with True Seeing
+stands, tapestries.  All valuable but hard to steal.
+
+6B-6:
+3 Wizard Locks, Skill 20
+Alchemy lab, drafting tools, etc.
+Will-3 trap on each spellbook
+
+6B-7:
+Lots of maps, many valuable.

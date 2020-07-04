@@ -1,0 +1,601 @@
+Whiterock Level 2:
+
+Wandering monsters: 15% (7-) (20% if very noisy) (8-) per 30 minutes
+
+Orcs
+
+Have white to silver-gray hair, milky white skin with bluish tint, fine
+billowing cloaks.  +1 ST, -1 DX compared to most orcs.
+
+War1 orcs are worthy with Guard template
+
+ST 14  thr 1d  sw 2d  HP 16
+DX 10
+IQ  9  Will 10  Per 10  Hearing 12
+HT 13  FP 13
+Magic Resistance 4
+Darkvision
+Light sensitivity -1 to DX in bright light
+Brawling-10
+Knife-10
+Wrestling-9
+Two-Handed Sword-13, Two-Handed Axe/Mace-13, Polearm-13, or Two-Handed Flail-12
+Hook-10 (some)
+Crossbow-12 (some)
+Whip-12 (some)
+Move 4
+Dodge 7
+scale armor, flail, $5
+flail (12): 2d+4 cr, reach 1,2*, parry 9U, -4 to parry, -2 to block
+glaive (13): 2d+3 cut reach 2,3* or 1d+3 imp reach 1-3*, parry 0U (9)
+bill (13): 2d+3 cut reach 2,3* or 1d+3 imp reach 1-3*  parry 9U
+           or 1d-1 cut reach 1-3* hook
+           hook MA74: (10), plus -2 for limb, -5 for head,
+           QC ST to force opponent to knees, or from knees to fall down
+           (-5+reach) for weapon, +2 to QC (weapon skill, DX or ST based) to disarm B401
+           (-4+DB) for shield
+crossbow (12) 1d+4 imp, acc 4
+
+
+Trollhound
+
+4' tall at shoulder, short thick legs, 350#, scaly skin, rough green-black fur.
+Huge jaws with underbite, dull orange eyes, ugly pus-filled blisters.
+
+ST 14  HP  18
+DX 12
+IQ  3  Will 11  Per 13
+HT 13
+DR 2
+SM 0
+Move 6
+Regenerate 1 HP/turn except fire/acid.
+Bite (12) 1d cut + disease + grapple as free action
+After grapple, can worry for auto-hit each turn, same damage
+Bloodfire Fever: R-HT.  Onset: 1 day, frequency 1/day
+Each day, R-HT or lose 1-2 ST, 1-2 DX, 1 FP.
+Cured if resisted twice in a row.
+Pus-filled blisters.
+
+
+Gray ooze
+SM 0
+Transparent - Vision roll to spot
+ST 11  HP 12  thr 1d-1  sw 1d+1
+DX  1
+IQ  1
+HT 15
+immune to fire, cold
+Move 5
+Dodge 8
+Blindsight
+slam (12) 1d-2 + 1d acid, gets free grapple attempt
+grapple (12) 1d-1 + 1d acid
+armor/clothing must R-HT (12, +1 for fine) or be destroyed
+metal or wood weapon striking ooze must R-HT or be destroyed
+
+
+
+Grime the Dust Mephit
+SM-1
+ST 10  HP 13
+DX 14
+IQ 9
+HT 10
+Move 7
+Dodge 13
+DR 3 (except magic)
+Brawling-15
+Claw (15) 1d-2 cut
+Breath weapon (15) 10' cone of irritating particles, 1d-1, R-HT for half,
+only usable every 5s
+Creatures that fail to resist suffer from -2 DX for 3s
+Blur (-5 to hit)
+Wall of Wind (M25)
+Summon Mephit 25% chance 1/day
+Regenerate 1 HP/2s, only arid, dusty environment
+Dark vision
+Combat Reflexes
+
+2-1
+Tripwire (x2), Traps-2 to spot, Traps-0 to disable, R-DX to avoid tripping
+Treat trip as 2 yard fall (1d+1) DFE 67, then probable surprise attack
+Random hit location table to see if arm/leg/hand/foot is crippled
+Average of torso DR and worst DR exposed to fall
+Minimum 1 HP injury per 5 HP basic damage
+
+6 orcs
+3 in front attack with glaives to subdue (cr damage)
+3 in back hide behind wall with crossbows (2 each).  Cover DFE42
+Minus gets Listen-4 check (8) every round after first 3.  Then 8s to
+stand, ready spear, run to door, and open door
+
+ST 14  thr 1d  sw 2d  HP 16
+DX 10
+IQ  9  Will 10  Per 10  Hearing 12
+HT 13  FP 13
+Magic Resistance 4
+Darkvision
+Broken Common
+Light sensitivity -1 to DX in bright light
+Brawling-10
+Knife-10
+Wrestling-9
+Polearm-13
+Crossbow-12 (some)
+Move 4
+Dodge 7
+scale armor, glaive, crossbow, $5
+glaive (13): 2d+3 cut reach 2,3* or 1d+3 imp reach 1-3*, parry 0U (9)
+crossbow (12) 1d+4 imp, acc 4
+
+2-2
+
+Minus the Pygmy Minotaur
+Brute template
+SM 0
+ST 17  HP 17  thr 1d+1  sw 3d-1
+DX 14
+IQ  8  Per 10  Hearing 12
+HT 15
+DR 4 (skull), DR 2 (tough skin)
+Peripheral Vision
+Striker (1 horn, imp, limited arc: straight ahead, long +1 SM)
+Berserk (resist on 12-), Bad Temper (12)
+Magic Resistance 2
+Move 7
+Dodge 10
+Brawling-14
+Sumo Wrestling-13
+Spear-16
+Two-Handed Axe/Mace-15
+Two-Handed Flail-14
+Flail-14
+Throwing-14
+
+key on chain around neck
+Horn (14) 1d+2 imp reach C,1 parry 10
+Spear  1H (16) 1d+3 imp, reach 1, parry 11
+       2H (16) 1d+4 imp, reach 1,2*, parry 11
+Thrown Spear (14) 1d+4 imp, acc 2
+Flail (14) 3d+3 cr, reach 1,2*, parry 10U
+Great Axe (15) 3d+2 cut, reach 1,2*, parry 10U
+Lantern (14) 1 cr, 25% chance of breakage
+        if it breaks, 1d/s (including damage from burning hay) for 2s
+        DX check to extinguish
+        if target rolls (in hay), fails, hay burns for 2s, heavy smoke for 15s
+        (-2 hit penalty for concealment)
+        Armor protects at 1/5 DR
+
+Peephole: Per+1 to find
+Secret compartment: Per-3 to find.  Iron pot with $80 in silver
+
+2-3
+Door is locked.  Lockpicking-0.  Minus has key.
+There is a 10' wall near each portcullis.  Gap in the middle 30' for ladders.
+DX check to cross beams, or if damaged while crossing.
+    Fail by <= 4 = stop moving, fail by 5 = fall
+3 yards, falling velocity 8, falling damage on B430 (about 1d, armor can
+    only stop 4/5)
+
+Orcs in 2-5 get one listen check (total) per minute (or loud noise) at 12.
+On success, one orc comes to investigate in 10s.
+Once he spots intruders, he calls others, who all show up in ~10s.
+
+Any win on Hook QC causes DX-5 check to avoid falling into pit
+
+Cells A: Commoners: 15 total
+NW: Tery, Ethed, Henrey, Suse
+NE: Brichtru, Nichye, Sabel, Elin (husband Fraffolk in mines), Narder
+W: Hilda, Helrey, Sarry, Mara, Bely
+SE: Gyles
+
+Cell B: Hugin (mercenary, Guard template)
+ST 14
+DX 13
+IQ 10
+HT 12
+Combat Reflexes
+High Pain Threshold
+Overconfidence
+Impulsiveness
+Code of Honor (Soldier's)
+Sense of Duty (companions)
+
+Move 6 (unarmored), 5 (light)
+Dodge 10 (unarmored), 9 (light)
+
+Two-Handed Sword-17
+Brawling-13
+Knife-13
+Wrestling-12
+Crossbow-14
+Fast-Draw (Crossbow)-13
+Armoury (Melee Weapons)-10
+Jumping-12
+Riding-12
+Search-9
+Stealth-12
+Hiking-11
+Survival (Woods)-9
+First Aid-10
+Animal Handling (Horse)-9
+Gambling-9
+Intimidation-9
+
+Mail Armor (DR 4/2 most places)
+Greatsword  (17) 2d+3 cut, reach 1,2, parry 12
+                 1d+2 cr, reach 2
+Crossbow    (14) 1d+4 imp, acc 4
+Large Knife (13) 2d-2 cut reach C,1, 1d imp reach C, parry 8
+Backpack
+50' Rope
+
+Cell C: Sapphira Silverhue
+female elf ranger/druid
+heavy leather armor, silver broadsword, longbow, arrows, potions
+of Minor Healing (1d), Strength (+1d ST for 1 hour, no HP), Paut (4FP)
+
+Cell D: Katanya Glimer
+female gnome wizard(illusion)/thief
+Knows Simple Illusion, Sound, Complex Illusion, Know Illusion, Perfect Illusion,
+    Illusion Disguise, Seek Earth, Light, Colors, Silence, Thunderclap
+Too claustrophobic to function until she gets out and recovers.
+
+Cell A(SE): Lyssa
+
+2-4
+ladders, planks, food/water, trunk with prisoners' gear
+Secret door: Per-6, leads to trapdoor under rubble in fallen tower
+
+2-5 (x2)
+8 total orcs
+6 bills
+2 crossbows, 100 bolts
+(plus the usual flails)
+
+ST 14  thr 1d  sw 2d  HP 16
+DX 10
+IQ  9  Will 10  Per 10  Hearing 12
+HT 13  FP 13
+Magic Resistance 4
+Darkvision
+Light sensitivity -1 to DX in bright light
+Brawling-10
+Knife-10
+Wrestling-9
+Two-Handed Sword-13, Two-Handed Axe/Mace-13, Polearm-13, or Two-Handed Flail-12
+Hook-10 (some)
+Crossbow-12 (some)
+Whip-12 (some)
+Move 4
+Dodge 7
+scale armor, flail, $5
+flail (12): 2d+4 cr, reach 1,2*, parry 9U, -4 to parry, -2 to block
+bill (13): 2d+3 cut reach 2,3* or 1d+3 imp reach 1-3*  parry 9U
+           or 1d-1 cut reach 1-3* hook
+           hook MA74: (10), plus -2 for limb, -5 for head,
+           QC ST to force opponent to knees, or from knees to fall down
+           (-5+reach) for weapon, +2 to QC (weapon skill, DX or ST based) to disarm B401
+           (-4+DB) for shield
+crossbow (12) 1d+4 imp, acc 4
+
+2-6
+secret door Per-2
+ST-1 to open door to 2-9 from secret passage, which knocks over crates and
+causes wandering monster check
+
+2-7
+Goresh, orc ranger
+Scout template
+
+ST 15  thr 1d+1  sw 2d+1  HP 17
+DX 13
+IQ 10  Will 11  Per 14  Hearing 16
+HT 13
+BS 7
+Move 7  Dodge 11
+Heroic Archer
+Outdoorsman 2
+Combat Reflexes
+Fit
+
+Bow-17
+Fast-Draw (Arrow)-14
+Observation-14
+Tracking-16
+Two-Handed Axe/Mace-15
+Climbing-12
+Stealth-12
+Animal Handling (Trollhound)-12
+Jumping-12
+
+Fine Great Axe (15) 2d+5 cut, reach 1,2*, parry 11U
+Composite Bow (17) 1d+4 imp or 1d+4(2) pi (bodkin) Acc 3
+    Bow-3 (14) to ready bow in 0s and attack at -3.  Get Acc bonus without aiming.
+Chain Shirt DR 4/2
+Potion of Endurance  +1d HT/HP for 1 hour
+2 Thunderstones throw up to 7 yards, when hits hard surface creates bang
+3-yard radius, R-HT or deaf for 1 hour
+key
+bearskin cape worth $55
+bearskin rug worth $250
+iron box: Lockpicking-1:  $188, scrimshaw nixie worth $125,
+          box w/ 4 wrapped thunderstones, bottle of dwarven deepwine ($35)
+
+2-8
+IQ check to figure out quick release lever after looking at cages
+4 adult trollhounds
+3 attack, 4th only attacks on Animal Handling-2 (10)
+Steps: +1 MP/hex, DX+4 check to avoid falling while fighting
+
+2-9
+locked, Lockpicking-2
+secret door: Per-2, after moving crates
+
+2-10
+
+Chu-thuk half-orc, Apprentice template
+ST 11  HP 12  thr 1d-1  sw 1d+1
+DX 10
+IQ 13  Will 13  Per 12  Hearing 13
+HT 12  FP 13
+BS 5
+Move 5  Dodge 8
+
+Luck
+Magery 2
+Night Vision 5
+Languages: Orc, Goblin, Common, accented Gnome
+
+Seek Earth-13
+Seek Air-13
+Purify Air-13
+Create Air-13
+Stench-13  Area, base cost 1, anyone breathing it must R-HT or take 1d 1/minute
+Shape Air-13
+Air Jet-13 1-3 FP, 2d knockback/FP  Can be dodged or blocked only
+Wall of Wind-13 Area, base cost 2, missiles -10,
+         those crossing get -3 DX/2d knockback, R-HT or blinded 1s, -3 DX for d6 s
+         starts at radius 1, grows 1/s with concentrate
+Lightning-13 missile, 1-2 FP, 1-2s, 1d-1 per FP  metal armor is only DR 1
+Shocking Touch-13 1-3 FP, 1d+1 per FP, must hit in melee, armor does not protect
+Staff-13
+Innate Attack (bolt)-12
+Innate Attack (jet)-12
+Gemcutting-9
+
+Wizard's Staff (13) 1d+3 cr, reach 1,2  parry 11
+Amulet of Natural Armor (Stoneskin): DR1
+Potion of Invulnerability: DR+3
+
+knocked-over table gives cover
+
+Findle Glimer: male gnome mason / apprentice gemcutter
+chained to north wall (5')
+Can tip bench or attack with gemcutting tool (1 cut)
+Has architecture, dungeoneering skills
+
+4 books: Bali's Fungal Recipes, Gemcutting Techniques by Narvin
+Katanya's spellbook (gnomish): Simple Illusion, Sound, Complex Illusion,
+    Know Illusion, Perfect Illusion, Illusion Disguise, Seek Earth, Light,
+    Colors, Silence, Thunderclap
+Chu-thuk's spellbook (orcish): all his spells except Seek Earth
+Secret compartment in desk: Per-4, $300 worth of cut quartz
+Floor covered with loose rocks: DX+2 to avoid falling when running or fighting
+    $160 worth of quartz mixed in
+
+2-11
+
+Fire Pit: 10' deep, falling damage + 1d fire  DX to put out flames (or can
+      roll on ground if outside pit)
+
+Kaernga readies greataxe, releases trollhound, charges
+4 female orcs (fodder, 11 HP, Move 5 Dodge 8) panic for a few seconds, then attack
+  (with dull knife (10) 1d-2 imp,
+  silver platter (9) 1d-3 cr, thrown silver goblet (9) 1d-4 cr, pillow (9) 0,
+  dump cow on top of anyone in pit 1d+2 cr plus fire)
+
+Armored Trollhound has DR4 (armor), spikes do 1d-2 imp to anyone grappling or
+    slamming, can roll DX-4 (8) to spike anyone in close combat as free attack
+
+Kaernga: Orc barbarian (SM+1)
+ST 19  HP 26   thr 2d-1  sw 3d+1
+DX 12
+IQ  9  Will 10  Per 10  Hearing 12
+HT 14
+BS 6
+Move 7, Dodge 11
+Combat Reflexes
+High Pain Threshold
+
+Two-Handed Axe/Mace-16
+Spear-14
+Thrown Weapon (Spear)-14
+Brawling-12
+Stealth-12
+Wrestling-12
+Running-13
+Animal Handling (Trollhound)-9
+Intimidation-9
+Forced Entry
+Lifting
+Gesture
+First Aid
+
+Heavy Leather Armor w/Fortify+1 + tough skin DR 1  total DR 5
+Cloak of Resistance (+1 to all resist rolls)
+Fine great axe  3d+5 cut reach 1,2* parry 12U
+Spear 1H 2d+1 imp  reach 1*  parry 11
+      2H 2d+2 imp  reach 1,2*  parry 11
+      thrown 2d+2 imp  Acc 2
+Agility Potion +1d DX for 1 hour
+2 keys
+Potion of Gaseous Form (hidden past secret door)
+
+4 silk pillows: $80 total
+silver platter, bowls, goblets: $245 total
+
+find secret door: Per-3
+
+above door in secret room: (Per-4) Potion of Gaseous Form
+Locked (Lockpicking-1) wooden chest in secret room:
+    $254, small metal box w/ 26 cut quartz ($1300 total),
+    leather scroll tube with divine scroll: 2 x Minor Healing, Restoration
+
+2-12
+
+4 orcs with crossbows, might take a while to notice intruders
+2 grab slaves for human shields then fire crossbows
+1 threatens to throw slave into sinkhole unless surrender
+1 runs to 2-13 for reinforcement
+1 pulls rope to summon reinforcements from 2-14
+
+DX+3 check to ride conveyer belt standing up without falling off (1d cr)
+DX check to run down conveyer without falling
+Diplomacy+2 to get slaves to speed/slow/stop belt
+Orcs can Intimidate+2 for same
+
+
+2-13
+
+crate with $85 of uncut rough blue quartz
+search-2 to find secret door
+
+Tarik, Brute Orc
+SM+1
+ST 16  HP 18  thr 1d+1   sw 2d+2
+DX 12
+IQ  9  Will 10  Per 10  Hearing 12
+HT 12
+DR 4/2
+Move 6 Dodge 10
+Combat Reflexes
+High Pain Threshold
+
+Brawling-12
+Wrestling-11
+Two-Handed Sword-15
+Whip-15
+Intimidate-11
+
+Thrusting Greatsword (15) 2d+5 cut reach 1,2, 1d+4 imp reach 2  parry 11
+Whip (15) 2d(0.5)cr, reach 1, parry -2U  B406  disarm: -2 to hit, +2 on disarm QC
+if hit on arm/hand, R-Will (-Shock) to avoid dropping anything in that hand
+
+Mail, whip, thrusting greatsword, key to 2-9
+
+2-14
+
+4 orcs w/ mail armor, flail, whip, crossbow
+
+2-15
+
+Grime the Dust Mephit
+SM-1
+ST 10  HP 13
+DX 14
+IQ 9
+HT 10
+Move 7
+Dodge 13
+DR 3 (except magic)
+Brawling-15
+Claw (15) 1d-2 cut
+Breath weapon (15) 10' cone of irritating particles, 1d-1, R-HT for half,
+only usable every 5s
+Creatures that fail to resist suffer from -2 DX for 3s
+Blur (-5 to hit)
+Wall of Wind (M25)
+Summon Mephit 25% chance 1/day
+Regenerate 1 HP/2s, only arid, dusty environment
+Dark vision
+Combat Reflexes
+
+Search+0 to find shelf
+Climb+0 to reach shelf
+loot in pile of dust/pebbles on shelf: $77, $150 worth of quartz,
+    Ring of Swimming (always on)
+
+2-16
+
+4 orcs w/scale armor, flail, whip  Each leads a separate chain gang of 4.
+
+2-17
+
+Ulrik, duergar guard
+50% chance not in armor
+Uses smokestick, turns invisible, tries to escape
+
+ST 12 HP 12 Lifting ST 14 thr 1d-1 sw 1d+2
+DX 11
+IQ 10 Will 10 Per 10
+HT 14 FP 17
+BS 6
+Move 5
+DR 1 (tough skin)
+Dark Vision
+Immune to Poison
+Magic Resistance 2
+Light sensitivity -1 to DX in bright light
+Speaks Dwarven, Common, Undercommon
+Enlarge-15 1/day, to SM+1  +2 ST, -2 DX
+Invisibility-15 1/day
+
+Brawling-11
+Knife-11
+Sumo Wrestling-10
+Axe/Mace-13
+Crossbow-12
+Stealth-13
+Throwing-10
+Bookkeeping-12
+Detect Lies-11
+Interrogation-11
+
+Fine hammer (13) 1d+5 cr, reach 1, 9U parry
+chain shirt DR 4/2
+crossbow (12) 20 bolts 1d+3 imp, Acc 4
+5 flash pellets: Flash spell, M112  (R-HT to avoid 3s blindness.
+    -3 DX for 1 minute regardless), Bulk -1
+4 smokesticks: Fill 3 hex radius with smoke when lit.  Blocks
+    all vision beyond 2 hexes.  Concealment (-2) within 2 hexes.
+keys (to manacles)
+$600
+$400 in aquamarines
+
+
+Search-4 to find lever
+Search-4 to find secret compartment
+Search-6 to find secret door
+if running down sloping hall, DX+2 to avoid slip/tumble (no damage)
+
+2-18
+
+Bork the Ogre Brute
+
+SM+1
+ST 24  HP 24  thr 2d+1   sw 4d+2
+DX 13
+IQ  7  Will 7  Per 8
+HT 15
+BS 6.75
+Move 7 Dodge 10
+
+DR 2 (tough skin)
+Fearlessness 3
+High Pain Threshold
+Magic Resistance 2
+Night Vision 5
+Speaks Giant
+
+Brawling-13
+Wrestling-12
+Two-Handed Axe/Mace-15
+Intimidation-10
+Climbing-13
+Throwing-12
+
+(maul is out of reach; needs to Move then Ready to get it)
+Maul 4d+6 cr  reach 1,2* parry 10U  weighs 12#
+Punch 2d+2 cr reach C,1  parry 9

@@ -1,0 +1,760 @@
+Whiterock level 7:
+
+Water depth: 2d+3 feet
+Swimming+2 before 7-7, Swimming+0 after 7-7
+
+Underwater combat rules:
+All DX skills capped at Swimming skill while swimming (not standing on bottom)
+attack at -4 per yard of maximum weapon reach
+thrust damage -1 per yard of max reach
+swing damage -1 per die per yard of max reach
+Must make aquabatics roll to retreat without pushing off something
+Swimming: HT-4, +3 if entered water intentionally, - 2x encumbrance level
+Drowning: Lose 1 FP per 5s.  At 0 FP, roll vs. Will each 1s or unconscious.
+1 Swimming roll per 5s if drowning
+Vision -4 roll to spot anything underwater (murky), -6 once combat starts
+     (silt stirred up)
+
+
+Wandering Monsters
+
+7- per half hour
+8- per half hour if very noisy
+
+8- Lurkers above and below
+9-13 Bats swarm
+14+ Slave skiff
+
+Lurker Above (2)
+ST 28  HP   28
+DX 11  Will 10
+IQ  4  Per  14
+HT 13  FP   13
+Speed 6  Move 6 (Fly), 4 (Swim)
+Dodge 10  Parry 9   DR 2(tough skin, only vs. cr)
+SM +3
+Bite-11  Reach C  Damage 3d-2 cr
+Wing Buffet-11 3d-2 cr  Reach C-2
+Constriction: Grapple-13; on subsequent turns, QC ST vs. ST/HT, target damage equal to margin
+Blind Fighting-14 Climbing-12 Stealth-11 Sumo Wresting-13
+Combat Reflexes
+Injury tolerance: no blood, brain, vitals
+Night Vision 5
+
+One attacks the boat.  The other waits for someone to bail out, then ambushes from above.
+
+Bat Swarm (4) B461
+1 hex, size 0
+Move 8, Dodge 11
+Reach C, auto hit, damage 1d cut, armor protects normally
+Diffuse B380 -- imp/pi does 1 HP, others can do 2 HP (incl. shield), area/cone/explosion do full
+Dispersed after 8 HP
+
+Slave skiff
+3 Duergar: 2 fighters, 1 thief
+Listen-11, if they see or hear the party first they turn invisible, then drink potions,
+   then enlarge
+
+Duergar template
+SM 0 (dwarf-sized armor)
+Attribute Modifiers: HT +1
+Secondary Characteristic Modifiers: Basic Move -1, Per +1
+Advantages: Dark Vision; Magery 0, Resistant (Magic, +3 to resistance rolls),
+Resistant (Paralysis, Immunity), Resistant (Poison, Immunity), Silence (+2 vs. hearing)
+Perks: Can intuitively know the depth underground
+Resistant To Knockback 2 (+2 to ST for knockback purposes only)
+Quirks: Racial Spells work on Self (and carried items) only
+Vulnerability to Bright Lights (-3 to all HT rolls to resist the effects of sudden bright lights)
+Racial Spells (14) 1/day: Enlarge (+1 SM, +50% ST, affects carried/worn items), Invisibility (self)
+Speak Undercommon, Dwarvish
+
+Duergar Slavers (2) (Brute template)
+ST 14  HP 14  thr 1d sw 2d
+DX 13  Per  11
+IQ 10  Will 10
+HT 13  FP   13
+BS 6, Move 5
+
+if enlarged, ST 21 HP 21 thr 2d sw 4d-1
+hammer damage 4d+1
+
+Combat Reflexes
+High Pain Threshold
+Brawling-13 Knife-13 Wrestling-12 Axe/Mace-16 Crossbow-14
+Boating-10 Stealth-13 Merchant-10
+Spells: Enlarge, Invisibility
+Dodge-8 Parry-12
+DR 4, 2 vs. cr (mail)
+
+Dwarven Hammer (16) Reach 1, 2d+2 cr, Parry 0
+Crossbow (14) Acc 4, 1d+4 imp
+Strength Potion: $250, +1d ST for 1 hour
+
+Duergar Slaver (1) (Thief template)
+ST 11  HP   13  thr 1d-1 sw 1d+1
+DX 15  Per  14
+IQ 13  Will 13
+HT 12  FP   12
+BS 6.25 Move 6
+if enlarged, ST 15 HP 15 thr 1d+1 sw 2d+1 sword 1d+2 imp / 2d+2 cut
+
+Flexibility
+High Manual Dexterity 1
+Perfect Balance
+Combat Reflexes
+Danger Sense
+Climbing-18 Stealth-18 Escape-16 Traps-14 Lockpicking-14
+Acrobatics-14 Slight of Hand-14
+Shortsword-15 Crossbow-15 Brawling-15 Fast Draw (bolt)-16 Fast Draw (potion)-15
+Boating-13 Merchant-14 Tactics-12 Fast Talk-12 Lip Reading-13
+Spells: Enlarge, Invisibility
+Dodge-9 Parry-11
+DR 3, enchanted heavy leather
+
+Fine Shortsword (15) reach 1 1d-1 imp / 1d+1 cut
+Ornate +2 (mother of pearl) Pistol Crossbow (14) Acc 1, 1d+1 imp or bodkin (2), 1d+1 pi
+3 vials drow poison: R-HT+1 or knocked out for 1-6 hours; repeat 1 minute later
+Invulnerability potion: +3 DR for 1d+1 hours
+Great Healing potion: heals 4d
+
+7-1:
+Derro template
+SM -1
+DX+1 HT+1
+Dark Vision, Striking ST 3 (surprise attack only), Magery 0, Magic Resistance 2
+Madness, Delusion (sane), Weakness (Sunlight)
+Spells: Darkness (M111), Daze (M134), Sound (M171),
+   Thunderclap (M171) (stun if HT roll missed by 5)
+
+Derro (4) (Guard template)
+SM -1
+ST 13   HP   13  thr 1d sw 2d-1
+DX 12   Will 10
+IQ 10   Per  10
+HT 13   FP   13
+BS 6.25 Move 5
+DR 4 (mail, pot helm)
+Dodge 8  Parry 9
+Dark Vision, Striking ST 3 (surprise attack only), Magery 0, Magic Resistance 2
+Madness, Delusion (sane), Weakness (Sunlight)
+Spells: Darkness-11 (M111), Daze-11 (M134), Sound-11 (M171),
+   Thunderclap-11 (M171) (stun if HT roll missed by 5)
+Brawling-12 Wrestling-11 Crossbow-14 Spear-12 Fast-Draw(potion)-12
+Speak Undercommon
+Short Spear (12) Reach 1 1d+1 imp
+Repeating Crossbow (14) 1d+1 imp Acc 1, 10 shots, 1 ready between shots, Malf 14  $500
+15 bolts
+5 Crimson Spore Poison: R-HT or lose 1d DX; R-HT 1 minute later or KO 2d minutes $50 ea.
+2 Alchemist's Fire Direct hit 1d burn/s for 30s or until target rolls on ground,
+   armor DR 1/5 normal OR 2-yard radius fire (1d-1/s) for 30s.
+$11 ea. in copper
+
+Chalmer  (Apprentice template)
+SM -1
+ST 10 HP   11
+DX 12 Will 13
+IQ 13 Per  12
+HT 12 FP   13 ER 3
+thr 1d-2 sw 1d
+BS 6 Move 6
+Dodge 10 Parry 10
+DR 1
+Dark Vision, Striking ST 3 (surprise attack only), Magery 0, Magic Resistance 2
+Madness, Delusion (sane), Weakness (Sunlight)
+Combat Reflexes
+Magery 2
+Spells:
+   Darkness-15 (M111)
+   Daze-15 (M134)
+   Sound-15 (M171),
+   Thunderclap-15 (M171) (stun if HT roll missed by 5)
+   Grease-15 : Per-3 to spot, bad footing (DF16 p38): -2 to attack /
+      DX / Acrobatics / Jumping, -1 to defenses, +1 MP per hex
+   Shocking Touch-15 M196: 1d/FP, metal armor is DR1
+   Acid Jet-15 M192
+   Sleep-15 M135 R-HT
+Innate Attack-15 Shortsword-12 Crossbow-12 Stealth-14 Fast-Talk-14 Boating-12
+Fine shortsword (12)
+Repeating Crossbow (14) id-1 imp Acc 1, 10 shots, 1 ready between shots, Malf 14  $500
+15 bolts
+5 Crimson Spore Poison: R-HT or lose 1d DX; R-HT 1 minute later or KO 2d minutes $50 ea.
+Invulnerability Potion, +3 DR for 2-7 hours  drank it!
+Ironskin Amulet +1 DR (tough skin)
+$21 in copper
+
+7-2:
+Vulgaris, minyad Druid template
+Looks like a Drow with stone gray hair
+ST 13 HP   13  thr 1d-1  sw 1d+1
+DX 12 Will 14
+IQ 14 Per  14
+HT 13 FP   16
+BS 6  Move 6
+Dodge 10
+DR 5
+Appearance: Beautiful, Power Investiture 3 (Druidic), Combat Reflexes
+Vulnerability (Cold Iron x2)
+Languages: Common, Drow, Undercommon
+
+Skills: Rapier-14,
+Spells: Burning Death-15 (M76),
+        Walk Through Earth-15 (M52),
+        Shape Earth-15 (M50)
+        Flesh to Stone-15 (M51)
+        Shapeshifting-15 (M32) (Dire Bat, Dire Badger)
+        Minor Healing-15 Major Healing-15
+        Dispel Magic-15
+        Mystic Mist-15 (M168)
+        Summon Earth Elemental-15
+        Pollen Cloud-15 (M162)
+        Might-15 (M37)
+        Vigor-15 (M37)
+        Paralyze Limb-15 (M40)
+        Total Paralysis-15 (M40)
+        Invisibility-15
+        Missile Shield-15
+        Reverse Missiles-15
+
+Fine Edged Rapier (14) 1d imp Reach 1,2 Parry 11F (+3 on retreat, half penalty for multiple)
+Wand of Summoning (Summons 2-5 small earth elementals, or 1 minor xorn) (5 charges) (broken)
+Potion of Major Healing (2d6)
+Elemental Gems (earth, water) (used)
+
+10 pots of fungus:
+Herb Lore-0 or Naturalist-6 to identify each
+Red and Yellow toadstools: benign
+A. Magenta Toadstools: +4 to First Aid / Medicine for wounds
+Orange Spheres: benign
+B. Yellow Puffballs: Will-2 or very deep sleep for 2 hours, counts as 8 hours
+C. Crimson Shelf Fungus: R-HT or lose 1d DX; R-HT 1 minute later or KO 2d minutes
+Green Fuzzy Shelf Fungus: benign
+Gray Mold Slabs: benign
+Translucent Purple Bracket Fungus: benign
+Bioluminescent White Mushrooms: benign
+D. Orange-Capped Toadstools: HT-2 to gain +2 HT for 6 hours  Failure: sick for 1 hour
+
+Vein of purple crystal worth $5000 but requires miner and 40 man-hours
+   (If just chipped off, 28 fragments worth $5 each)
+Metal book, coded fey, recipe for culturing green slime $500
+gardening tools (shovels, spades, hoes), fungal baskets
+5 bags of powdered minerals on shelves, $25 ea.
+   (iron, lime, muscovite, cinnabar, cassiterite)
+
+Minor Xorn
+SM -1
+ST 16  HP   19  thr 1d+1  sw 2d+2
+DX 10  Will 10
+IQ 10  Per  10
+HT 12  FP   12
+BS 5.5
+Move 5
+Dodge 8
+Darkvision, Tremorsense
+Moves through earth
+360 degree vision
+Talons (cut or imp)
+Sharp Beak: 1d pi+
+Immune to cold and fire
+DR 5, 10 vs. electricity
+vulnerable to crushing, 2x damage
+Brawling-14, Parry 10
+Punch (14): 1d cut or imp, Reach C
+Kick (14): 1d cut or imp, Reach C,1
+Bite (14): 1d pi+  Reach C
+Tactics:Attracted to metal armor.
+
+Small Earth Elemental (M55)
+SM -1
+ST 11  HP 13
+DX  8  Will 6
+IQ  6  Per 6
+HT 10  FP 10
+BS 4.5 Move 4
+Dodge 7 Parry 7
+DR 2
+Punch (8) 1d-1 cr, range C
+Injury tolerance (Homogeneous):
+   1/2 damage from imp, pi++; 1/3 from pi+; 1/5 from pi; 1/10 from pi-
+
+Fine Earth Elemental Swarm (Swarms on B461)
+Flies at Move 4, passes through stone, 1d cut/turn, 8 HP
+Diffuse: 1 HP from imp/pi, 2 from most, full from area/cone/explosion
+         Can swat with shield for 2 HP while attacking with weapon
+
+
+7-3:
+Outside trench is bad footing, DX check (DX-2 in combat) to avoid triggering spore cloud.
+3 yard diameter, HT+0 or lose 1-4 of random (from table) ability, Wis -> IQ
+roll 2d: 2,12 IQ  3-5 ST  6-9 HT  10-11 DX
+
+Earth Elemental
+SM +1
+ST 20  HP   30
+DX 12  Will 10
+IQ 10  Per  10
+HT 14  FP   14
+BS 6.5 Move 6 Dodge 9
+DR 4
+High Pain Threshold, Homogeneous
+   1/2 damage from imp, pi++; 1/3 from pi+; 1/5 from pi; 1/10 from pi-
+Brawling-15 Wrestling-15
+Punch (15) 2d-1 cr, Reach C-1
+
+Greater Water Elemental
+SM 0
+ST 13  HP  13
+DX  8  Will 9
+IQ  9  Per  9
+HT  8  FP   8
+BS  4  Move 4
+Dodge 7 Parry 9
+DR 0
+Beautiful (Universal)
+Slippery 5
+Vulnerability: Dehydration
+Diffuse: imp/pi only do 1, others 2, area/cone/explosion normal
+
+Brawling-11
+Water Slam (11) 1d cr, Reach C
+Greater Create Water -- Can fill trenches with water
+Water Jet (12) (B187) 1d and -3 to combat skills next turn/FP
+As room gets muddy, DX+2 to keep footing, gradually worsening to DX-2
+
+Mudman
+ST 12   HP   12
+DX 10   Will 10
+IQ  3   Per   9
+HT 11   FP   11
+BS 5.25 Move  5
+Dodge 8
+DR 6
+Almost invisible in Mud until they attack  (Vision-5 to see)
+Vulnerable to Dispel Magic, Earth spells
+Engulf (14): Range 3, if hits destroys mudman, causes suffocation (-1 FP/s),
+   10 HP cr to remove
+Mud globs (14):
+   DX+0 or Rooted Feet (half Dodge, -4 to DX checks, -2 to weapon attacks)
+   Half Move even after freed
+   Will+0 to cast spell
+   ST-3 or 10 HP cr to break free in later turns
+   Extra hits add -1 to those checks
+
+See 8-1 for gate
+
+7-4:
+3 14' skiffs (20 HP) w/manacles, 12 20' poles, DR 5 (not against axes), $250, 1000#
+Move: 2 hexes/s with current, 1 hex/s against current
+DR 3, 8 HP to hole skiff (can be plugged), 16 HP can't be plugged
+stone table, chairs, 8 small bedrolls, half-cask of ale, several grimy pewter tankards
+chest: needs 3 lockpick attempts at -4.
+   2nd lock has poison needle trap: Traps-3 to find, Traps-4 to disable,
+      R-HT or sleep 2-12 minutes and lose 1-6 DX for 1 day
+   nothing inside chest
+inside cask: bottle with stopper, paper inside (handout L).  Ale only worth $8.
+Search-4 to find cavity under rock chair with teak box (Folding Boat),
+   Pouch with $325 in silver, 6 small emeralds ($1500 total)
+
+Folding Boat:
+Command words in Undercommon:
+Obta: small sloop (LT142), 10'x4'x2', oars, anchor, mast, lateen sail
+   holds 4 comfortably, 20 HP
+Yag'lel: small brig (LT142) 24'x8'x6',
+   5 sets oars, steering oar, anchor, cabin, mast, square sail
+   holds 15 comfortably 40 HP
+Toax'ob: box 12"x6"x6", 4#   Value: $7200
+
+
+7-5:
+Boating+0 to avoid rocks, or 3d cr to the boat and DX check for each passenger
+If failed, in the water, and must dodge or take 2d+2 cut from rocks
+
+Dry narrow passage sloping up to the right after the first 7-5.
+
+7-6:
+4 Cave Fishers
+Excellent chance of surprise: Stealth-15 vs. Vision-4
+ST 26   HP   26  thr 2d+2  sw 5d
+IQ  3   Will 10
+DX 11   Per  10
+HT 14   FP   14
+SM +1
+Speed 6  Move 3   Dodge 8
+DR 5
+Climb
+Brawling-15  Stealth-15
+Sharp Claws (14) 2d+3 cut
+Filament (15) range 20, hit does 0 damage but is sticky.  Can pull 3 yd/s, 4s
+   to reach top Escape-4 (DX-10) or ST-3 to break free, or 18 HP (or 12
+   cut in one hit) to sever (Damage to filament does not hurt fisher.)
+Climbing-2 to reach cave, 12 yards up
+Cave is difficult terrain, low ceiling
+treasure (buried in debris):
+   $108 in coins
+   Search+0 to find fire opal worth $700
+   Search-6 to find bone Wand of Fireballs (6 charges), like Necklace of Fireballs
+      command word "Sirinth" etched on side in Ignan
+
+7-7:
+boating+0 to move boat around rocks to right, which puts them into Barbshells.
+   Otherwise, boating+0 to avoid rocks, or 3d cr to the boat and DX check for each
+   passenger. If failed, in the water, and must dodge or take 2d+2 cut from rocks
+Barbshells (5)
+SM +1
+ST 14   HP  14
+DX  3   Will 9
+IQ  1   Per  9
+HT 10   FP  10
+Move 1, Dodge 4
+DR 5, or 11 with shell closed
+Resistance 5 to acid, cold, electricity, fire
+Harpoon (13) range 13, 1d+2 imp plus poison R-HT, 1-4 ST, after 60s R-HT, 1-2 ST
+             R-DX or stuck on harpoon.  Requires ready after miss.
+Harpooned creature can be dragged 3 yd/s unless target wins contest of ST
+   Harpoon cord is immune to cr, cut on 12 HP or 6 cut.
+   Damage to cord does not hurt Barbshell.
+Crush (13) range C, 3d cr
+4 pearls, $500 each.
+
+
+7-8:
+Waterfall, boating+0 then boating-1
+One failure: 2d cr to boat, DX+2 to avoid falling overboard
+   If failed, in the water, and must dodge or take 2d+2 cut from rocks
+Two failures: 4d cr to boat, DX-2 to avoid falling overboard, 50% chance
+   boat capsizes unless boating-3 is made to save it.
+   If failed, in the water, and must dodge or take 2d+2 cut from rocks
+
+7-9:
+Vision-2 to detect illusory wall
+
+4 Skum
+ST 18   HP   18
+DX 12   Will 10
+IQ 10   Per  12
+HT 11   FP   11
+BS 5.75 Move 5
+SM 0
+Dodge 8  Parry 9  DR 2
+Claw (12) Reach C, 1d+1 cut
+Rake (10) Reach C,1 1d+2 cut
+Bite (12) Reach C 1d+1 cut
+Amphibious, Dark Vision, Sharp Teeth/Claws
+Brawling-12, Wrestling-12, Observation-11, Stealth-11
+
+1 Barbarian Skum
+ST 25   HP   25  thr 2d+2 sw 5d-1
+DX 15   Will 10
+IQ 10   Per  14
+HT 14   FP   14
+BS 6.5  Move 7
+SM 1
+Dodge 9  Parry 13  DR 4
+Claw (15) Reach C, 2d+1 cut
+Rake (13) Reach C,1 2d+2 cut
+Bite (15) Reach C 2d+1 cut
+Amphibious, Dark Vision, Sharp Teeth/Claws
+High Pain Threshold, Combat Reflexes, Magic Resistance 7
+Observation-11, Stealth-11
+Axe/Mace-17, Brawling-15, Wrestling-14
+Fine Balanced Dwarven Axe w/Accuracy +1, Puissance +1 (19) reach 1, 5d+3 cut
+Rotting heavy leather armor
+
+7-10:
+DX+2 to walk on slimy floor, or slip and slide into water
+Climbing+0 to get back up
+Observation-2 to find underwater passage
+
+3 Skum
+ST 18   HP   18
+DX 12   Will 10
+IQ 10   Per  12
+HT 11   FP   11
+BS 5.75 Move 5
+SM 0
+Dodge 8  Parry 9  DR 2
+Claw (12) Reach C, 1d+1 cut
+Rake (10) Reach C,1 1d+2 cut
+Bite (12) Reach C 1d+1 cut
+Amphibious, Dark Vision, Sharp Teeth/Claws
+Brawling-12, Wrestling-12, Observation-11, Stealth-11
+
+2 Troglodyte Skum
+ST 18   HP   18
+DX 12   Will 10
+IQ 10   Per  12
+HT 11   FP   11
+BS 5.75 Move 5
+SM 0
+Dodge 8  Parry 9  DR 2
+Claw (12) Reach C, 1d+1 cut
+Rake (10) Reach C,1 1d+2 cut
+Bite (12) Reach C 1d+1 cut
+Amphibious, Dark Vision, Sharp Teeth/Claws
+Brawling-12, Wrestling-12, Observation-11, Stealth-11
+Stench: 10 yards, HT+0 or nauseated (B428)
+  Nauseated: -2 to attr/skill rolls, -1 to defenses, roll vs. HT if you
+             eat, exposed to (different) foul odor, fail fright check,
+             or are stunned.  Failure means Retching (B429) for 25-HT s.
+  Retching:  -5 to DX, IQ, Per, can't Concentrate, lose 1 FP after, lose
+             recent food/drink/medicine.
+
+2 Leech Swarms
+1d cut/s (armor protects for 5s then they get inside it)
+   drain 1 HT
+   HT+1 or Nauseated
+   HT+1 or Filth Fever (after 1-3 days, lose 1-3 DX and 1-3 HT)
+Dispersed after 12 HP
+   Diffuse: imp/pi only do 1, others 2, area/cone/explosion normal
+
+Acanthus, Aboleth
+ST 33   HP   33  thr 3d+2 sw 6d
+DX 11   Will 18
+IQ 15   Per  15
+HT 15   FP   15 (with Amulet)
+BS 6.25 Move 1 land / 6 water
+SM +4 (13 hexes)
+Dodge 9  Parry 8  DR 6 (including eyes, Nictitating Membrane)
+Amphibious, Dark Vision, Extra Arms 2, Hard to Kill 2, Telesend,
+Resistant to Metabolic Hazards 3
+Speaks Aboleth, Common, Undercommon
+Wrestling-14, Observation-14, Intimidation-21, Hidden Lore-16,
+   Fast-Talk-15, Artist(Illusion)-15
+Lots of spells.  Deflect Missile etc.
+Bite (11) Reach C, 3d-5 cr
+Tentacle Strike (11) Reach C-3, 3d+1 cr, plus Affliction (aura):
+   If touched on bare skin, HT-3 or skin becomes moist, semi-transparent,
+   victim gains Fragile (Brittle, B136),
+                Unnatural Feature, Weakness (drying out, 1d/5 minutes)
+   Cure Disease will fix it.
+Hypnotic Pattern (18) Psionic Malediction over 4 yard radius.  Though in area who see
+   pattern must R-Will or be stunned (Will to recover)
+Veil of Illusion (18) Malediction on target, - range in yards, Will-3 or affected by
+   Cosmetic Morph to appear as aboleth wishes for 1 minute * margin of failure
+Magical Mirage: Psionic illusion, 16-yard radius, with independence.
+Programmed Illusion, 4-yard radius, can be programmed to respond to stimuli
+Mind Control  10 yard range R-Will-1, -1 per slave already under control.
+   Puppet limitation, Slave Mentality
+Suffocating Mucus: any who touch: HT-3 or breathe water instead of air for 30 min.
+   times margin of failure
+
+Tactics: Stay underwater.  Veil on Skum to appear undead.  Order Skum to attack.
+   Great Haste on self and Skum.
+   Program illusion of roper attacks -- Monster Lore -2 to realize lack of ST damage.
+   Illusion of leaving water.  Actually leave water, go to 7-11, illusion of solid
+   floor.
+
+
+7-11:
+HT+1 every turn or nauseated for 2-5 minutes (unless underwater)
+Floor is 20' deep water, IQ-2 to resist illusion
+
+Derro Skum (Apprentice template)
+SM -1
+ST 15 HP   15
+DX 12 Will 13
+IQ 13 Per  12
+HT 12 FP   13 ER 3
+thr 1d-2 sw 1d
+BS 6 Move 6
+Dodge 10 Parry 10
+DR 1
+Dark Vision, Striking ST 3 (surprise attack only), Magery 0, Magic Resistance 2
+Madness, Delusion (sane), Weakness (Sunlight)
+Combat Reflexes
+Magery 2
+Spells:
+   Darkness-15 (M111)
+   Daze-15 (M134)
+   Sound-15 (M171),
+   Thunderclap-15 (M171) (stun if HT roll missed by 5)
+   Grease-15 : Per-3 to spot, bad footing (DF16 p38): -2 to attack /
+      DX / Acrobatics / Jumping, -1 to defenses, +1 MP per hex
+   Shocking Touch-15 M196: 1d/FP, metal armor is DR1
+   Acid Jet-15 M192
+   Sleep-15 M135 R-HT
+Magical Bolt 1d-2 auto hit, can only be Dodged, ignores DR
+Mucus Globs: Range 3, HT+1 or breathe water instead of air for 30 min.
+   times margin of failure
+Innate Attack-15 Shortsword-12 Crossbow-12 Stealth-14 Fast-Talk-14 Boating-12
+
+2 Leech Swarms
+1d cut/s (armor protects for 5s then they get inside it)
+   drain 1 HT
+   HT+1 or Nauseated
+   HT+1 or Filth Fever (after 1-3 days, lose 1-3 DX and 1-3 HT)
+Dispersed after 12 HP
+   Diffuse: imp/pi only do 1, others 2, area/cone/explosion normal
+
+Huge Leech
+SM +2
+ST 33   HP   33  thr 3d+2 sw 6d
+DX 10   Will 10
+IQ  3   Per   8
+HT 14   FP   14
+BS 5.25 Move (Water) 5
+Aquatic, Dark Vision
+Vulnerable to Salt: 1d per lb.
+Bite: 3d+1 cr, counts as a free grapple, blood drain 1d/turn ignoring DR,
+      HT-3 or filth fever: 1d DX and 1d HT damage after 1-3 days
+
+Treasure: (Search+0 each minute in slimy mess on island)
+Bracers of Force DR 3, Ring of Slow Fall, Fine Balanced Shortsword, 6 bags salt
+(5 lbs each)
+
+7-12
+Acanthus: Invisibility, Grace, Blur, Great Haste
+
+Glyphs: In Aboleth language.  $200 worth of silver and gold, ruining glyphs.
+Or read them to learn the spells.
+Detect Magic, Sound, Armor, Shield, Shrink, Weaken, Blur, Grace, Invisibility,
+Haste, Great Haste, Stench, Charm, Icy Touch, Colors, Sleep, Wizard Lock,
+Continual Flame, Fog, Windstorm, Mirror, Mage Light, Lightning, Slow,
+Wall of Lightning
+
+Treasure: Amulet of HT +1 (golden lion disk on a chain, mundane value $1000),
+Pearl on a gold chain worth $1000
+
+7-13
+Wight Lady (Wight, Cleric template)
+ST 14    HP   14  thr 1d  sw 2d
+DX 13    Will 15
+IQ 14    Per  16
+HT 12    FP   12
+BS 6.25  Move  6
+DR front torso 11, else 4
+
+(2H) Flail (16): (fine, balanced, dwarven, accuracy +2, puissance +2)
+   Reach 1,2*  Parry 0  2d+6 cr  -4 to parry, -2 to block
+Punch (12): 1d-1 crushing plus follow-up 1d-2 FP, 1 DX and 1 IQ. Dealing the
+   follow-up damage triggers the wight's Vampiric Bite, letting it heal 1 HP
+   or 1 FP per s.
+
+Traits: Acute Hearing 3; Acute Vision 3; Appearance (Monstrous; Universal);
+Disturbing Voice; Doesn't Breathe; Doesn't Sleep; Doesn't Eat or Drink;
+Dominance; High Pain Threshold; Immunity to Metabolic Hazards; Immunity (All
+Mind Control); Indomitable; Injury Tolerance (No Blood, Unliving); Dark Vision;
+No Sense of Taste/Smell; Single-Minded; Social Stigma (Dead); Unfazeable;
+Unhealing (Total); Vacuum Support; Vampiric Bite; Undead Telepathy (33 yard
+range)
+
+Aura of Desecration: Undead within 6 hexes (including self) get +1
+   skill/damage/resist.  Turning at -3.
+
+Skills: Two-Handed Flail-13; Brawling-12; Stealth-16.
+
+Spells: Darkness, Fear, Shatter (3d, object HP B558), Disintegrate (4d),
+Summon (5 wights, 1/day)
+
+Notes: Anyone the wight slays becomes a wight himself in 5d seconds, under the
+control of the wight who slayed him. This lasts until the new death of the
+original wight. Wights speak Common.
+
+Treasure: Flail: fine, balanced, dwarven, accuracy +1, puissance +1
+          Breastplate, +1 Fortify, -25% Lighten
+          Ring of Force DR 1
+          Cloak of Resistance +1
+          Boots of Speed: +1 to Move
+          Holy Symbol of Xeluth / Molgrem: skull with sword through eye
+
+
+5 Wights http://gurpswiki.wikidot.com/m:wight
+SM 0
+ST 12    HP   12
+DX 11    Will 11
+IQ 10    Per  12
+HT 10    FP    -
+BS 5.25  Move 5
+Dodge 8  DR 2
+Punch (12): 1d-2 crushing plus follow-up 1d-2 FP, 1 DX and 1 IQ. Dealing the
+follow-up damage triggers the wight's Vampiric Bite, letting it heal 1 HP
+or 1 FP per s.
+
+Traits: Acute Hearing 3; Acute Vision 3; Appearance (Monstrous; Universal);
+Disturbing Voice; Doesn't Breathe; Doesn't Sleep; Doesn't Eat or Drink;
+Dominance; High Pain Threshold; Immunity to Metabolic Hazards; Immunity (All
+Mind Control); Indomitable; Injury Tolerance (No Blood, Unliving); Night Vision
+5; No Sense of Taste/Smell; Single-Minded; Social Stigma (Dead); Unfazeable;
+Unhealing (Total); Vacuum Support; Vampiric Bite.
+Skills: Brawling-12; Stealth-16.
+
+Notes: Anyone the wight slays becomes a wight himself in 5d seconds, under the
+control of the wight who slayed him. This lasts until the new death of the
+original wight. Wights speak Common.
+
+7-14
+Boating-3 to avoid vortex
+If failed, 5 laps before boat goes down
+DX+2 to jump to west ledge, -1 per lap
+If failed by 4 or less, hit ledge, ST+0 to pull up, otherwise in water
+In water: Swimming-2 to swim to ledge, failing by 5 means stuck in current
+
+7-15
+Boating+2 to dock at steps, otherwise swept to 7-14
+Swimming+0 to swim to steps
+
+SM -1
+DX+1 HT+1
+Dark Vision, Striking ST 3 (surprise attack only), Magery 0, Magic Resistance 2
+Madness, Delusion (sane), Weakness (Sunlight)
+Spells: Darkness (M111), Daze (M134), Sound (M171),
+   Thunderclap (M171) (stun if HT roll missed by 5)
+
+Derro (2) (Brute template)
+SM -1
+ST 14 HP   14  thr 1d sw 2d-1  if enlarged, ST 21 HP 21 thr 2d sw 4d-1
+DX 14 Will 10
+IQ 10 Per  10
+HT 13 FP   13
+BS 6.75  Move 5
+DR 4 (mail)
+Dodge 9, Parry 11
+Dark Vision, Striking ST 3 (surprise attack only), Magery 0, Magic Resistance 2
+Combat Reflexes
+Madness, Delusion (sane), Weakness (Sunlight)
+Spells: Darkness-11 (M111), Daze-11 (M134), Sound-11 (M171),
+   Thunderclap-11 (M171) (stun if HT roll missed by 5)
+Brawling-12 Wrestling-11 Crossbow-15 Shortsword-15 Fast-Draw(potion)-14 Fast-Draw(bolt)-14
+Speak Undercommon
+Fine Shortsword (15) Reach 1 1d+1 imp, 2d cut  enlarged: 4d cut
+Repeating Crossbow (15) 1d+1 imp Acc 1, 10 shots, 1 ready between shots, Malf 14  $500
+15 bolts
+5 Crimson Spore Poison: R-HT or lose 1d DX; R-HT 1 minute later or KO 2d minutes $50 ea.
+2 Alchemist's Fire Direct hit 1d burn/s for 30s or until target rolls on ground,
+   armor DR 1/5 normal OR 2-yard radius fire (1d-1/s) for 30s.
+Potion of Resist Fire
+$4 ea. in copper
+
+Nall'loth
+SM -1
+ST 11 HP   11  thr 1d-1 sw 1d+1
+DX 14 Will 12
+IQ 13 Per  12
+HT 13 FP   13
+BS 6.75  Move 6
+DR 2 (Bracers of Force)
+Dodge 10, Parry 11
+Dark Vision, Striking ST 3 (surprise attack only), Magery 0, Magic Resistance 2
+Combat Reflexes, Magery 3
+Madness, Delusion (sane), Weakness (Sunlight)
+Spells: Darkness-11 (M111), Daze-11 (M134), Sound-11 (M171),
+   Thunderclap-11 (M171) (stun if HT roll missed by 5)
+   Acid Jet-15, Grease-15, Fireball-15, Explosive Fireball-15, Daze-15,
+   Detect Magic-15, Flame Jet-15
+Brawling-12 Wrestling-11 Crossbow-15 Shortsword-15 Fast-Draw(potion)-14 Fast-Draw(bolt)-14
+Innate Attack-15
+Speak Undercommon
+Fine Shortsword (15) Reach 1 1d imp, 1d+2 cut
+Repeating Crossbow (15) 1d imp Acc 1, 10 shots, 1 ready between shots, Malf 14  $500
+15 bolts
+5 Crimson Spore Poison: R-HT or lose 1d DX; R-HT 1 minute later or KO 2d minutes $50 ea.
+2 Alchemist's Fire Direct hit 1d burn/s for 30s or until target rolls on ground,
+   armor DR 1/5 normal OR 2-yard radius fire (1d-1/s) for 30s.
+Bracers of Force DR 2
+
+Treasure:
+7 silk pillows, $25 ea.  Silver decanter and goblets, $450.  Pewter incense burner shaped
+like a dragon, $55.  Small box with incense, $110.
+Chest, hidden under blankets and pillows. Lockpicking-5, Nall'loth has key in boot:
+   $780 in coins, 6 gold ingots worth $200 ea., single gray magical boot
+
+7-16: dead end

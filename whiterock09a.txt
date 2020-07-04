@@ -1,0 +1,393 @@
+Whiterock Level 9a
+
+Whole level is a Low Mana Zone
+Per+Magery-3 to notice difference to mana level
+
+
+9A-1:
+If searching walls along stairs, Search-6 to find scuff marks
+History-8 to know about Chartrusa
+Lockpicking-6 to unlock door
+ST-4 to open stuck door
+Per Traps-7 to detect trap
+IQ Traps-5 to disable trap (or just trigger it)
+Trap does 8d cr to area directly in front of door (Dodge-6 to avoid)
+Then slides down stairs, doing 6d cr (Dodge-4 to avoid)
+If jumping off stairs to side of pyramid, Climbing-0 to grab on
+
+
+9A-2:
+
+Vision-2 to see edges of holy symbol
+Theology-4 to know it's Basthetys, minor goddess of felines
+
+Search-5 to see secret door behind lion on west wall
+Search-0 to find secret door under statue on north wall
+Search-6 to find north secret door on east wall
+Search-7 to find south secret door on east wall, Search-3 to find peg holes
+
+Huge clay golem
+SM +3
+ST 33  HP 50  thr 3d+2 sw 6d
+DX 11
+IQ  8
+HT 14
+
+DR 10, 5 vs. cr
+BS 6.25  Move 6
+Dodge 9  Parry 12
+Brawling-18  Sumo Wrestling-18  Axe/Mace-18
+
+SM+2 Fine Dwarven Mace (18): 6d+7 cr, reach 4
+see DF Denizens Barbarians 26
+
+Great Haste (1/day as free action, after fight starts)
+
+Slam for 3d damage, does cursed damage: healing spells at -4, will not heal naturally
+HT-2 or lose 1d HT, remove curse at -4 to fix
+
+Treasure:
+SM+2 Fine Dwarven Mace
+Search-2 of body finds 6" clay urn, containing 6d Explosive Fireball bead
+
+Advantages:
+Doesnât Breathe, Doesnât/Drink/Sleep; Immunity to Metabolic Hazards; Indomitable;
+Injury Tolerance (Homogenous, No Blood); Pressure Support 3;
+Supernatural Durability (Unnatural); Unfazeable; Vacuum Support;
+Immune to most magic
+
+Disadvantages: Cannot Learn; Fragile (Brittle, Unnatural); Hidebound; Incurious
+(6); Low Empathy; No Sense of Humor; Reprogrammable; Slave Mentality; Unhealing
+(Total), Berserk
+
+Traits: Automaton; Body of Stone; Golem.
+
+
+9A-3:
+
+Reverse Gravity trap, triggers 2d seconds after first person steps in area of effect
+60' fall, 4d, large piercing (1.5x) because of spikes
+No Acrobatics roll, because spikes
+Doubled at 20 HP
+if Reverse Gravity is dispelled, another 4d cr
+DR applies, large area injury: average of torso and worst DR affected
+minimum 1/5 of basic damage
+roll hit location to see if something is crippled
+Reverse Gravity, Illusion, Silence, Force Wall, all at caster level 25
+
+Secret door: Search-6
+Lockpicking-10, or Lockpicking-2 if Reverse Gravity is active
+Pit trap: Acrobatics-6 to grab edge
+3d falling damage each time, plus 1d+1 cutting from sharp coins
+Teleport was cast at level 25
+
+treasure: $12552 in sharp coins
+          $1700 in silverware
+          $1500 set of golden lion statues ($200 ea. separately)
+          ornate (+2) spear, $200
+          gold and obsidian crown, $750
+
+Second secret door: Search-5, Lockpicking-6
+Small golden jar (canopic jar of Wisdom)
+mace with roaring lion head (fine balanced dwarven, accuracy +2, puissance +2, thundering)
+Thundering: free Thunderclap spell on every critical hit
+
+
+9A-4:
+
+Sand: bad footing +1 MP/hex, -2 to attacks/DX rolls, -1 to defenses
+
+DX+2 each turn on structure.  Fail = no move, Fail by 4 = fall
+If damaged on structure, DX check to avoid falling.
+
+Desiccated Dire Lions
+SM +2  (5x1)
+ST 25  HP   25   thr 2d+2  sw 5d-1
+DX 15  Will 14
+IQ  4  Per  13
+HT 13
+BS 7  Move 10  Dodge 11
+DR 5
+Stealth-15  Jumping-15  Brawling-18
+
+Claws, Teeth, Dark Vision, Desert Walker, Immune to Fire and Cold, Combat Reflexes
+Fragile (Brittle, Unnatural), Vulnerable to crushing, High Pain Threshold,
+Unfazeable, Immune to Mind Control/Disease/Poison  No eyes/brain/vitals/blood,
+Quadruped
+
+Pounce: slam (2d), +4 to hit (use for Deceptive), must make DX/Jumping roll after
+   to stay on feet, free grapple
+Claw or Bite: 2d+1 cut  Reach C, 1  (target the neck often)
+
+Treasure: small brass urn with 2 small handles on top, hidden inside one lion
+Search-0 to find
+
+
+9A-5:
+
+Lockpicking-4 to unlock door
+Ancient inscription needs Gift of Letters
+Sand: bad footing +1 MP/hex, -2 to attacks/DX rolls, -1 to defenses
+Globe: 8 yards up, SM-2, DR 1, 2 HP   But sand screen adds -8 to hit
+Smash globe: open trap door -> sand vortex
+
+Round   roll to avoid trap   damage in lower chamber
+1-3        DX                   1d-1
+4-8        DX-1                 1d
+9-15       DX-3                 1d+1
+16-20      DX-5                 2d
+
+Once trapped, can try rolling ST-4 for 2 rounds to break free.
+After 2 rounds, fall to lower chamber: 3d plus blinded 2d s
+
+
+Sand Devil
+SM +3
+ST 30  HP   30  thr 3d sw 5d+2
+DX 10  Will 10
+IQ  8  Per  10
+HT 13  FP   13
+Speed 5.75  Move 5
+Dodge 9  Parry 9  DR 5
+
+Dark Vision, Diffuse, Absolute Direction, Doesn't breathe/eat/drink/sleep,
+Homogenous, Immunity to Disease/Poison, Unfazeable, No blood/neck
+Summoned: Unnatural (vanish at -HP)
+
+Quicksand: step on it, or grappled: close on target, ST-3 to escape
+Every round target does not escape, another -1 to ST check.
+After 5 rounds, suffocation begins: -FP/s, at 0 FP, roll Will every s
+or KO.  Further FP damage is also HP damage.  Die in HT/3 minutes
+without air.
+No air for more than HT/5 minutes, R-HT to avoid brain damage -1 IQ
+
+Sand blast: range 10 yards, 6d damage, dodge-2 for half
+
+Sand screen: 3 hexes wide x 1 hex deep by 10 hexes high, anyone within
+must dodge-2 or take 2d damage and be blinded for 1d-1 s.
+-8 to shoot through it
+lasts 16s
+
+Natural state: looks like sand until it attacks
+
+Vulnerabilties: 3+ gallons of water: slowed for 3s
+Some air and earth spells damage it
+Vulnerable to fire
+
+
+After all sand is gone, secret door can be found on Search-2
+
+Treasure:
+golden key: $250
+hundreds of jars (mostly clay, stone, glass, bone)
+Two are magic:
+clay urn (fake magic)
+bronze jar with 5 doses Restorative Ointment (cures poison, disease, or 2d wounds)
+canopic jar: magic but inside stone urn, magic, Search-8 to find
+
+
+9A-6:
+
+Search - 6 to spot slightly different construction (sandstone)
+Wall DR 8, 45 HP
+If noise in 9A-8, Hearing-4 to hear flute music
+
+Pressure plate trap: Traps-6 to find, Traps-5 to disable
+DX-4 to avoid sliding into 9A-8
+
+
+9A-7:
+
+combination lock: Lockpicking -1, -3, -5, -7
+if any fail, must reset (Traps+2) before retrying
+Search-5 to see 4 music notes, +2 if good music skill
+Musical Instrument roll to play 4 notes: opens lock
+
+Vision+2 to notice no cats in heiroglyphics
+IQ-4 or Search-6 to get the gist of the stanza on a pillar
+Climb+2 to climb up boat into melee range
+
+
+Nef'meruti, mummy
+
+Has cover from the boat
+
+ST 20  HP   25  thr 2d-1 sw 3d+2
+DX 13  Will 16
+IQ 14  Per  16
+HT 13  FP   13
+BS  7  Move  7
+
+DR 5
+Dodge 12, Fencing Parry 12
+
+Rapier 2d+1 imp
+
+Dark Vision, Combat Reflexes, Enhanced Dodge, Luck, Bardic Talent 6
+Unkillable 1 (Achilles' Heel: Fire)
+High Pain Threshold, Immunity to Metabolic Hazards,
+Injury Tolerence (No Blood/Brain/Vitals, Unliving), Temperature Tolerance,
+Unliving, Fragile (Combustible)
+
+Song of Command (IQ+Bardic Talent vs. Will to command, -range modifier)
+Song of Humiliation (Singing vs. Will, -1/hex)
+
+Fast-talk-14, Diplomacy-13, Disguise-15, Acting-14, Stealth-16, Intimidation-13,
+Flute-20, Poetry-15, Rapier-16, Brawling-18, Singing-16, Sumo Wrestling-16,
+Acrobatics-16
+
+Tickle-20  R-Will or Seizure (fall down, can't do anything) for 1 minute
+Illusion Disguise-20
+
+Mirror Image: Create 1d+1 images, that mimic her.  Each is dispelled if hit.
+They stay within 3 hexes and mimic her actions.  They keep passing through
+her so if someone figures out which one is real, they get confused.
+
+Despair: once disguise is gone, Will-3 or paralyzed with fear for 1d-1 s
+
+Mummy Rot: on slam, HT-2 or lose 1d HT after 1 minute, then 1 HT/day until
+dead.  Remove Curse -2, then Cure Disease, to fix.
+
+
+Nef'meruti's Pipes of Piercing Pain:
+Requires Magery or Bardic Talent
+Musical Instrument(flute) roll to make wondrous melody.
+All within 10 hexes: R-Will or be fascinated until melody ends.
+(Mental Stun, new resistance roll on possible new threat, broken
+by obvious threat or ally shaking)
+When music stops: intense pain at slightest noise: 1d-1/s for
+1d+1 s.  Damage from other sonic attacks doubled.
+-2 to everything when there's any noise, until Remove Curse
+Can cast 1d Concussion, 2/day, requires Musical Instrument roll
+
+Charithmysis, the bard blade
+rapier: fine, balanced, silver, shatterproof, ornate +3, accuracy +1, puissance +1
+intelligent: IQ 12, 120' vision/hearing, speaks Common, Elven, Sylvan
+mithril runes on blame, guard shaped like music notes, hollow darkwood pommel
+Will introduce itself to any bard who picks it up, and describe abilities.
+User must use blade in all performances, talk it up, and oil/polish/sharpen.
+Any non-bard gets -1 to IQ/DX/skills while holding it.
+Can cast Garble, Sound, Voices 1/day each
+Smite 1/day: +3 to skill and damage
+
+
+Treasure:
+Glass Coffin, $5000, 500#, extremely fragile
+Gold Headdress $550
+Gold loop belt $345
+Five gold bracelets $175 ea.
+
+
+9A-8:
+
+Blade Barrier trap in door, if sliding, 12d cut, Dodge-3 for half
+Provides cover on attacks through it, -4 to hit
+
+
+Anhkhotep, mummy
+ST 18  HP   30  thr 2d-1 sw 3d
+DX 13  Will 16*
+IQ 16  Per  15
+HT 13  FP   13
+BS 6.5 Move  6
+DR 15 (torso) / 10 (other)
+Dodge 10  Parry 14
+
+Magery 6, Dark Vision, Doesn't Eat/Drink/Sleep/Breathe, Indomitable,
+Unfazeable, High Pain Threshold, Immunity to Metabolic Hazards,
+Unkillable 3 (reduced to Unkillable 1 if 3 canopic jars are destroyed),
+Injury Tolerence (No Blood/Brain/Vitals, Unliving), Temperature Tolerance,
+Unliving, Fragile(Combustible), Immune to Cold and Electricity,
++5 Will vs. turning
+
+Staff-18, Disarm-22, Sumo Wrestling-18, Diplomacy-20, Esoteric Medicine-22,
+Theology-16, Animal Handling (Cats)-20, Thaumatology-18
+
+Gaze of Despair: Will-2 or cower in fear / run away for 1d+1 turns, then
+shaken (-2 to all die rolls) for 3d turns
+
+Spells (at 20):
+Force Wall
+Resist Fire
+Command
+Dispel Magic
+Missile Shield
+Reverse Missiles
+Counterspell
+Create Earth
+Earth to Stone
+
+Ring of the Ram:
+force attack, 1-3 charges for 1d-3d slam, range 10 hexes, no range penalties
+vaguely visible: -2 to defend (no penalty if See Invisible)
+
+Python rod:
+Only works for priests of Basthetys
+Fine Quarterstaff, Accuracy +1, Puissance +1
+Thrown on ground, becomes Giant Constrictor with +1 attack/damage
+
+Giant Constrictor
+SM +2
+ST 25   HP   25
+DX 14   Will 12
+IQ  4   Per  11
+HT 12   FP   12
+DR 3
+Dodge 9
+Bite (15) 2d+2 imp, reach C,1
+Grapple (17) +SM difference on attack, ST 27 on grappling, constriction as free action
+Constriction each turn after grapple: QC ST vs. ST/HT, crushing damage equal to margin
+
+Catfall, Cold-Blooded, Constriction Attack, Infravision, Nictitating Membrane 3,
+Subsonic Hearing, Vermiform, Wild Animal
+Climbing-18, Stealth-15, Wrestling-16
+
+
+
+4 Beetle Swarms: As Army Ants.  Move 2G, damage 1d* cut, HP 15
+   (armor protects for 5s then does not)
+
+
+Dire Lion
+SM +2  (5x1)
+ST 25  HP   25   thr 2d+2  sw 5d-1
+DX 15  Will 14
+IQ  4  Per  13
+HT 13
+BS 7  Move 10  Dodge 11
+DR 5
+Stealth-15  Jumping-15  Brawling-18
+
+Claws, Teeth, Dark Vision, Desert Walker, Combat Reflexes,
+Quadruped
+
+Pounce: slam (2d), +4 to hit (use for Deceptive), must make DX/Jumping roll after
+   to stay on feet, free grapple
+Claw or Bite (18): 2d+2 cut  Reach C, 1  (target the neck often)
+
+
+
+Dire Tiger
+SM +2  (5x1)
+ST 27  HP   27   thr 3d-1  sw 5d+1
+DX 15  Will 14
+IQ  4  Per  13
+HT 13
+BS 7  Move 10  Dodge 11
+DR 5
+Stealth-15  Jumping-15  Brawling-20
+Claws, Teeth, Dark Vision, Combat Reflexes, Quadruped; Fangs
+
+Pounce: slam (3d-3), +4 to hit (use for Deceptive), must make DX/Jumping roll after
+   to stay on feet, free grapple
+Claw (20) 2d+2 cut  Reach C, 1  (target the neck often)
+Bite (20) 2d+3 imp  Reach C, 1  (target the neck often)
+
+
+
+Treasure:
+Mask of the Lion: $2000, 11 point power item
+Sarcophagus worth $8000, but weights 2000#
+Segmented Plate Breastplate, Fortify +1
+Amulet of Will +1 (included)
+Ring of the Ram (9 charges) worth $172/charge

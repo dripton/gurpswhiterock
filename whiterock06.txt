@@ -1,0 +1,807 @@
+Whiterock Level 6:
+
+Most ceilings 6' high.
+
+Almost all weapons on this level have mark of crown of knucklebones and
+fangs.  Heraldry-6 or Savoir-Faire-6 or IQ-10 to recognize as Thane
+of Narborg (Duergar)
+
+Naturalist-1 to recognize that tunnels were made by stonebore ants.
+
+Wandering Monsters, every 30 minutes or every combat in 6-1 through 6-9
+on 1d
+1-2 None
+3   50% gray ooze,
+    50% 2 troglodyte thralls and 2 labor rats (rats attack on Animal Handling-4)
+4   3 soldier stonebore ants
+5   2 troglodyte hunters, 1 stalking rat (rat will not attack but will defend itself)
+6   2 miner stonebore ants (which flee)
+
+
+Troglodyte template
+-1 DX
+-1 IQ
++2 HT
+Darkvision
+Light Sensitive (-3 in very bright light)
+Stealth +4
+DR 3
+Sharp Claws (cut damage on punch)
+Sharp Teeth (thr-1 cut on bite)
+Poison Resistance +3
+Disease Resistance +3
+Primitive -1 TL
+Language: Draconic
+Stench: Only in combat.  10 yards, HT+1 (as poison) or nauseated (B428)
+   for 1 minute.
+  Nauseated: -2 to attr/skill rolls, -1 to defenses, roll vs. HT if you
+             eat, exposed to (different) foul odor, fail fright check,
+             or are stunned.  Failure means Retching (B429) for 25-HT s.
+  Retching:  -5 to DX, IQ, Per, can't Concentrate, lose 1 FP after, lose
+             recent food/drink/medicine.
+
+
+Troglodyte Thrall
+ST 10  HP   12   thr 1d-2 sw 1d
+DX 11  Will 10
+IQ  9  Per   9
+HT 14  FP   14
+BS 6   Move 6
+DR 3
+Dodge 9  Parry 10
+Stealth-14 Brawling-14 Animal Handling-13
+Punch (14) 1d-1 cut
+Bite  (14) 1d-1 cut
+Stench
+Tactics: Animal Handling-4 (-5 if rat has been hurt) to make rats attack.
+Flee if both rats are killed.
+
+Labor Rat
+SM 0
+ST 14  HP   12  thr 1d sw 2d
+DX 13  Will 10
+IQ  4  Per  10
+HT 13  FP   13
+BS 6.5 Move 6
+DR 2
+Dodge 9
+Night Vision 5, Scent
+Sharp Teeth
+Brawling-15
+Climbing-15
+Swimming-15
+Bite (15) 1d cut
+Filth Fever R-HT, 1-3 DX and 1-3 HT after 1-3 days  R-poison applies
+
+
+Gray ooze
+Transparent - Vision roll to spot
+SM +1
+ST 20  HP 18  thr 2d-1  sw 3d+2
+DX  1
+IQ  1
+HT 15
+immune to fire, cold, poison, sleep, stun, charm, gaze, illusion
+Move 5
+Dodge 8
+DR 2
+Blindsight
+slam (12) 2d-2 + 1d acid, gets free grapple attempt
+grapple (12) 2d-1 + 1d acid
+armor/clothing must R-HT (12, +1 for fine) or be destroyed
+metal or wood weapon striking ooze must R-HT or be destroyed
+Tactics: Attacks random target if party is fighting.  Lies in wait otherwise.
+
+
+Soldier Stonebore Ant
+SM 0
+ST 16  HP  16  thr 1d+1  sw 2d+2
+DX 10  Will 9
+IQ  3  Per 10
+HT 12  FP  12
+Darkvision
+Sharp Teeth
+DR 3
+Climbing-15
+Tracking-14 (scent)
+Brawling-15
+Bite (15): 1d+3 cut  Reach 0
+dodge 10
+Tactics: Attack nearest, fight to the death
+
+
+Miner Stonebore Ant
+SM 0
+ST 10  HP  10  thr 1d-2  sw 1d
+DX 10  Will 9
+IQ  3  Per 10
+HT 10  FP  10
+Darkvision
+Sharp Teeth
+DR 2
+Climbing-15
+Tracking-14 (scent)
+Bite (10): 1d-3 cr  Reach 0
+Tactics: Flee!
+
+
+Mountain Troglodyte Hunter
+ST 16  HP   16  thr 1d+1  sw 2d+2
+DX 11  Will 10
+IQ  9  Per   9
+HT 14  FP   14
+BS 6.25
+DR 6 (until carapace armor breaks) / 3 (after)
+Move 6  Dodge 9
+Stealth-14
+Brawling-14
+Two-Handed Axe/Mace-14
+Spear-13
+Thrown Spear-14
+Maul (14)  2d+6 cr  Reach 1,2*  Parry 10U
+Javelin (13)  1d+2 imp  Reach 1  Parry 9
+Thrown Javelin (14)  Acc 3  1d+2 imp  Range 24/40
+Punch (14) 1d-1 cut
+Bite  (14) 1d-1 cut
+Blinding Spittle (14) 1/hour 6 hex range, HT+2 or blind for 5s
+Stench
+Tactics: Attack party.
+
+
+Stalking Rat
+SM 0
+ST 14  HP   12  thr 1d sw 2d
+DX 13  Will 10
+IQ  4  Per  10
+HT 13  FP   13
+BS 6.5
+Move 6
+Dodge 9
+DR 1
+Night Vision 5, Scent
+Sharp Teeth
+Brawling-15
+Climbing-15
+Swimming-15
+Bite (15) 1d cut
+Filth Fever R-HT, 1-3 DX and 1-3 HT after 1-3 days  R-poison applies
+Tactics: Does not attack unless attacked first, then defends itself.
+
+
+6-1:
+Listen check will automatically hear hissing laughs and shrill squeaks.
+Listen + 2 check to hear 4-5 laughing voices.
+
+Troglodyte Thralls (4, but one flees at start)
+ST 10  HP   12   thr 1d-2 sw 1d
+DX 11  Will 10
+IQ  9  Per   9
+HT 14  FP   14
+BS 6
+DR 3
+Move 6  Dodge 9
+Stealth-14
+Brawling-14
+Animal Handling-13
+Punch (14) 1d-1 cut
+Bite  (14) 1d-1 cut
+Stench
+Tactics: Animal Handling-4 (-5 if rat has been hurt) to make rats attack.
+Flee if all rats are killed.
+1 has a Thunderstone (R-HT or deaf for 1 hour, 3 yard radius)
+
+
+Guard Rat (3)
+SM 0
+ST 14  HP   13  thr 1d sw 2d
+DX 13  Will 10
+IQ  4  Per  10
+HT 13  FP   13
+BS 6.5
+Move 6
+Dodge 10
+DR 1
+Combat Reflexes
+Night Vision 5, Scent
+Sharp Teeth
+Brawling-15
+Climbing-15
+Swimming-15
+Bite (15) 1d cut
+Filth Fever R-HT, 1-3 DX and 1-3 HT after 1-3 days  R-poison applies
+
+Knotted hemp rope 25' down to 6-2
+Listen +4 to hear weapons and cursing voices from 6-3
+
+
+6-2
+Mountain Troglodyte Hunter (5)
+ST 16  HP   16  thr 1d+1  sw 2d+2
+DX 11  Will 10
+IQ  9  Per   9
+HT 14  FP   14
+BS 6.25
+DR 6 (until carapace armor breaks) / 3 (after)
+Move 6  Dodge 9
+Stealth-14
+Brawling-14
+Two-Handed Axe/Mace-14
+Spear-13
+Thrown Spear-14
+Maul (14)  2d+6 cr  Reach 1,2*  Parry 10U
+Javelin (13)  1d+2 imp  Reach 1  Parry 9
+Thrown Javelin (14)  Acc 3  1d+2 imp  Range 24/40
+Punch (14) 1d-1 cut
+Bite  (14) 1d-1 cut
+Blinding Spittle (14) 1/hour 6 hex range, HT+2 or blind for 5s
+Stench
+Tactics: Hide until attacked or party leaves, then backstab.
+
+
+6-3:
+Gray ooze
+Transparent - Vision roll to spot
+SM 0
+ST 12  HP 14  thr 1d-1 sw 1d+2
+DX  1
+IQ  1
+HT 15
+immune to fire, cold, poison, sleep, stun, charm, gaze, illusion
+Move 5
+Dodge 8
+DR 2
+Blindsight
+slam (12) 1d-2 + 1d acid, gets free grapple attempt
+grapple (12) 1d-1 + 1d acid
+armor/clothing must R-HT (12, +1 for fine) or be destroyed
+metal or wood weapon striking ooze must R-HT or be destroyed
+Tactics: Attacks random target within reach.  Heads toward most food.
+
+Mountain Troglodyte Hunter (2)
+ST 16  HP   16  thr 1d+1  sw 2d+2
+DX 11  Will 10
+IQ  9  Per   9
+HT 14  FP   14
+BS 6.25
+DR 6 (until carapace armor breaks) / 3 (after)
+Move 6  Dodge 9
+Stealth-14
+Brawling-14
+Two-Handed Axe/Mace-14
+Spear-13
+Thrown Spear-14
+Warhammer (14)  2d+5 imp  Reach 1,2*  Parry 10U  Unready after attack.
+Ready maneuver then ST test to free, then ready.
+Javelin (13)  1d+2 imp  Reach 1  Parry 9
+Thrown Javelin (14)  Acc 3  1d+2 imp  Range 24/40
+Punch (14) 1d-1 cut
+Bite  (14) 1d-1 cut
+Blinding Spittle (14) 1/hour 6 hex range, HT+2 or blind for 5s
+Stench
+Tanglefoot bag: (worth $25)
+    On hit, target rolls DX or is rooted to floor.  (If resisted, half move.)
+    ST-1 check, or 15 points of damage with cutting weapon to break free (Half move)
+    Goo evaporates in 10 seconds.
+Tactics: If party attacks ooze, back off and throw javelins at
+    ooze, then attack party when it's dead.  If party attacks them,
+    fight party with javelins, blinding spittle, tanglefoot bags.
+
+
+6-4:
+Vision+1 to see small bell, with inscription in Dwarven.  "Leave me alone"
+
+Collapsing wall trap:
+Traps-4 to detect
+Traps+0 to disable
+attack 16, 5d cr, can be Dodged
+
+6-5:
+Vision +2 to see glint of metal
+then Vision +2 to see steel doorknob
+ST+0 to remove doorknob
+
+Pit trap
+Traps+1 to detect
+Traps-4 to disable
+20' deep, 2d cr, DX+0 to avoid falling in
+
+Falling stone block trap, triggers a minute after pit trap
+Traps-5 to detect (same Traps roll)
+Traps+0 to disable
+attack 13, 4d cr, can be Dodged
+
+
+6-6:
+15' high ceiling
+
+Gunrolz, earth mephit
+SM -1
+ST 14  HP   16  thr 1d sw 2d
+DX 11  Will 11
+IQ 11  Per  11
+HT 13  FP   13
+BS 6
+Move 6
+Dodge 9
+DR 5 (1 vs. magic)
+Flies
+Languages: Common, Draconic, Dwarven, Terran
+Magery 4
+Breath: 5-hex cone of rocks, damage 1d+1, HT-1 for half
+Summon another mephit, 1/day, 25% chance
+Regenerate 2 HP/s
+Spells: Haste-15, Paralyze Limb-14, Iron Arm-15, Deflect-15
+Enlarge 1/day
+Soften Earth, 1/day
+Soften Earth / Ceiling rocks trap: 12 to hit, Dodge, 2x3 hexes, 2d cr
+Magical Bolt: 1d, auto hit, can be dodged, DR doesn't help
+Wears: Bracers of Armor +1, Cloak of Charisma +1, Ring of Counterspell (Magic Bolt)
+Tactics: Drop rocks, use breath, use spells.  Haste then flee at 1/3 HP.
+
+Labor Rat
+SM 0
+ST 14  HP   12  thr 1d sw 2d
+DX 13  Will 10
+IQ  4  Per  10
+HT 13  FP   13
+BS 6.5
+Move 6
+Dodge 9
+DR 1
+Night Vision 5, Scent
+Sharp Teeth
+Brawling-15
+Climbing-15
+Swimming-15
+Bite (15) 1d cut
+Filth Fever R-HT, 1-3 DX and 1-3 HT after 1-3 days  R-poison applies
+Tactics: Only fight if attacked, then fight to death.  ST+2 to break harness
+
+Treasure:
+Search+4 to find $450 in gold, flawed obsidian gem worth $11
+Search+2 to find 2 black pearls, $400 and $500
+Search+0 to find scroll (Mage Light)
+
+
+6-7:
+35' ceiling; A is 20' up; B is 15' up
+Climbing-5 to climb walls
+
+Soldier Stonebore Ant (4)
+SM 0
+ST 14  HP  14  thr 1d  sw 2d
+DX 10  Will 9
+IQ  3  Per 10
+HT 12  FP  12
+Darkvision
+Sharp Teeth
+DR 3
+Climbing-15
+Tracking-14 (scent)
+Brawling-12
+Bite (12): 1d cut  Reach 0
+Tactics: Attack nearest, fight to the death
+
+Queen Stonebore Ant
+SM +1
+ST 14  HP  18  thr 1d  sw 2d
+DX 11  Will 9
+IQ  3  Per 10
+HT 12  FP  12
+Darkvision
+Sharp Teeth
+DR 3
+Climbing-15
+Tracking-14 (scent)
+Brawling-12
+Bite (12): 1d cut  Reach 0
+Sting (12): poison HT-1 or paralyzed 10s
+Alert Pheromone -- summons 3 more soldier ants (1 every 5 s)
+Tactics: Use pheromone, then sting nearest
+
+Treasure: $40, $400 silver gravy bowl, $4000 platinum hairpin with diamonds,
+          Cleric Wand of Sunlight (Area <= 5, 20-1 charges)
+
+Ant Entrance: In their day, the Monks of the Dawning Sun had hidden paths
+throughout the mountain, one of which led to a repository of knowledge, the
+Halls of Forgotten Lore. Although those secret roads are long destroyed by the
+upheavals of Castle Whiterock's turbulent history, the burrowing stonebore ants
+inadvertently uncovered the entrance to the monk's library. In the northwest
+corner of the ant queen's lair is a larva-filled, short tunnel that appears to
+lead nowhere. A Search+0 check of the floor at the tunnel terminus will
+find a 5-foot-deep shaft (obscured by larva, dead ant shells, and slime) that
+opens into the ceiling of a partially collapsed, 8-foot-wide, manmade tunnel.
+Following the tunnel northeast for about 70 feet leads to area 6B-1.
+
+6-8:
+Bat Swarm (3)
+B461
+Move 8
+1d cut, armor protects
+Dispersed after 8 HP
+Diffuse: 1 HP from imp/pi.  2 from most, full from area/cone/explosion
+         Can swat with shield for 2 HP at the same time as a weapon.
+Tactics: Only attack warm-blooded creatures, not ants.
+
+Miner Stonebore Ant (3)
+SM 0
+ST 10  HP  10  thr 1d-2  sw 1d
+DX 10  Will 9
+IQ  3  Per 10
+HT 10  FP  10
+Darkvision
+Sharp Teeth
+DR 2
+Climbing-15
+Tracking-14 (scent)
+Bite (10): 1d-3 cr  Reach 0
+Tactics: Fight to the death
+
+
+6-9:
+Vision +2 to notice flickering firelight
+45' ceiling  A: 30' up  B: 10' up
+Climb -3 to climb or descend walls
+If bypassed, all get Vision and Hearing checks.
+
+
+Mountain Troglodyte Hunter (2)
+ST 16  HP   16  thr 1d+1  sw 2d+2
+DX 11  Will 10
+IQ  9  Per   9
+HT 14  FP   14
+BS 6.25
+DR 6 (until carapace armor breaks) / 3 (after)
+Move 6  Dodge 9
+Stealth-14
+Brawling-14
+Two-Handed Axe/Mace-14
+Spear-13
+Thrown Spear-14
+Glaive (15)  2d+5 cut (re-ready) Reach 2,3*  Parry 10U or 1d+4 imp, 1-3*
+Sling (15)  2d+2 pi  Acc 0  Range 96
+Punch (14) 1d-1 cut
+Bite  (14) 1d-1 cut
+Blinding Spittle (14) 1/hour 6 hex range, HT+2 or blind for 5s
+Stench
+Tactics: Attack party.  Fight to death.
+
+
+Sleshu
+ST 12  HP   14  thr 1d-1 sw 1d+2
+DX 11  Will 12
+IQ 11  Per  12
+HT 14  FP   14
+BS 6.25
+DR 6 (fine heavy leather)
+Move 6  Dodge 11
+Stealth-14
+Brawling-14
+Spear-14
+Thrown Spear-14
+Shield-14
+Spells:
+   Minor Healing-13
+   Fog-13
+Animal Handling-13
+Spear (15) 1d+1 imp, Reach 1,    Parry 12
+   2H (15) 1d+2 imp, Reach 1,2*  Parry 12
+Medium shield, Block 12
+Thrown Spear (15) 1d+2 imp, Acc 2, Range 12/18
+Punch (14) 1d-1 cut
+Bite  (14) 1d-1 cut
+Blinding Spittle (14) 1/hour 6 hex range, HT+2 or blind for 5s
+Stench (unique) Confusion effect (R-HT+1, or must Do Nothing unless directly attacked)
+1: attack Sleshu  2: normal  3-4: babble  4: flee  5: attack nearest
+Tactics: Prod rat to attack.  (Animal Handling-4).  Attack party.  Fight to death.
+Spear of Elweiss: Fine, Balanced, returns if thrown (as Loyal Sword), pearly, Celestial writing
+  If activated: for 10s: Great Haste, +1 DR and +2 Magic Resistance vs. evil,
+     Healing: IQ roll to heal any amount, 1 FP per 2 HP healed; +2 Accuracy, +2 Puissance
+
+Sack contains mushrooms.  Naturalist+1 to identify that some will intoxicate, some will
+   cause shock, and some will cause violent illness.
+
+Stalking Rat
+SM 0
+ST 14  HP   12  thr 1d sw 2d
+DX 13  Will 10
+IQ  4  Per  10
+HT 13  FP   13
+BS 6.5
+Move 6
+Dodge 9
+DR 1
+Night Vision 5, Scent
+Sharp Teeth
+Brawling-15
+Climbing-15
+Swimming-15
+Bite (15) 1d cut
+Filth Fever R-HT, 1-3 DX and 1-3 HT after 1-3 days  R-poison applies
+Tactics: Does not attack unless attacked first, then defends itself.
+
+
+6-10:
+Hearing +2: high-pitched cursing in unknown language from 11
+Hearing +1: command in unknown language, deep croaking from 12
+Hearing -2: "Please, someone save us" from 13
+Hearing -3: heavy footfalls and splashes from 14
+
+Treasure: $600 in silver, $95 in copper, $500 yellow topaz, $120 tourmaline,
+          $9 moss agate, $11 rust-red hematite, $1200 fire opal, $1400 white
+          emerald, $100 in zircons, $1500 in aquamarines,
+          wizard scroll of Rooted Feet, See Secrets, Copy
+          cleric scroll of Shape Earth
+          2 potions of jump +5
+          1 potion of stealth +5
+          Tapestry of an island, with town and mountain, $500 if cleaned
+          drum with jade, $400 (Sorrowsong)
+
+6-11:
+Guard Rat (4)
+SM 0
+ST 14  HP   13  thr 1d sw 2d
+DX 13  Will 10
+IQ  4  Per  10
+HT 13  FP   13
+BS 6.5
+Move 6
+Dodge 10
+DR 1
+Combat Reflexes
+Night Vision 5, Scent
+Sharp Teeth
+Brawling-15
+Climbing-15
+Swimming-15
+Bite (15) 1d cut
+Filth Fever R-HT, 1-3 DX and 1-3 HT after 1-3 days  R-poison applies
+Tactics: Attack nearest opponent, fight to death
+
+
+Young Mountain Troglodyte (8)
+ST 11  HP   11   thr 1d-1 sw 1d+1
+DX 11  Will  7
+IQ  6  Per   7
+HT 14  FP   14
+BS 6
+DR 3
+Move 6  Dodge 9
+Stealth-14
+Brawling-11
+Animal Handling-13
+Punch (14) 1d-1 cut
+Bite  (14) 1d-1 cut
+Stench
+Tactics: Attack nearest opponent, fight to death
+
+Treasure:
+Search +2
+    2 rich purple corundum ($2000 total)
+    $22 in silver
+
+
+6-12:
+Search -3, underwater, to find tunnel to 6A-1
+
+Troglodyte Thrall (2, plus one more from 6-13 in 15s)
+ST 10  HP   12   thr 1d-2 sw 1d
+DX 11  Will 10
+IQ  9  Per   9
+HT 14  FP   14
+BS 6
+DR 3
+Move 6  Dodge 9
+Stealth-14
+Brawling-14
+Animal Handling-13
+Punch (14) 1d-1 cut
+Bite  (14) 1d-1 cut
+Stench
+Tactics: Animal Handling+0 (-1 if he has been hurt) to make Child attack.
+         Otherwise the Children attack him.
+
+
+Children of Bobugbulilz (3)
+SM 0
+ST 15  HP   15  thr 1d+1  sw 2d+1
+DX 10  Will 10
+IQ  5  Per  10
+HT 13  FP   13
+BS 5.75
+Move 5
+Dodge 8
+DR 2
+Vulnerable to Cold, 2x
+Sharp Teeth
+Brawling-16
+Jumping-16
+Wrestling-14
+Bite (16) 1d+1 cut, bleeds for 1 HP/s until magical healing or First Aid
+free grapple attempt on bite
+If bitten while grappled, drain 1 HT
+Jumping attack: Committed Attack
+
+
+6-13:
+Children of Bobugbulilz (3)
+SM 0
+ST 15  HP   15  thr 1d+1  sw 2d+1
+DX 10  Will 10
+IQ  5  Per  10
+HT 13  FP   13
+BS 5.75
+Move 5
+Dodge 8
+DR 2
+Vulnerable to Cold, 2x
+Sharp Teeth
+Brawling-16
+Jumping-16
+Wrestling-14
+Bite (16) 1d+1 cut, bleeds for 1 HP/s until magical healing or First Aid
+free grapple attempt on bite
+If bitten while grappled, drain 1 HT
+Jumping attack: Committed Attack
+tactics: attack a random target, not Jath
+
+Carlia, female human farmer, knows "the big one" blocks the tunnel mouth, Move 7
+Jath, child, Move 4
+Ren, dead eaten husband
+from the village of Grainwand, to the east
+Clem, village elder
+
+
+6-14:
+Hearing +4: heavy footfalls and splashes ahead
+
+Sossank
+SM +1
+ST 25  HP   25  thr 2d+2  sw 5d-1
+DX 12  Will 13
+IQ 11  Per  12
+HT 15  FP   14
+BS 6.75
+DR 5 (1 vs. magic)
+Move 6  Dodge 11
+Combat Reflexes
+Enhanced Dodge 1
+Sharp Claws
+Striker (tongue)
+High Pain Threshold
+Vulnerable to Cold, 2x
+Regenerate 5 HP/s, except cold.
+Limbs regenerate in 3d minutes, or instantly if held to stump
+Power Investiture 3
+Brawling-16
+Swimming-18
+Innate Attack-14
+Ice Sphere-14 (3 FP/turn for 3d/turn)
+Water Breathing-14
+Punch (16) 2d+2 cut
+Tongue (16) 2d+2 cr, plus free grapple attempt
+Blinding Spittle (14) 1/hour 6 hex range, HT+2 or blind for 5s
+Swallow, with grapple attempt against SM-1 or smaller  2d+2 cr, plus 1d+1 acid
+    Cut out with 25 HP damage with cut/pi weapon.
+Stench
+Tactics: Attack until opponent is dead.  Go for most impressive weapon.
+
+
+6A-1:
+Listen +1 to hear Children jumping into water
+
+Children of Bobugbulilz (2)
+SM 0
+ST 15  HP   15  thr 1d+1  sw 2d+1
+DX 10  Will 10
+IQ  5  Per  10
+HT 13  FP   13
+BS 5.75
+Move 5
+Dodge 8
+DR 2
+Vulnerable to Cold, 2x
+Can hold breath a long time
+Sharp Teeth
+Brawling-16
+Jumping-16
+Wrestling-14
+Swimming-18
+Bite (16) 1d+1 cut, bleeds for 1 HP/s until magical healing or First Aid
+free grapple attempt on bite
+If bitten while grappled, drain 1 HT
+Jumping attack: Committed Attack
+
+
+6A-2:
+Climbing +2 to scale wall
+Theology +1 to recognize icons of Bobugbubilz
+First door: Lockpicking -6  Second door: Lockpicking -2
+
+Skeletal Children of Bobugbulilz (2)
+SM 0
+ST 15  HP   15  thr 1d+1  sw 2d+1
+DX 11  Will 12
+IQ  3  Per  10
+HT 13  FP   13
+BS 7
+Move 6
+Dodge 9
+DR 5, except crushing
+Vulnerable to Crushing, x2
+Immune to cold
+Sharp Teeth
+Brawling-16
+Jumping-16
+Wrestling-14
+Swimming-18
+Bite (16) 1d+1 cut, bleeds for 1 HP/s until magical healing or First Aid
+free grapple attempt on bite
+If bitten while grappled, drain 1 HT
+Jumping attack: Committed Attack
+Tactics: Attack closest, and fight until it is dead.
+
+6A-3:
+Secret door Search -6
+bones, clothing, reed doll behind pedestal, Theology+2 to recognize tabard of Justicia
+Theology -6 to recognize sacrificial statue with traps
+Writing at base of statue, Common.  "Profanity is Profound, Whim is Will"
+One search roll for all 3 traps
+Traps -2 for sigil trap, disable Traps -3  R-DX,
+    failure means Force Field plus Suspended Animation for 5 days
+Traps -5 for spear trap, disable Traps -2  Spear-16, 2d+3 imp
+Traps -5 for glyph trap, disable Traps -5, R-Will, Curse: -6 to IQ
+
+6A-4:
+
+Most Bloated Muthren, ghast
+ST 22  HP   17  thr 2d  sw 4d
+DX 15  Will 15
+IQ 12  Per  12
+HT 12  FP   12
+BS 6.75
+Move 6
+Dodge 11
+Combat Reflexes
+High Pain Threshold
+DR 5
+Dark Vision
+Sharp Claws
+Sharp Teeth
+Brawling-14
+Stealth-13
+Two-handed Axe/Mace-15
+Extra-long Scythe (16)  4d+4 cut  Reach 1-2  Parry 12
+             4d+1 imp, Ready to remove, ST check to see if stuck
+Bite (14) Reach C, 1d cut  HT-1 or paralyzed for 1d s (except elves),
+    also HT-1 or Ghoul Fever, 1-3 DX and HT /day after 1 day
+Stench: 3 yards, HT-1 or nauseated (B428)
+  Nauseated: -2 to attr/skill rolls, -1 to defenses, roll vs. HT if you
+             eat, exposed to (different) foul odor, fail fright check,
+             or are stunned.  Failure means Retching (B429) for 25-HT s.
+  Retching: -5 to DX, IQ, Per, can't Concentrate, lose 1 FP after, lose
+             recent food/drink/medicine.
+Tactics: Guard the door, avoiding letting anyone in.
+
+
+Skeleton (6)
+ST 12  HP   14  thr 1d-1  sw 1d+2
+DX 12  Will 10
+IQ  3  Per  10
+HT 10  FP   10
+BS 6.5 Move 5
+Dodge 10
+DR 5 (3 vs. cr)
+Vulnerable to crushing, 2x
+Axe/Mace-14
+Sickle (14) 1d+3 cut, Reach 1, Parry 10
+            1d+3 imp, Reach 1, Parry 10, Ready/ST check after to avoid stuck
+
+treasure:
+Scythe is fine, balanced, dwarven
+Sickles are fine
+Jade holy symbol of Bobugbulilz ($120)
+desk drawer: $700 in gold and silver, $400 in black onyx gems, ring of 5 keys
+
+Search -6: secret compartment in desk, jade box with glass lid worth $1100,
+    containing slime sack of Children eggs

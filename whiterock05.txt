@@ -1,0 +1,502 @@
+Whiterock Level 5:
+
+Underwater rules (mostly from Pyramid 3/26):
+All DX skills capped at Swimming skill while swimming (not standing on bottom)
+attack at -4 per yard of maximum weapon reach
+thrust damage -1 per yard of max reach
+swing damage -1 per die per yard of max reach
+Must make aquabatics roll to retreat without pushing off something
+Swimming: HT-4, +3 if entered water intentionally, - 2x encumbrance level
+Drowning: Lose 1 FP per 5s.  At 0 FP, roll vs. Will each 1s or unconscious.
+1 Swimming roll per 5s if drowning
+Vision: -2 roll to spot anything underwater, more if murky
+Ranged weapons: half damage, 1/10 range, bows and crossbows don't work (unless
+    specially designed)
+Need skill 15 to cast spells (unless you can talk underwater).
+Fire spells don't work.
+Electrical spells work, but with damage at -1 per die, and everyone within a
+    yard of the path from caster to target taking 1 point.
+No talking; must use Gesture or Telepathy
+
+
+Wandering monsters: 6- per uninhabited area,
+                    8- if in open water for > 3 minutes
+1-2 Monstrous Crayfish
+3-4 Syngnathus
+5   Nixies
+6   Hydrohydra
+
+
+Nixies (4)
+SM -1
+ST  7   HP    7   thr 1d-3  sw 1d-2
+DX 13   Will 11
+IQ 11   Per  11
+HT 10   FP   10
+BS 5.75
+Move 5  Dodge 9
+DR 3, 0 vs. cold iron
+Amphibious
+Combat Reflexes
+Night Vision
+Magic Resistance 2, switchable
+Languages: Aquan, Elvish, broken Common
+Charm-16
+Water Breathing-special (1/day, lasts 12 hours)
+Telepathy-15
+Shortsword-15
+Crossbow-15
+Shortsword (15), 1d-3 imp or 1d-2 cut, Reach 1, Parry 11
+Crossbow (15) (1d+1) / 2 imp, Range 14/17  (underwater)
+
+
+
+7-headed Hydrohydra
+SM +2
+ST 21  HP   18   thr 2d   sw 4d-1
+DX 11  Will 12
+IQ  6  Per  12
+HT 12  FP   12
+BS 5.75
+Move 5
+Dodge 9
+DR 2
+Dark Vision
+Combat Reflexes
+Regeneration 3 HP/s (except electrical)
+Vulnerable to electricity, 2x damage
+Peripheral Vision
+Aquatic
+Sharp Teeth
+7 attacks
+Brawling-13
+Bite (13)  2d-1 cut  Reach 3 (long necks)
+12 HP to neck severs; head grows back in 4s unless electrical damage.
+Retreats to guardhouse if attacked with electricity or 3 heads severed.
+
+
+5-1:
+Vision-2 to spot crystal oozes
+
+Crystal Ooze (2)
+SM 0
+ST 12  HP   16
+DX  8  Will 10
+IQ  2  Per  10
+HT 10  FP   10
+BS 4.5
+Move 4  Dodge 7
+Aquatic
+Dark Vision
+Sumo Wrestling-10
+Wrestling-10
+Slam (10) for 3d acid, then free followup grapple attempt and paralysis
+If grappled, -4 DX and automatic 3d acid per second
+(Break free: must win QC of ST)
+HT-1 or paralyzed for 3-18 s
+HT-1 for clothing or wooden weapons to survive attack.  (Most have HT 12).
+
+5-2:
+well lit (3 3# metal rods with permanent continual sunlight overhead)
+
+Giant Predaceous Diving Beetles (4)
+ST 15  HP   15  thr 1d+1  sw 2d+1
+DX 12  Will 10
+IQ  2  Per   9
+HT 13  FP   13
+BS 6.25
+Move 4
+Dodge 7
+DR 3
+Darkvision
+Air bubble
+Fangs
+Bite (12) Reach 0, 1d imp, plus poison R-HT or lose 1-3 DX
+    (heals at 1/day, double with rest)
+Survival (any water terrain) at -2 to harvest bubble
+
+5-3:
+opening trapdoor  Pick lock at -3, defeat Magelock-20, then ST -2 to open
+
+Secret door: Search at -3
+
+5-4:
+Pick lock on stone chest at -4
+Glyph trap: 6d electrical to all within 2 hexes, R-DX for half
+    Search -5, Disable -5
+Outside chest:
+    Lots of weapons: 25 broadswords, 4 greatswords, 11 maces, plus axe/spear/arrow
+    heads.  Rusty but usable.
+In chest:
+    3 full suits of mail (torso+arms, legs, coif) w/ Fortify +1, Lighten -25%
+    Fine, balanced, mirrored, dwarven light small shield w/ Deflect +1,
+        Lighten -25% (total DB 2, 3.375#)
+    2 fine large knives
+    fine balanced mace
+    velvet-lined box (worth $180)
+        12 bodkin arrows with accuracy +1, puissance +1
+ST -4 to push lever down, which floods room and causes weapons to fly around.
+    If still in room after 10s, take 5d cr plus 1-4 attacks (each) from weapons
+    (skill 9, 1d cut)
+
+5-5:
+Vision roll to spot entrance from outside
+Search-2 to find secret door
+Poisoned spear trap: Search-4, Disable -3  Attack (10), 2d+2 imp,
+    R-HT or lose 1-3 DX (heals at 1/day, 2/day with full rest)
+    (roll for surprise to see if target gets to defend)
+Treasure, inside giant clam shell behind secret door:
+    8 white pearls, $100 ea.
+    2 smoky pearls, $200 ea.
+    1 huge black pearl, $2000
+    pouch w/ 15 tiny smooth stones
+    small flash w/ beetle poison
+    2' metal rod
+Treasure, inside eel lair behind stones (must be SM-1 and make Escape -1
+    to find, or spend hours digging through stones):
+    Waterproof pewter scroll tube with emeralds, $2600
+    Contains ???
+
+Trosk, merrow (aquatic ogre)
+SM +1
+ST 19  HP   19  thr 2d-1  sw 3d+1
+DX 12  Will 10
+IQ 10  Per  12
+HT 13  FP   13
+BS 6.25
+Move 5
+Dodge 9
+Combat Reflexes
+High Pain Threshold
+Darkvision
+Amphibious
+Speaks Aquan, Common, Giant
+Ally, summonable
+Weapon Master (Spear, also when used as Staff)
+Grip Mastery (Spear)
+Form Mastery (Spear / Staff)
+Underwater weapon use
+DR 5 (tough skin and heavy eelskin armor with shells)
+Spear-18
+Staff-16
+Fine Long Spear (18) Reach 2-4,  2d+5 imp   Parry 13
+Staff (16) Reach 1-3, 2d+3 cr (thrusting because underwater), Parry 14
+Ring of Resist Lightning
+Tactics: Rapid Strike as Spear (-3 penalty due to WM), then switch to Staff to parry
+
+
+Ang'lis, electric eel
+SM +0
+ST 10  HP   11  thr 1d-2  sw 1d
+DX 13  Will 10
+IQ  3  Per  10
+HT 11  FP   11
+BS 6
+Move 6
+Dodge 10
+Combat Reflexes
+Darkvision
+Immune to Electricity
+Sharp Teeth
+Brawling-15
+Stealth-15
+Bite (15)  Reach C, 1d-2 cut
+Once per hour: shock for 3d+3 within 2 hexes, 2d+2 at 3 hexes,
+    HT+1 for half damage
+
+
+5-6:
+No wandering monsters here.
+south secret door Search-3
+north secret door Search-5 from outside, Search -3 from inside
+Vision roll after 10 minutes watching to see lacedon in 5-8, gargoyle in 5-12,
+    or hydra in 5-11
+
+
+5-7:
+Giant Clam (12)
+Sessile and easily avoided
+ST 20  HP   13  thr 2d-1  sw 3d+2
+DX 10  Will  9
+IQ  1  Per   8
+HT 11  FP   11
+Vision roll to spot pearl
+DX-3 to grab pearl before clam shuts  Failure by 5+ means hand is bitten (can dodge)
+DX to put object in mouth to keep it open
+QC ST to recover object used to pry clam open
+Bite: 2d-2 cr, grapple (QC ST to break free)
+total pearls: 1 cream $400, 2 dusky $200, 6 white $100, 1 black $1000
+
+
+5-8:
+Lacedon (9)
+ST 13  HP   13  thr 1d  sw 2d-1
+DX 12  Will 15
+IQ 10  Per  10
+HT 11  FP   11
+BS 5.75
+Move 5
+Dodge 8
+DR 2
+Dark Vision
+Sharp Claws
+Sharp Teeth
+Brawling-14
+Stealth-13, +4 when hiding under silt
+Turning undead won't work through silt -- Theology or Hidden Lore (Undead) to know
+Claw (14) Reach C, 1d cut, Parry 10, HT+1 or paralyzed for 1d s (except elves)
+Bite (14) Reach C, 1d cut            HT+1 or paralyzed for 1d s (except elves),
+    also HT+1 or Ghoul Fever, 1-3 DX and HT /day after 1 day
+
+Tactics: Lie under dirt, trying for surprise.
+         Stir up dirt to cause -3 vision penalties for everyone.  (-3 to turning)
+         If anyone is paralyzed, kill him rather than switching targets.
+         If turned, bury self and wait for cleric to leave.
+         Do not retreat.
+
+Treasure: $276 in coins, gold brooch worth $200, silver earring worth $60,
+          silver and green quartz belt buckle worth $340
+          (all scattered around, will take an hour to find everything)
+
+5-9:
+wandering monsters 6-, 8- if here for 3 minutes, 9- after 3 minutes with light
+
+5-10:
+Vision +1 to notice bladders on leaves of plants
+Naturalist-4 to realize they're dangerous (defaults to IQ-6)
+
+Giant Bladderworts (4)
+SM +2
+ST 18  HP 13  thr 1d+2  sw 3d
+DX 10
+IQ  1
+HT 10
+Move 0
+attack: Grapple with bladder, Reach 3
+        Grappled target can be enveloped next turn with another grapple
+        Enveloped target takes 1d+1 acid damage per second
+        Break free (win QC of ST), or do 6 cutting (reach C weapon) to cut free.
+If in the Bladderwort's hex, and fail swimming check, it gets 1d attacks.
+
+
+Giant Pike
+SM +1
+ST 18  HP   15  thr 1d+2  sw 3d
+DX 13  Will 10
+IQ  3  Per  10
+HT 12  FP   12
+BS 6.25
+Move 6
+Dodge 9
+DR 3
+Sharp Teeth
+Stealth-14
+Brawling-15
+Bite (15)  1d+3 cut  Reach C, 1
+Tactics: attacks shiniest target (usually the most armor), flees at 1/3 HP
+
+
+5-11:
+Hydra is gone on 7- on 3d
+
+7-headed Hydrohydra
+SM +2
+ST 21  HP   18   thr 2d   sw 4d-1
+DX 11  Will 12
+IQ  6  Per  12
+HT 12  FP   12
+BS 5.75
+Move 5
+Dodge 9
+DR 2
+Dark Vision
+Combat Reflexes
+Regeneration 3 HP/s (except electrical)
+Vulnerable to electricity, 2x damage
+Peripheral Vision
+Aquatic
+Sharp Teeth
+7 attacks
+Brawling-13
+Bite (13)  2d-1 cut  Reach 3 (long necks)
+12 HP to neck severs; head grows back in 4s unless electrical damage.
+Tactics: Stays in gatehouse behind cover, attacking with 3 heads.
+         Pulls back and all-out defends for a few seconds if hurt badly.
+
+Treasure (3 man-hours to dig through it all):
+$7441 in copper coins (weighs 119 lbs.)
+$1288 in silver coins (weighs 1 lb.)
+gold urn $500
+pearl necklace $1020
+corroded copper case with 6 tiny emeralds ($460 once cleaned)
+   inside: fine magic arrow with peacock feather fletching,
+           +1 Acc, +1 Puissance, Penetrating (2)
+fine balanced thrusting greatsword, +1 Acc, +1 Puissance,
+   on critical hit, thunders for 1d+1 sonic damage, R-HT or stunned and
+   deafened
+
+
+5-12:
+Syngnathus, Aquatic Gargoyle
+SM 0
+ST 14  HP   20  thr 1d  sw 2d
+DX 12  Will  8
+IQ  8  Per  12
+HT 12  FP   12
+BS 6
+Move 7
+Dodge 9
+DR 8
+Dark Vision
+Sharp Teeth
+Amphibious
+Languages: Common, Aquan
+Camouflage-16
+Brawling-15
+Can appear as a statue
+Bite (15) 1d+1 cut  Reach C
+Punch (15) 1d+1 cr  Reach C  Parry 10
+
+
+5-13a:
+Vision-3 to spot urchins before 10 hexes
+
+Harpoon Urchins (6)
+SM -2
+ST 6  HP    8   thr 1d-4  sw 1d-3
+DX 8  Will 10
+IQ 2  Per  16 (vibration detection within 10 hexes)
+HT 10 FP   10
+BS 4.5
+Move 0 (very slow)
+Dodge 0
+Immune to fire
+Vulnerable to cold, 2x damage
+Attack: fire spines (14), Range 10, 1d-3 pi- (0.5x wound modifier), plus poison
+    HT+1 or lose 1d ST (heals at 1/day, 2/day with full rest),
+            1 minute later: paralyzed for 5 minutes
+
+
+5-13b:
+
+Ceandril Shimmerscale
+SM -1
+ST 12   HP   12   thr 1d-1  sw 1d+2
+DX 15   Will 11
+IQ 11   Per  11
+HT 11   FP   11
+BS 6.5
+Move 6  Dodge 10
+DR 7, 5 vs. cr, 4 vs. cold iron (torso/arms) ; 3, 0 vs. cold iron (elsewhere)
+Amphibious
+Combat Reflexes
+Night Vision
+Magic Resistance 2, switchable
+Languages: Aquan, Elvish, broken Common
+Charm-16
+Water Breathing-18
+Telepathy-15
+Shortsword-17
+Crossbow-16
+Shortsword (17), 1d imp, Reach 1, Parry 12
+Crossbow (15) (1d+1) / 2 imp, Range 14/17  (underwater)
+
+Fine shortsword, shell mail shirt, crossbow,
+scrimshaw idol of castle with mother of pearl inlay ($600)
+Horn of Fish Summoning (1/day)
+50% fish swarm: chases chosen enemy (then random target if they kill it),
+    Move 5, does 1d cut (auto hit), disperses after it takes 8 HP,
+    half damage from weapons, lasts 1 minute
+50% rainbow fish: swim around caster, like Blur spell, -2 to hit him,
+    lasts 1 minute.  Do not distract caster.
+
+Nixies (6)
+SM -1
+ST  7   HP    7   thr 1d-3  sw 1d-2
+DX 13   Will 11
+IQ 11   Per  11
+HT 10   FP   10
+BS 5.75
+Move 5  Dodge 9
+DR 3, 0 vs. cold iron
+Amphibious
+Combat Reflexes
+Night Vision
+Magic Resistance 2, switchable
+Languages: Aquan, Elvish, broken Common
+Charm-16
+Water Breathing-18
+Telepathy-15
+Shortsword-15
+Crossbow-15
+Shortsword (15), 1d-3 imp or 1d-2 cut, Reach 1, Parry 11
+Crossbow (15) (1d+1) / 2 imp, Range 14/17  (underwater)
+
+Tactics:
+
+Hostile, Diplomacy -8 to make helpful.  +1 to +4 for
+convincing arguments, +5 for proof they helped Nemoura,
++3 for proof they killed crayfish
+
+If they fight, Ceandril tries to summon blur fish then fights
+with shortsword.  Others drop net then use crossbows.  Attack
+those trapped in net to subdue (cr damage).
+
+Net above entrance:
+Attacks with skill 14
+If not dodged, entangled.  (-2 to attacks, half move)
+also 1d-4 cut each second from barbed hooks, unless motionless
+Escape skill (DX-6), or burst with ST-4 check, or cut with 5 HP cutting
+
+
+5-14:
+Vision check vs. Stealth-14 to spot each crayfish
+If failed, Crayfish gets to try for surprise
+
+Monstrous Crayfish (2)
+SM +2
+ST 18  HP 18  thr 1d+2  sw 3d
+DX 10
+IQ  4
+HT 13
+BS 5.75
+Move 5
+Dodge 8
+Constriction Attack
+DR 4
+Stealth-14
+Claw, Reach 2, grapple.  If successful, QC ST vs. ST/HT each subsequent turn,
+margin of victory damage (plus drowning)
+Grappled: -4 to DX, can only use reach C weapons, break free with QC ST,
+   Crayfish gets +5 if using both claws
+Tactics: Grapple, then back into a tunnel.
+         Flee with 7 HP left.
+
+Treasure: shelf has small bones, broken crossbow, torn loincloth,
+    fine balanced shortsword
+
+
+5-15:
+Vision +0 to spot eel holes
+
+Electric eels (5)
+SM +0
+ST 10  HP   11  thr 1d-2  sw 1d
+DX 13  Will 10
+IQ  3  Per  10
+HT 11  FP   11
+BS 6
+Move 6
+Dodge 10
+Combat Reflexes
+Darkvision
+Immune to Electricity
+Sharp Teeth
+Brawling-15
+Stealth-15
+Bite (15)  Reach C, 1d-2 cut
+Once per hour: shock for 3d+3 within 2 hexes, 2d+2 at 3 hexes,
+    HT+1 for half damage
+Tactics: Shock a random intruder near the rocks.  If prey seems
+         stunned or unconscious, come out to feed.  Otherwise hit
+         and run then go back into cover of rocks.  Repeat.

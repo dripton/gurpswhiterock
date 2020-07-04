@@ -1,0 +1,101 @@
+Whole level is high sanctity +2 (for Justicia etc.)
+
+7A-1:
+One-way stone doors.  In at north, out at south.
+Do not swing, just become faintly transparent.
+
+7A-2:
+fine broadsword
+fine flail
+2 fine daggers
+fine greatsword
+fine mace
+3 large shields
+
+
+7A-3:
+Theology+2 to identify statue of Justicia
+Theology+0 to see mercy and righteousess
+
+Basin of Cleansing: can buy off evil disads, losing equal points in HT or HP
+Converts unholy water to water
+Converts 1 gallon water to 1/2 gallon holy water 1/day
+If paladins reunited, converts 1 gallon of holy water to 10 minor healing potions 1/week
+Resurrection, 1/2 cost (gems or coins)  1/week
+
+secret door: Search-6
+
+7A-4:
+2 50' ropes
+6 1 gallon casks of water
+4 1 gallon casks of oil
+pitons
+2 hammers
+18 torches
+6 wooden holy symbols (Justicia, sword and shield)
+4 sacks
+2 backpacks
+3 whetstones
+2 sets traveling clothing
+6 sets monk's clothing
+12 tabards
+camp table for 6
+$300 of pearls
+$400 of diamond dust
+$150 of ruby dust
+$250 miniature sword (platinum, copper, zinc)
+
+
+7A-5:
+locked, Lockpicking-6 to pick, key hanging on hook outside
+Lit by Continual Flame in ceiling
+
+Mohrg
+ST 25   HP  30    thr 2d+2  sw 5d-1
+IQ 11   Per 15
+DX 16
+HT 14
+BS 7.5
+Move 8
+Dodge 13
+SM 0
+DR 5
+
+Enhanced Time Sense (includes Combat Reflexes)
+Extra Attack
+Dark Vision
+Strikers
+Unfazeable
+Undead.  No brain, vitals
+Free grapple after slam
+
+Brawling-18
+Sumo Wrestling-18
+Tongue, HT-2 or paralyzed for 1d4 minutes
+Climbing-18 Stealth-20
+
+
+7A-6:
+locked, Lockpicking-6 to pick, key hanging on hook outside
+candlestick: $100, taking it costs all benefits of basin, rest here
+
+7A-7:
+locked, Lockpicking-6 to pick, key hanging on hook outside
+candlestick: $100, taking it costs all benefits of basin, rest here
+
+7A-8:
+whorled chest: sketchbook (sketches of company), parchment, colored charcoals
+battered iron chest: armor-polishing kit, dwarven whetstone
+gleaming brass chest: book about Theopol family (vampires)
+woven reed chest: 4 woven reed dolls
+music note chest: fine flute, sheet music
+gem-studded chest: letters begging for money (Merchant+2: gems are paste)
+
+7A-9:
+2 everburning torches in walls
+6 niches, 5 sets of bones
+medicine+2: male dwarf, male halfling, female half-elf, 2 male humans
+
+7A-10:
+book "Testimony of the Order's Investigation of Castle Whiterock
+and Efforts to Slay the Wyrm Benthosruthsa"

@@ -1,0 +1,67 @@
+10A-1:
+
+5 bat swarms
+8 HP, diffuse
+Air Move 8
+Damage 1d cut, bleeds 1/turn (total) until healed
+
+Gora-Khan, Hobgoblin Vampire  DFM 58
+SM 0
+ST 25  HP   30
+DX 13  Will 18
+IQ 12  Per  15
+HT 12
+BS 9  Move 9
+Dodge 13  Parry 15   DR 12
+Dark Vision, Combat Reflexes, Enhanced Dodge, Weapon Master, Weapon Bond,
+   Extra Attack 2, Gaseous Form (as Phase for blocking spell), Bat Form,
+   Dire Wolf Form, Summon Bat Swarms, See Invisible, Regeneration 5
+Domination (20)  Gaze, 30' range, R-Will or become his slave for 10 days
+Bite (20)  2d+3 cut, reach C, drains 3 HP, heals 1 HP, maintainable
+Unholy Greatsword (22) 3d+9 cut + 2d6 evil, reach 1-2, 2d+6 imp reach 2,
+   Penetrating
+Greatsword-20 Wrestling-20 Stealth-20 Brawling-20
+Grappling ST 27
+
+Bleak Arena Champion Necklace $900,
+Fine Balanced Unholy Greatsword w/ +1 Acc/Puissance,
+Studded Heavy Leather w/Fortify 2
+
+
+10A-2:
+
+Ghost of Elweiss, in glass-lidded coffin
+Insubstantial
+Telekinesis
+Insists on return of his Spear.  Wants return of Skullcap, Blade, contract.
+
+10A-3:
+
+Statue of Umgoot
+
+10A-4:
+
+Statue of Silent Master
+
+10A-5:
+
+Statue of Fellowship
+
+10A-6:
+
+Elweiss' Sarcophagus
+
+10A-7:
+
+Koborth's Sarcophagus
+
+Secret door: Search-6
+
+Scalemar, Very Fine, Balanced, Ornate (+3) Broadsword
++3 Accuracy, +5 vs. evil dragons
++3 Puissance, +5 vs. evil dragons
+DR 10 vs. breath weapons of evil dragons when held
+Gives Every One's A Critical vs. evil dragons
+Higher Purpose: Kill evil dragons
+Appears to hate Elves.  -1 to all attributes when they pick it up.
+   (Gets better when they put it down.)

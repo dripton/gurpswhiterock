@@ -1,0 +1,252 @@
+Whiterock Level 4A: Clockwork Academy
+
+
+Note: flipped the map 180 degrees so the entrance is west, to match the exit
+from 4-4.  That has the tunnel to DCC 51.5 on the wrong side, but I'm not
+running 51.5.  If needed, just move that tunnel to the west side of
+room 4A-6.
+
+Lit by occasional glowing iron rods, -3 darkness penalty
+Most ceilings only 5'.  -2 DX and defenses
+Walls engraved with gnomish art (pastoral, gophers, etc.), climb at only -4
+Doors are iron.
+
+No wandering monsters
+
+4A-1:
+History-6 (IQ-12) to know about Clockwork Academy
+Savor Faire-4 (IQ-8) or Heraldry-2 (IQ-7) to know logo resembles Silverheel sigil.
+    If made by 2+, know it was the eccentric Ergus Silverheel who introduced device.
+First door: Lockpicking-2
+Right for dormitory, left for assembly hall
+
+Second door is after another illusion wall
+Second door: Lockpicking-2, trap triggered by brute force or failure to pick
+Traps-6 to find or disable.
+9d Illusory Explosive Fireball centered on the door.  Damage is divided
+by 3*range in yards.  DX-1 for half damage.  Will-1 for only 20% damage.
+
+4A-2:
+
+All enemies are hiding, w/Stealth-14, but will attack quickly.
+
+Gnomish Marksman (2)
+SM -1
+ST 10    HP   12   thr 1d-2 sw 1d
+DX 13    Will 10
+IQ  5    Per   9
+HT 10    FP   10
+BS 5.75
+Move 5
+Dodge 9
+DR 3
+Darkvision
+Immunity to fire
+No vitals, etc.
+Stealth-14
+Belly Fire (15) 2d+2 fire damage, 2 hex radius in all directions, not own hex
+    DX+2 for half damage  3 or 2 shots
+One has Dart (15) 1d-2 imp, Acc 1, Range 25/35   18 shots
+One has Tanglefoot bags Range 6, 14 shots (worth $100 ea.)
+    On hit, target rolls DX or is rooted to floor.  (If resisted, half move.)
+    ST-1 check, or 15 points of damage with cutting weapon to break free
+    (Half move).  Goo evaporates in about 10 seconds.
+
+
+Gnomish Lancer (Mark I)
+SM -1
+ST 16  HP   16  thr 1d+1  sw 2d+2
+DX 10  Will 10
+IQ  5  Per   9
+HT 10  FP   10
+BS 5
+Move 5
+DR 3
+Dodge 8
+Darkvision
+Immune to fire
+No vitals, etc.
+Stealth-14
+Lance-16
+Once down 10 HP, gets confused
+    each round  1 - normal,  2-3 dazed, 4 panic, 5-6 attack closest creature
+Lance (16) Reach 1-3 (telescopes instantly), 2d+3 imp
+
+
+Treasure: a bit of gold trim on the constructs ($100 ea.) plus tanglefoot ammo.
+
+
+4A-3:
+Chute is very tight.  Escape-6 (DX-12) for a SM 0 person to get down it.
+Escape-2 (DX-8) for SM-1.  Also Climbing+4 either way -- easy to climb.
+(Failure by 5 means falling into laundry, 1d-4 damage.)
+
+Small Water Elemental (6)
+ST 16  HP   16  thr 1d+1  sw 2d+2
+DX 10  Will 10
+IQ  4  Per  10
+HT 11  FP   11
+BS 5.25
+Move 5
+Dodge 10
+DR 3
+SM 0
+Darkvision
+Vulnerability: 2x damage from dehydration
+Dispel Magic-12 vs. any magical fire touched, auto vs. normal fire
+Sumo Wrestling-16
+Brawling-16
+Slam (16) for (if moving fast) 1d+1, DX roll to avoid knockdown if
+   taking more damage, auto knockdown if taking double damage  B371
+
+Treasure:
+Rust Bag of Tricks (30% Wolverine, 30% Wolf, 25% Boar, 15% Black Bear)
+    Serves for 10 minutes, usable once per week, until killed.
+Gnome-sized Cloak of Elvenkind, +5 to Stealth (vs. sight only)
+Gnome-sized Gloves of Arrow Snaring Deflect Missile, auto-success,
+    twice per day.  Can catch the missile if desired.  Requires a free
+    hand and does not work on huge missles.
+Gnome-sized Cape of the Mountebank.  Dimension Door, once per day.
+
+4A-4:
+
+Bad footing, -1 to Move, -2 to attack, -1 to defend
+
+Animated Pushcart
+SM -1
+ST 10   HP   11
+DX 11   Will  5
+IQ  2   Per   9
+HT 10   FP   10
+BS 5.25
+Move 8
+Dodge 11
+DR  6
+Darkvision
+Slam (11) for (usually) 1d+5  DX roll or knockdown for loser, auto knockdown
+   if taking double damage of foe.  B371
+1d6+4
+
+
+Minor Xorn
+SM +1
+ST 20  HP   25  thr
+DX 10  Will 10
+IQ 10  Per  10
+HT 12  FP   12
+BS 5.5
+Move 5
+Dodge 11
+Darkvision, Tremorsense
+Moves through earth
+360 degree vision
+Talons (cut or imp)
+Sharp Beak: 2d pi+
+Immune to cold and fire
+DR 7, 14 vs. electricity
+vulnerable to crushing, 2x damage
+Brawling-16, Parry 11
+Punch (16): 2d+3 cut or imp, Reach C
+Kick (16): 2d+4 cut or imp, Reach C,1
+Bite (16): 2d+2 pi+  Reach C
+
+Attacks whoever has the heaviest armor.
+Runs away if reduced to 5 hp, and avoids anyone with cr weapon.
+
+
+Treasure:
+Golembane scarab: Concentrate to detect golems within 20 yards,
+    wearers attacks treat golems as DR 0
+6 interesting pieces of metal, 3 lbs. each, worth $130 ea.  (Hard to sell)
+12 non-interesting, worthless.  Roll vs. Merchant or some kind of construct-
+    related skill to tell them apart.
+
+
+4A-5:
+Escape-2 (DX-8) for SM 0 to fit in hatch.  Automatic for SM -1.
+Climbing+4 to climb, or use rope to fix dumbwaiter.
+
+
+4A-6:
+Hearing check to hear clawing and hissing.
+
+Shocker Lizards (3)
+SM -1
+ST 10    HP   12   thr 1d-2 sw 1d
+IQ  3    Will 10
+DX 12    Per  10
+HT 11    FP   11
+BS 6
+Move 6
+Dodge 9
+DR 2
+Darkvision
+Immune to electricity
+Sharp teeth
+Bite (12) 1d-2 cut, range C
+Stunning shock: 2d+2 FP damage, range 2, R DX+1 for half
+Lethal shock: requires 2+ lizards, 2d+2 per lizard, 6 hex radius, R DX+1 for half
+TODO (re-convert, R-DX for half is lame)
+
+Treasure: crowbar, flint and steel, very fine lock (and key), spyglass
+
+
+4A-7:
+Door at end of hall is locked, Lockpicking-2 to open.  Illusory trap, Will-3 or
+   believe there's a magical trap.
+
+c. Table worth $8000 undamaged (hard to sell), but very hard to remove
+
+e. In lockbox, $38 in coins
+
+4A-8:
+
+Treasure: Search +2 to find Scroll of Shrink (gnome) in pillows of a chair.
+
+-4 to find secret door
+opening it without saying motto activates phantasmal killer trap:
+R-Will to disbelieve.  If failed, R-HT or die (remember Luck).
+    3d damage if passed.
+-6 to find or disable trap
+
+4A-9:
+
+Gnomish Lancer Mark II (4)
+SM -1
+ST 18  HP   18  thr 1d+1  sw 2d+2
+DX 10  Will 10
+IQ  5  Per   9
+HT 10  FP   10
+BS 5
+Move 5
+DR 6
+Dodge 10
+Darkvision
+Immune to fire
+No vitals, etc.
+Lance-18
+Lance (18) Reach 1-3 (telescopes instantly), 2d+5 imp
+Can Slam with imp damage and +3, so usually 1d+4 imp B371, B397
+
+
+Animated Table
+SM -1
+ST 10   HP   11   thr 1d-2 sw 1d
+DX 11   Will  5
+IQ  2   Per   9
+HT 10   FP   10
+BS 5.25
+Move 6
+Dodge 9
+DR  3
+Darkvision
+Slam (11) for (usually) 1d-1  DX roll or knockdown for loser, auto knockdown
+   if taking double damage of foe.  B371
+
+
+Hidden Lore (arcana)-6 or forgery-2 to know that scrolls are fake
+Search -2 to find secret door
+History -4 to know the gnome
+
+Treasure: Codex Autonomica, worth $11000, very hard to sell
+A bit of gold trim on the lancers ($100 ea.)

@@ -1,0 +1,49 @@
+Whiterock Level 8A
+
+8A-1:
+TODO
+stats for Hyelnevyuir
+stats for Grisby
+
+
+
+8A-2:
+
+4 Violated Madhorns
+SM 1
+ST 20  HP   20
+DX 13  Will 15
+IQ  6  Per  16
+HT 13  FP   13
+BS 6.5 Move 10
+DR 3
+Dodge 9
+Hoof (15), 2d+2 cr, Reach C
+Horn (18), 2d+5 imp, Reach C,1  Wounds fester (cost double to heal unless Cure Disease)
+Insubstantial, with Affect Substantial
+Negative Energy: everything within 5 hexes takes 4 damage/turn, Will-4 for half,
+    DR does not protect
+Gaze (13), 2 turns to cast.  Range 5, Will-4 or die.
+Hoof (13), 1d negative energy, DR does not protect
+Acute Hearing 2; Acute Vision 2;
+Enhanced Move 1 (Ground Speed 20);
+Peripheral Vision;
+Quadruped;
+Warp (Extra Carrying Capacity, Medium Encumbrance; Limited Use, 1/day;
+   Range Limit, Own woods; Reliable, +10).
+Immune to Poison
+At 50% HP, +2 to ST and DX (+1 to damage)
+At 25% HP, Hasted (+1 to Move, Dodge)
+Area Knowledge (Own woods)-12; Jumping-15; Stealth-14; Survival (Woodlands)-17.
+
+8A-3:
+Vision+0 to note that water does not reflect
+If looking into pool, Will-3 or fascinated
+   If fascinated, Will-3 or held
+   If held, HT-3 or die (fear bonus applies)
+   If held but not killed, nightmares for 1-3 nights.  (2d damage, no sleep)
+Drinking from the pool: HT-1 or fall into unnaturally deep sleep
+   If asleep, HT-2 (cumulative) or die.
+   Success on two saves in a row means waking up.
+   Dispel Magic or Remove Curse at -5 to awaken safely.
+   Awakening unsafely means HT-1 or die
